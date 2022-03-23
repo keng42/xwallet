@@ -1,0 +1,2886 @@
+[
+  {
+    "network": "BTC - Bitcoin",
+    "path": "m/44'/0'/0'/0/0",
+    "address": "1NaFxCzxCJyYK6fP4kn936bSbpxvNTaBe6",
+    "pubkey": "02fb207bd0e7a3dff762a91a70d54fa65674b74aa6bc1e302deffc7bce5163643c",
+    "privkey": "L4t3tg2jB5XvDJ7s3vsprkHX6xdQUPcxkSeYyvAytLjqZhruRRaQ"
+  },
+  {
+    "network": "BTC - Bitcoin",
+    "path": "m/44'/0'/0'/0/1",
+    "address": "1PGw457U2JixNYXZQNbstAc1gyu3vFsrTN",
+    "pubkey": "02b3743319b8be95b65559c6890eec192b70849f5ab6333bc1f82aac2872bee993",
+    "privkey": "Ky4MUH9gVFLeix3nUGfkU5gZ3mirfzz9Hye1QjVMR9sKGUMpHws3"
+  },
+  {
+    "network": "AC - Asiacoin",
+    "path": "m/44'/51'/0'/0/0",
+    "address": "Aa9PdnbL3tyDBi757KuyR9NZcE5aEusDoL",
+    "pubkey": "022f65c0ed33e38e68c4ed25145d0ebc95f162b3cf7195fec90ed4d1827428cae4",
+    "privkey": "PQbS21u78YPVeWFQ7f3azggL6XmSuWuxmEp2jat6VuSszeRKx2sc"
+  },
+  {
+    "network": "AC - Asiacoin",
+    "path": "m/44'/51'/0'/0/1",
+    "address": "AW7ZQCSzFk18SqSZk7fgsCf83TWqzQHTuw",
+    "pubkey": "0252ab17e1138e1993d6f4e636a878f3eaba7b964328aca128a6b01752c651a561",
+    "privkey": "PRpZe6aKPNZQaGoBLevh8hQyj8Qohpvgc4hTbjGgG9jTbkvQ3jq8"
+  },
+  {
+    "network": "ACC - Adcoin",
+    "path": "m/44'/161'/0'/0/0",
+    "address": "AGDar5akBRqEuCSr48Gje1zXVxasquwScW",
+    "pubkey": "03bd6aa69d2773e7349a2b8a3fd64785e8a52d6a94f8011d01e9c1a94c1b727cbb",
+    "privkey": "TBFsddrMrDzyipR6gqWUSmAZpNMoqwp3Q9DjUq8zpPsaXuujGXNo"
+  },
+  {
+    "network": "ACC - Adcoin",
+    "path": "m/44'/161'/0'/0/1",
+    "address": "AVo8RK3x8knD4xq5PLxozRm2uYLh4Uerme",
+    "pubkey": "026f76b204c917ca75952e919217c9b3b82997e80ee7a72a6a3295846cc2318e4d",
+    "privkey": "T4gxpEdxP2T9mweoVn2Ju6A8FXANETEWtJ1yUT3H925gPFKGk8NY"
+  },
+  {
+    "network": "AGM - Argoneum",
+    "path": "m/44'/421'/0'/0/0",
+    "address": "MAxqTJfUs36k5YTHMdc7QhsoHXv6yvXhme",
+    "pubkey": "031d53f1455c902488d5da1de61e48d47def07a909bec197f6ac0eded8df855fd8",
+    "privkey": "VHfeJQuvUhSpMCPqpzb6rGowzCJ6z16HwwG74ro38Gb1jW6Rd7Yr"
+  },
+  {
+    "network": "AGM - Argoneum",
+    "path": "m/44'/421'/0'/0/1",
+    "address": "M88oj9pdgLp73LE7EmeYMR21YX4w1tEK4x",
+    "pubkey": "03ea128157e3daa9b6d26abff07e1bace0a81f831215280d37f1ccf9885f008002",
+    "privkey": "VQF9fHJr16VU9y6ycGERoVE2s1NDmu6LV8DczqZYA6F1kkBxMdRC"
+  },
+  {
+    "network": "ARYA - Aryacoin",
+    "path": "m/44'/357'/0'/0/0",
+    "address": "AGBKJtzsDoz1FeEZFNEPPGNUQdhDeM1CRt",
+    "pubkey": "0322b5eaed5ebe75abfd39acb7548292cc528975b9bc7125ea6926e8ec61267628",
+    "privkey": "PNgACqPVDeucmGBV11A8Nj3GskC1wo1qw1oLwUR9X7GLaPoHkz3c"
+  },
+  {
+    "network": "ARYA - Aryacoin",
+    "path": "m/44'/357'/0'/0/1",
+    "address": "AXsFYAUWe3U3bxzuDfnjisMBZV3CHYM4YF",
+    "pubkey": "024478dcccd25c25165c4d52995cf52a3171ee57b35c7aeda92d95cbc0870ce4ac",
+    "privkey": "PMSUwwFmNbGsx1U7SmFRjaXfU6FvqxD9fZCuryz8zs415LTpYaje"
+  },
+  {
+    "network": "ATOM - Cosmos Hub",
+    "path": "m/44'/118'/0'/0/0",
+    "address": "cosmos187ls3x4ezwcm29z0azpqqun7edazvklkfhd00r",
+    "pubkey": "cosmospub1addwnpepqwypzcccaljgwk7ppkns5cucrtt2wtcu2tmz9glyftd5nl6lyl6gwtj92fs",
+    "privkey": "Uf2tFd+Wv8LGVuXjhkvyfqL1+yDla1PSEOVhGlLRrKQ="
+  },
+  {
+    "network": "ATOM - Cosmos Hub",
+    "path": "m/44'/118'/0'/0/1",
+    "address": "cosmos1gep0f93v2zf2j04g6pemzze8esh6s8gtszg3n9",
+    "pubkey": "cosmospub1addwnpepqg20rlk9mudmstfrmsntvfmx4qsvvsfmznln5ekwlpzlk88znmst5pg8u72",
+    "privkey": "YRdGKfAxDjY/f7eK0yQswG/23G1qv7Ok982mDi2HlxM="
+  },
+  {
+    "network": "AUR - Auroracoin",
+    "path": "m/44'/85'/0'/0/0",
+    "address": "AMhUuSRkKLxTU5oEncRL8hgSVLhuTALie1",
+    "pubkey": "035e03dacf498408277ad895abc8d02751f455022970df8863c90378fcab0b87ed",
+    "privkey": "PUDd2eobNs4REFGgsU9grf9y5NQbNLiX6DWYyvi7t9UrRNKE4Gyi"
+  },
+  {
+    "network": "AUR - Auroracoin",
+    "path": "m/44'/85'/0'/0/1",
+    "address": "AJ51Mp91H7fwi4nP6KHrgqeKDRMveDT5pu",
+    "pubkey": "02b8dff308c6d6fd96c4ab03e63c5a31b86d9b8dc0dbd443f8759f82269a7c334b",
+    "privkey": "PPFB7yQeqiQGBHKkfMxx9GerzzyEc9CWBh6u2FTXBSZmQKSAS4ji"
+  },
+  {
+    "network": "AXE - Axe",
+    "path": "m/44'/4242'/0'/0/0",
+    "address": "PW6XdL8GmABvLELj8pfi9ZJJFvyBz68E7x",
+    "pubkey": "03740373cde282c42e86671ddcca9b50513a0025fd826ca67a0c5c57589a477386",
+    "privkey": "XDvWNmiXRacDfaKuPcjKK1TUo7vhykuvHDPG2CSrJLz5S6jKbZhq"
+  },
+  {
+    "network": "AXE - Axe",
+    "path": "m/44'/4242'/0'/0/1",
+    "address": "PSLmfMNsmdWWtuu8DnhBZhDRmKHcoDuXqR",
+    "pubkey": "03eef91fd4e47fe46e30089e4ce193020d11f475be2c382362ce000ab629ac4d7e",
+    "privkey": "XJQrPeVUKJKKmV6gQWu8AeK7qXXncR2KVkDFdRTFfWyAgdHbgH2K"
+  },
+  {
+    "network": "ANON - ANON",
+    "path": "m/44'/220'/0'/0/0",
+    "address": "AnSAecgwrP95FR3U3YLMWS7WGoj5EhcsYoU",
+    "pubkey": "02603cbb828093bb5163b15f7954257f6516fd05d32daeb8eb25237a2e231284c3",
+    "privkey": "KwzxHcdrRVdytkQm6pn5FccZWoXd45KzjbreVpCqpRkpT61nRdNi"
+  },
+  {
+    "network": "ANON - ANON",
+    "path": "m/44'/220'/0'/0/1",
+    "address": "Ana5rteYbkMQ4o9m8K2N5PEYxxR2MNgVEjc",
+    "pubkey": "03300938a98d18c8e59e329250f0e180e791ace6e56a1e16293211b3b19a1db16e",
+    "privkey": "Kxm2mWmo1kcM43kGXNmKvnRpHixJ3kE3VuowagE3eaGn6HAhWSo7"
+  },
+  {
+    "network": "BOLI - Bolivarcoin",
+    "path": "m/44'/278'/0'/0/0",
+    "address": "bNHcANY34aYkiaafxnGX8WVaHAQiQgmebe",
+    "pubkey": "0227c9cb388068b48f41f741b3c354e4692cd8e0fc5e83e059d6835ed815849767",
+    "privkey": "Yb5yDaTw1yWXREGPoAtvJ2aVJBunoF4Q4gvHN1WpufPnfKS4SoFQ"
+  },
+  {
+    "network": "BOLI - Bolivarcoin",
+    "path": "m/44'/278'/0'/0/1",
+    "address": "bbNZ7BHRUH4sbHpCgGy5AReTnsuAZwPAFk",
+    "pubkey": "02087487fa4b490d5aac7c65632744b03941eb135cbb0ee2891815e15cbeab45bd",
+    "privkey": "YZQmhsp7u79jrP3v9xgLuz2w5E5w3YgughwWTVFXQXw3C1L1n15k"
+  },
+  {
+    "network": "BCA - Bitcoin Atom",
+    "path": "m/44'/185'/0'/0/0",
+    "address": "Abc9cq5ABGz4FKqLLNAw5nv8pFfsuKP5kH",
+    "pubkey": "02ebc820ee8cc1b816a93031bf804c5d05b1f1bae94892cbfb63fcd6b80ffb118d",
+    "privkey": "L5XqKay5cUvcZz19bnhzeuRNssQr4XAr1aronvkyQi6kAkgHiYds"
+  },
+  {
+    "network": "BCA - Bitcoin Atom",
+    "path": "m/44'/185'/0'/0/1",
+    "address": "AMVyf9d2TfwNM3rBh4GnA15PhYFxVvFCqa",
+    "pubkey": "0331108201f6164cf9b3abd6830b26543e2fa227bcc17f8ae7fc44b52502318264",
+    "privkey": "KxZL1zvX3JDr5uzCNwijigsNRCxuVYyscpisS9B96aZKzecqLwdd"
+  },
+  {
+    "network": "BEET - Beetlecoin",
+    "path": "m/44'/800'/0'/0/0",
+    "address": "BouBqFd8wPncmD8sjifxaYNztU8uu9t6WP",
+    "pubkey": "03a1b393a8d777a030bd512936b087da048da15f206cabedeeba65575c40eeaa76",
+    "privkey": "PhpuYC4WQujdKogvyr5XtefQoWZhAX5KvSwH2E5GSR3QKxsvDBNd"
+  },
+  {
+    "network": "BEET - Beetlecoin",
+    "path": "m/44'/800'/0'/0/1",
+    "address": "BX9iiPFrDZ3pps96CACGmKbwC818RbMWNH",
+    "pubkey": "02d2f49a52c1679b46036e727a9302ef2197caa546b62b8ee722e63970373953f3",
+    "privkey": "PhkRv2sCJSzrX6wajLVzmsZKXmC2Bvjfdu8W7rDSdcYezs3RK2kX"
+  },
+  {
+    "network": "BELA - Belacoin",
+    "path": "m/44'/73'/0'/0/0",
+    "address": "B7zmDBSc3Spu6aQFnCzL7QeNN8Kgkb1Jen",
+    "pubkey": "03c96a91105c7e91ba0afc98fbb8509d1e1998c353fdc58e840cb5dd2b8e57c84d",
+    "privkey": "PmwFycCewAMmAkrtKQ2jWnKcR6UfzWWMWVRnxSo2e2Ux3CDrfR9o"
+  },
+  {
+    "network": "BELA - Belacoin",
+    "path": "m/44'/73'/0'/0/1",
+    "address": "B8ABsRDcmLxKP8JMkJxq6pcQFNwsduW2PG",
+    "pubkey": "0229eccf148f072d110bd217fe631feeff27a5668833094959738352c565a9aa5b",
+    "privkey": "PjTyJFPpRBTQQmUymL2gioerWtcwv7DZQWudfELTavwfgubJAD38"
+  },
+  {
+    "network": "BLK - BlackCoin",
+    "path": "m/44'/10'/0'/0/0",
+    "address": "B4VXj7gaMEpqX8hsKBAqF7UicUfXXCzaLS",
+    "pubkey": "025422db0c53ee3271a1dcc2f9f3840d421aef0a9ca4469f3f291254851756e33e",
+    "privkey": "PmiKT39qai6AqN1gEeWxMVCVGtT1V9doU6GSMDph4rUfeFz2y2t9"
+  },
+  {
+    "network": "BLK - BlackCoin",
+    "path": "m/44'/10'/0'/0/1",
+    "address": "BFJTvUbLrsVL2rqZN7vv4Zgb5s4LpTnY51",
+    "pubkey": "021592f599f1f59bd2146e6a4b42b3250a8ee8345cab5af0330a4f2a833f3ae3a1",
+    "privkey": "PgnE6ATRoeaTYadoRCLWRQpouMgoCa1bzPuiGTxgKhSXWn2ok14b"
+  },
+  {
+    "network": "BND - Blocknode",
+    "path": "m/44'/2941'/0'/0/0",
+    "address": "BJDiJnxNy5RMW2wCV3YK5rxEbqQvHqYv1u",
+    "pubkey": "028ed66b1f455270ba82e367fc1fff556e98d9436f5bf2c9e2166d2c6719267155",
+    "privkey": "C758898b2QXpDcdkpPCKndxcawZvVivutcp8bXop7g6AMAVg4gTu"
+  },
+  {
+    "network": "BND - Blocknode",
+    "path": "m/44'/2941'/0'/0/1",
+    "address": "BPBJE6GQEaWt31ahRUPDbGJcHx9QJv2Ftc",
+    "pubkey": "0328c07f1a6bdb3f54770ccef812cc883c4e8876524d88a2668c8bbf8687be065e",
+    "privkey": "C7BhxLBvqiWZBYGE3UkwqrtNWU6qKHXs7XqGagnf294vhiDtUvP7"
+  },
+  {
+    "network": "tBND - Blocknode Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "bTffqNrES5seYrtZZaVxoVxPdTbqyVSDdB",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "MJtJyK3zyMGp8GuJc2AkuAjgA4QBY8Pv5w3LfMuJKKiM47muoJiQ"
+  },
+  {
+    "network": "tBND - Blocknode Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "bUSmLzDZAzkrvpWcLdpBZ7kZJDDo6vKsi6",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "MKLbDc4mAvwsZARcqYTqN8uUAEJika4TRkysdkqYPekS5skNDLpM"
+  },
+  {
+    "network": "BRIT - Britcoin",
+    "path": "m/44'/70'/0'/0/0",
+    "address": "BEVWECM4JzMhTc5UrLKeYdxx6SqQ8MXo3F",
+    "pubkey": "0265c76f4a7c5c805a41b911f8d0d4d7456c3b6c5ff65bc19cfd78699dd2429adb",
+    "privkey": "Pg5o5YEqktZRS2Njd49brqmUMHrjDWZbEq43DkiGeKEN2Rh4FF7j"
+  },
+  {
+    "network": "BRIT - Britcoin",
+    "path": "m/44'/70'/0'/0/1",
+    "address": "BRWBnaac9yfz8CjoCZyrsMbrwFXmbWKuNe",
+    "pubkey": "033dcb17840bf2ec1bb659009a7b6a3243e01af0ff2d1012c04f692aec2ecc1ce7",
+    "privkey": "PfJ9SyJZRsHGuNCygaW5mGzuYxWkbpUC8qCn3Mit5SEbr5pfZeQA"
+  },
+  {
+    "network": "BSD - Bitsend",
+    "path": "m/44'/91'/0'/0/0",
+    "address": "iAuU7D3jATjRy6a19ZY6c4nWupRVXy6w6B",
+    "pubkey": "03ddc3ba2472fe480e7f1ded95efd7a967e412393cd223722e0d2304ab850d851d",
+    "privkey": "XGrLX9GR9PS5eCQMpFwf2155KRbz8BtQHbGgYFUnSWVfWxzMQXR2"
+  },
+  {
+    "network": "BSD - Bitsend",
+    "path": "m/44'/91'/0'/0/1",
+    "address": "i6kZ92qzW6TUurskG2yNc8gAdr2qjT3nmb",
+    "pubkey": "02e41377650181b5c1e3b35e25fe8442ed7ef27f2d5cdcb23f13d27aaa336f85c8",
+    "privkey": "XGimkw5HmHa2giFEDVMjTN7PtFWeMHwgvzvwbuocuuLEvdzQqy1k"
+  },
+  {
+    "network": "BST - BlockStamp",
+    "path": "m/44'/254'/0'/0/0",
+    "address": "1QBK6UxL5SURQmDpgcm3EwwfnBr3vukDJF",
+    "pubkey": "02b305516395108accd484aeb9f8349896b71b812b4586f37d87e2d8ed9ffdf05a",
+    "privkey": "KzLrm18QDzWCPB5eg1Uum5haazNnFGymGe8oepwYgfM1SEh7WbuN"
+  },
+  {
+    "network": "BST - BlockStamp",
+    "path": "m/44'/254'/0'/0/1",
+    "address": "1Co8T35znyzVNmVqF3ctYrzn1wxLCnjov3",
+    "pubkey": "02f848f167090e61218c12e737a1e9ed801a57977cc12b6f7f48ffab7d67bfec00",
+    "privkey": "L1mKyffa1XZ43ssH344FHa7widVLiXQQ3LfaZPPfhvxg8zsTrY41"
+  },
+  {
+    "network": "BTA - Bata",
+    "path": "m/44'/89'/0'/0/0",
+    "address": "BJ4DcMNTXgqm3xkfCwudUne5poyB5AsnqS",
+    "pubkey": "0229c089516eb9acb41c3087e14432602c746208210215542ab8debe1baad19f3c",
+    "privkey": "RPTnzuG483CrgxMa9926peD8QYJ1E6FuQuWxnduxKh3qBHAEFiKF"
+  },
+  {
+    "network": "BTA - Bata",
+    "path": "m/44'/89'/0'/0/1",
+    "address": "BH1g2jgT3GCT9mjZTQgWGaYHhqJgC4sQfR",
+    "pubkey": "033403598ea797190d7bdbf86463b9f4b202132eca9bc8f71042370466ac9bdda7",
+    "privkey": "RJfV8vAj9Q2VpaARxb3foSf5hLzopmjP2r4n3bKwfmW52QFD2fHs"
+  },
+  {
+    "network": "BTC - Bitcoin",
+    "path": "m/44'/0'/0'/0/0",
+    "address": "1NaFxCzxCJyYK6fP4kn936bSbpxvNTaBe6",
+    "pubkey": "02fb207bd0e7a3dff762a91a70d54fa65674b74aa6bc1e302deffc7bce5163643c",
+    "privkey": "L4t3tg2jB5XvDJ7s3vsprkHX6xdQUPcxkSeYyvAytLjqZhruRRaQ"
+  },
+  {
+    "network": "BTC - Bitcoin",
+    "path": "m/44'/0'/0'/0/1",
+    "address": "1PGw457U2JixNYXZQNbstAc1gyu3vFsrTN",
+    "pubkey": "02b3743319b8be95b65559c6890eec192b70849f5ab6333bc1f82aac2872bee993",
+    "privkey": "Ky4MUH9gVFLeix3nUGfkU5gZ3mirfzz9Hye1QjVMR9sKGUMpHws3"
+  },
+  {
+    "network": "BTC - Bitcoin RegTest",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "mvTMSCbitmvRp8WpCVAFQm2qzaJNRVVtQF",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "cQ2dHmokq2iqX4Ff1kRr6vPMYNtigp44gzadjhExQ8awmtAq9CZE"
+  },
+  {
+    "network": "BTC - Bitcoin RegTest",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "mwESwoy3dgoeC68ryYUUANq1fKvKX6ksvf",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "cQUuY4pX2cPtwwmyFGivZtZ9YYoFuFic2pXAi6BCUTd2oe2bJuHi"
+  },
+  {
+    "network": "BTC - Bitcoin Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "mvTMSCbitmvRp8WpCVAFQm2qzaJNRVVtQF",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "cQ2dHmokq2iqX4Ff1kRr6vPMYNtigp44gzadjhExQ8awmtAq9CZE"
+  },
+  {
+    "network": "BTC - Bitcoin Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "mwESwoy3dgoeC68ryYUUANq1fKvKX6ksvf",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "cQUuY4pX2cPtwwmyFGivZtZ9YYoFuFic2pXAi6BCUTd2oe2bJuHi"
+  },
+  {
+    "network": "BITG - Bitcoin Green",
+    "path": "m/44'/222'/0'/0/0",
+    "address": "GPFT9XYEyi3GXdoW1kPT9ws2dSRnSs2wCZ",
+    "pubkey": "034440035704316900b79f8ac52c2ec4771c590d7c1651997985bc6456af643f6b",
+    "privkey": "7wbkFVJvqwe7dNFXtN6aX3xxmnnz9Dk6e8dc62vi3JoidsUH2D6x"
+  },
+  {
+    "network": "BITG - Bitcoin Green",
+    "path": "m/44'/222'/0'/0/1",
+    "address": "GYN6uhNrQLRRDZJ9Mg35MhT1D75tQ2wPsD",
+    "pubkey": "026d32c3e59fd9f2e676b4d94eecd64e5c42e3bd36a1b39cc7d3330a0c8221afc0",
+    "privkey": "7qZG2Ky1XfxhkhqLg8cF8Qr5pQRzu11Pnm3myGsBu6AjhboaHqz9"
+  },
+  {
+    "network": "BTCP - Bitcoin Private",
+    "path": "m/44'/183'/0'/0/0",
+    "address": "b1EovSxuQxGc2iCRgZoVpKPyTrwEn6tUDhy",
+    "pubkey": "02b59abd73aa5813c7791b246f55d9c51ae8e74979833e6316c2082433d1d2ad86",
+    "privkey": "Kx43ofe2u9AGcPX1HTup9uJHtCf7LvYgrFUcF23ZBEUmRPvtUaYW"
+  },
+  {
+    "network": "BTCP - Bitcoin Private",
+    "path": "m/44'/183'/0'/0/1",
+    "address": "b1LQC6QhhVNdKmQQUMXsUqnq2g376KAK7jA",
+    "pubkey": "032fedec1119b1dc12e324f21d8c9b00ff0e280c3ca3a1a14dfe8c62a60fe1acbb",
+    "privkey": "L4H45yQiRBMFSwfdydmhPZtvCNkmxvUsLWvNZXyphisbMxWywZuE"
+  },
+  {
+    "network": "BTCPt - Bitcoin Private Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "n1VTFSZ6fu2StDjVAFStKGCUvxu2oJ6dtg1",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "cQ2dHmokq2iqX4Ff1kRr6vPMYNtigp44gzadjhExQ8awmtAq9CZE"
+  },
+  {
+    "network": "BTCPt - Bitcoin Private Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "n1WELxATzdwL6bh7D2WCY1pH6deekS8jRZm",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "cQUuY4pX2cPtwwmyFGivZtZ9YYoFuFic2pXAi6BCUTd2oe2bJuHi"
+  },
+  {
+    "network": "BSC - Binance Smart Chain",
+    "path": "m/44'/60'/0'/0/0",
+    "address": "0x7F1F296D0cb5C5e21D8435029718BaF0FBa02796",
+    "pubkey": "0x0379324f7c980fa0c9a7bdd3a09d5d1139067841471ac9b1d76502d4c5e164f365",
+    "privkey": "0x67869747c17450804f3eceed4d28d2aaecccba1159baaad1ff2aba9747178578"
+  },
+  {
+    "network": "BSC - Binance Smart Chain",
+    "path": "m/44'/60'/0'/0/1",
+    "address": "0xa0Bc364EdaFfFAFeB3CAc3ac24feb18b5389b870",
+    "pubkey": "0x02d450eb0b06c5469fefb24e69bf38004b097edd6473d53a68bfef6440abcdc7a1",
+    "privkey": "0xaa07c48889b88c1315ad540f228d34829e884f36eaafb6c1158053bdfeef10f9"
+  },
+  {
+    "network": "BSV - BitcoinSV",
+    "path": "m/44'/236'/0'/0/0",
+    "address": "1PSEKzqFjTtxFBbkUbLTpWgf75E5Kaq7qX",
+    "pubkey": "03408f39eb910ea20021f76714141de01a8b995de69c85d25bd9cbda29d1cfe8bc",
+    "privkey": "L4VBGy7MERuybtQkxPCfdZwEAkpypHdLw7YX9sqG6KBJAVWHsc4j"
+  },
+  {
+    "network": "BSV - BitcoinSV",
+    "path": "m/44'/236'/0'/0/1",
+    "address": "1DA7ewixataiDk7LePuJGBipKpaEPTtR5N",
+    "pubkey": "02e43b23f3d85f05f6e733fbd93ab61a258c2d3c2e16a552ab13d66f8d79565501",
+    "privkey": "L2ek9CTCu3DY6qFKTc12fdyrRWcoDTn3uRgRstwLetJ4eXhYp6rw"
+  },
+  {
+    "network": "BTCZ - Bitcoinz",
+    "path": "m/44'/177'/0'/0/0",
+    "address": "t1KsjEQa32SfCDcGb4HVorGVfas5BahaW1L",
+    "pubkey": "02621587620befce8fd5e1a5d255feb51fdaa4e39b235f0a3b4b5b0def21f90f38",
+    "privkey": "KyhY6Tk2n5wfkuuuhpezQ3T9YoZ7GpngeEuvBmeuwhkJFevijbqw"
+  },
+  {
+    "network": "BTCZ - Bitcoinz",
+    "path": "m/44'/177'/0'/0/1",
+    "address": "t1evoZ9S3Bz5tQcbpJ5oecmHLuEh3Q1ghcT",
+    "pubkey": "03fea6f94d49d4f71f4497494020583d67cf63d522afa2ff6a95290fdc83ccd920",
+    "privkey": "KyyHzKNmrQgxL4jzYkohmaLXN8pEFdJsmVpAwqRXfuV6Xd9FLD6B"
+  },
+  {
+    "network": "BTDX - BitCloud",
+    "path": "m/44'/218'/0'/0/0",
+    "address": "BHUdcuLcU4QjtdsrX8gwTjB1Seih1213g4",
+    "pubkey": "02de1c6991986bd252a559001fcc5f61ed44463044b53a31eb18486beb27ece6e8",
+    "privkey": "PmksECD3aNYqMdpWT8Z7A2EUAhnmfaQDrWfJro5bSf88e9dpMRp9"
+  },
+  {
+    "network": "BTDX - BitCloud",
+    "path": "m/44'/218'/0'/0/1",
+    "address": "BG3r5LvT81cowXuiK25JJT63B4atynqvSB",
+    "pubkey": "0340d0b4a8dd374848381aa1671eae67344a67f66ef2824ab8f90193acbbacd744",
+    "privkey": "PjPbE43AGj2veY2VwVc9nbafk1NQJyJj2ZA2JW6LGFxr4g73zLHw"
+  },
+  {
+    "network": "BTG - Bitcoin Gold",
+    "path": "m/44'/156'/0'/0/0",
+    "address": "GLMXy44BQ3YtUk3FoXfUN8JkrMSZjGLuwr",
+    "pubkey": "037c547fa441312e41a07a8ce517a4df7cf202e4f42d94c9e93982ffee62904ced",
+    "privkey": "KxbRhNz62MLyddDoF6AKXutZPnxmNGwLaJYd6i1FB58BkuNsHsoh"
+  },
+  {
+    "network": "BTG - Bitcoin Gold",
+    "path": "m/44'/156'/0'/0/1",
+    "address": "GKvQmhxnn1DDhCAqPDyzaX7ZxdkPQ8g8F5",
+    "pubkey": "02fd2547740b2b13ff85bbf10ae5e64f6a2c296b989d1a95cf1327daad1c684be2",
+    "privkey": "L4xTf71eTLHFrgFvLsZtmgxxhXs9NaXUCvaGqphcNYEER3zMqQjG"
+  },
+  {
+    "network": "BTX - Bitcore",
+    "path": "m/44'/160'/0'/0/0",
+    "address": "2b3Te3s4JsuFua2fFREqwqEH3Y6YMs5hBP",
+    "pubkey": "02ba6211cb64ca34a13d07db1a6dedf1e886a89d981777568d65c4a765a22a6636",
+    "privkey": "KxRTiVPV57Q2RYmSvFnQoNCASHm1jjEotsLqM2RUF1ucb6i9NZq9"
+  },
+  {
+    "network": "BTX - Bitcore",
+    "path": "m/44'/160'/0'/0/1",
+    "address": "2RShckg8KfNiJ3njnFuYdmyQDvXjiAeDds",
+    "pubkey": "039f1f5a47ddfe7b4cd756c405eb239c2eb008838fdc8a2ac790e06dcc358e9b6f",
+    "privkey": "L1LspaWaj9SpVNTBRyfQiagK9kGSCpL9rc5jeG91JznfuoLP8VjD"
+  },
+  {
+    "network": "CCN - Cannacoin",
+    "path": "m/44'/19'/0'/0/0",
+    "address": "CV4xVbagQWSVRRYKsAwrhGr51568vHLAFP",
+    "pubkey": "02fc57f6179756d3abd03cbeb550caf5728f5cefba48fc6782dc45f8511a711020",
+    "privkey": "QBmz8eeov2akU7Tse96iy4gmvxBYEbajwUZD4HmBq2MwaFcWZ7b7"
+  },
+  {
+    "network": "CCN - Cannacoin",
+    "path": "m/44'/19'/0'/0/1",
+    "address": "CY5zKjrb2ZDPbsFT2qUGPt9U7jJ4Gu8yt1",
+    "pubkey": "02e9d95362b521e527a2b627339e6c81553e461b65a46166de25ffd06dcbca1690",
+    "privkey": "Q7osCbbC3kkJqkCpXf7x45hVTg6vWPJzZWgAkcGJiTFeb28vmtoT"
+  },
+  {
+    "network": "CESC - Cryptoescudo",
+    "path": "m/44'/111'/0'/0/0",
+    "address": "CLBr4E6hR6kpFGALk9Bk9S7avxcQMPgncq",
+    "pubkey": "03ed308bedda52ef68874e7d34c1c526aab7970f7939f7d8e436e73f47a888eb22",
+    "privkey": "QBZJWy5fU8wvCjgaTLg798tTYQAfsAzkA1wu6YrMnt1WPULvx391"
+  },
+  {
+    "network": "CESC - Cryptoescudo",
+    "path": "m/44'/111'/0'/0/1",
+    "address": "CK63jDZesme1M4eFoD7GQ1EuwFeieSw1VW",
+    "pubkey": "039c12e9596e948edfebd042478126b531874ee6c85e043ff5806ef9c0ba3b0f3c",
+    "privkey": "QDFjGjsHSWgRGXLrunVv316qdyAYz2fozTH8ndkV3JTaK7o42Nup"
+  },
+  {
+    "network": "CDN - Canadaecoin",
+    "path": "m/44'/34'/0'/0/0",
+    "address": "CNrTKkmbRaYC8grLxuUeeQjeqkTVWYaPRs",
+    "pubkey": "02dc2e47e76daeb58d0ae308642b87db27431e01a55c02827914a06b7f156c9e9b",
+    "privkey": "QComD7BAuGvCPpwzWz3aGYJPRcNTH7A2VPCjyUuNDsoTTr4gpt46"
+  },
+  {
+    "network": "CDN - Canadaecoin",
+    "path": "m/44'/34'/0'/0/1",
+    "address": "CeToRN8oSnBYx5wsjCgTQcCJvKNoHScitQ",
+    "pubkey": "03333608ded16434fa8dd4eec4347f485254d08587a3c205300daf383859285356",
+    "privkey": "QDtquWnYe9UAxoEGKxdtn18dfM4RpkEcqwc1fzNULoRQxmpifxfG"
+  },
+  {
+    "network": "CLAM - Clams",
+    "path": "m/44'/23'/0'/0/0",
+    "address": "xAqZagG1Jfy4d3Eec6vCzAS9Lh6YRtQiTu",
+    "pubkey": "034b55349888cff87e128a924228b5bdeb975e3717f277d201eb1797c4763e2404",
+    "privkey": "Ljfs23tqAVsURKcDWw64BNAvsjKvsCHDZW5xdYUxbDY6fgtwMD6w"
+  },
+  {
+    "network": "CLAM - Clams",
+    "path": "m/44'/23'/0'/0/1",
+    "address": "x9hRXshNcnWnw2qqYoJobBC4TeY8giA9vy",
+    "pubkey": "03a989ca8ceedcd14db4774241307d467092bc7ba21807d52564438df581d473ca",
+    "privkey": "LgATJVjqTZm6ehbSiUhvEMMs9LxFknAuk9V3hPbaLf5fx7MmWocC"
+  },
+  {
+    "network": "CLO - Callisto",
+    "path": "m/44'/820'/0'/0/0",
+    "address": "0x1A2db897e741320938D60d48a8132e630BBc87c1",
+    "pubkey": "0x02add7f78de36b9197f645914f8775b1b47dc98228bd55846647b21c27a0619724",
+    "privkey": "0x9206ae1bae0573a6feaf38c4585f2f7984b886bae4a54fa577b29036bbce9aff"
+  },
+  {
+    "network": "CLO - Callisto",
+    "path": "m/44'/820'/0'/0/1",
+    "address": "0x98031d53F0Ec71223823FE4083d0ebBAB16145ab",
+    "pubkey": "0x03e33c4fd086833b6b1fdbdbca9e20f8dc5519c1102b4aaa68d06c44791d50386b",
+    "privkey": "0xc940a750dadfb2f5097654d3c1e66102ef72e2cf5f2a813f5e72f3afa693218a"
+  },
+  {
+    "network": "CLUB - Clubcoin",
+    "path": "m/44'/79'/0'/0/0",
+    "address": "CaTWR7JHQE9Rz8zZ7DtWZs1qHckFMafHxk",
+    "pubkey": "03662d252bbcf6f3360d44e1ab6f153eec3691128afe377e6891cf62190a43810b",
+    "privkey": "PjnDxBah5i6BYkP5gfx1Vdd3wo2bxZ9aJGp9Scb4vc4TjtwuskvG"
+  },
+  {
+    "network": "CLUB - Clubcoin",
+    "path": "m/44'/79'/0'/0/1",
+    "address": "CcDdtPoCERrGXUx3TwVnS9urkwzfHNG74B",
+    "pubkey": "035e6b753d93d72d853d53272f5c23d4034e775ab957d108eb8feca8a78a227d57",
+    "privkey": "PiiDYCjryeTbAC5vhwiEHwCLFFyFYYezpzyZZA4wr4Y8KADPB5A6"
+  },
+  {
+    "network": "CMP - Compcoin",
+    "path": "m/44'/71'/0'/0/0",
+    "address": "CVz26ow8gUfTYZ7XWg3gUNWVw7tZNemTf9",
+    "pubkey": "03e5f60193def049b3811d43d66f3fdc49073b2f0cf151096b652b43b73f92c3a5",
+    "privkey": "Q64UdcXd8QSzNLZPT1E6sDBRrKoEDEroSbSrLkHKzWKMfEsJ6ABN"
+  },
+  {
+    "network": "CMP - Compcoin",
+    "path": "m/44'/71'/0'/0/1",
+    "address": "CL2TZXTGZggcGRvtnPdJBLACuThjSKeg7r",
+    "pubkey": "038b1fb30bbbf24bc4c4ba7ea67a7c13181a2ce26c2602a1e80eac53f70b850ce5",
+    "privkey": "QDnjqnZC9gDUrKQa8ZqQ9bGxLjU1A9sjvPPojWH28j2JnQMmH59p"
+  },
+  {
+    "network": "CPU - CPUchain",
+    "path": "m/44'/363'/0'/0/0",
+    "address": "CUj7pyqqFq5AVB9G4NU6qmVhiTzbGhfXmn",
+    "pubkey": "0370d647c2d533976ae76ab34e93cbbd8bf0c860945d751d809b9ec62b8aa0a28f",
+    "privkey": "Kx8UmeckLoV5Dj8zz2soEp5YKPwnwv1oXaY4RmkAJnBQmAnhu4r8"
+  },
+  {
+    "network": "CPU - CPUchain",
+    "path": "m/44'/363'/0'/0/1",
+    "address": "CPf7U9inka1wymZ1T3Aq2efthtC24U1CB9",
+    "pubkey": "03423f9568bd1fdb2d2461623dfb63acef72ec1bba204bbc6a3c26d3e4a7bc6074",
+    "privkey": "L1gTAFMtxAV3SRYK8hSrTKM75Hs2Y52wnjpuz18Z1vv85rYjh1uG"
+  },
+  {
+    "network": "CRAVE - Crave",
+    "path": "m/44'/186'/0'/0/0",
+    "address": "VQDQ7Nb3jkGM22Mraj6gxyQe3Yx9kP7Nho",
+    "pubkey": "039134d11c1825c210ce260195455ca146a4bc8940c111c466c7674e5cb202db6f",
+    "privkey": "PhCqRRWD8Pt9Xotap7qwAQMcEjoDRYYtm9kmcQFXwcjrShXh6ukt"
+  },
+  {
+    "network": "CRAVE - Crave",
+    "path": "m/44'/186'/0'/0/1",
+    "address": "VWgndnYVZhvX3p9YTReZrtMEPNnaX4BCLD",
+    "pubkey": "0300d30c7909dc6fb56c9709fe88842ea242d4cff511a32bc8bf2801a2bf4a3da6",
+    "privkey": "Phjt7fW74WVYYURRxhwsg8xJ3hV6CnP7xaXKDiGQJmHtCk22VoTi"
+  },
+  {
+    "network": "CRP - CranePay",
+    "path": "m/44'/2304'/0'/0/0",
+    "address": "CeTrgigtHHt3UV7camBxVNoUVGH3TLMRNW",
+    "pubkey": "02d943f86f2efbd9034518693e3154c8315e7aea55efa91c47ed8a56e61fd2f2f4",
+    "privkey": "KGUC1qvhfuY38sC2XC2VDj2VR4abfVfbLe9trsSt6kU4wY98XeJy"
+  },
+  {
+    "network": "CRP - CranePay",
+    "path": "m/44'/2304'/0'/0/1",
+    "address": "CfRGYy98v58RgQxGP6qJg5TbddWTH5m6Ks",
+    "pubkey": "02fa4387a28cd1467a4415900702ef26ae7f051830f3dabcf9abc78c376f1de45f",
+    "privkey": "KD3DiCyGjbHMQe3DN6uMaxbUaCznE77F6SJQjsXFqjUbq3hsUeJT"
+  },
+  {
+    "network": "CRW - Crown (Legacy)",
+    "path": "m/44'/72'/0'/0/0",
+    "address": "1QAWf6rh8DEc2W8pW4gqxHC5NT6kvMmMnE",
+    "pubkey": "0253808cdf99deec3a65676b787c3b273c46a2e8029b6f5f8f61279921935f48e2",
+    "privkey": "L1RpgD7tF7kcjt23kjV3hshiR1mBdUDTXNMfG875QaYKt9gvJAb1"
+  },
+  {
+    "network": "CRW - Crown (Legacy)",
+    "path": "m/44'/72'/0'/0/1",
+    "address": "1LNaF8WSDiitsjfJdA3TWusfDVmv2Nk6rh",
+    "pubkey": "02f350fbed83c58526002ceb5e7b19d2161a96b65bd05b9e0e8194f347f5cb2dbd",
+    "privkey": "L3pty1dHywoaEmnTcxyya4XKQkrxtxtxMJBUDiarS68DGxbGWna7"
+  },
+  {
+    "network": "CRW - Crown",
+    "path": "m/44'/72'/0'/0/0",
+    "address": "CRWb8Vyf89EovPYhVSieGdRgUHg9iRewg2Mf",
+    "pubkey": "0253808cdf99deec3a65676b787c3b273c46a2e8029b6f5f8f61279921935f48e2",
+    "privkey": "L1RpgD7tF7kcjt23kjV3hshiR1mBdUDTXNMfG875QaYKt9gvJAb1"
+  },
+  {
+    "network": "CRW - Crown",
+    "path": "m/44'/72'/0'/0/1",
+    "address": "CRWXLZZgmtLKQgPw1vqjdEzK9sXCPaiqjEAs",
+    "pubkey": "02f350fbed83c58526002ceb5e7b19d2161a96b65bd05b9e0e8194f347f5cb2dbd",
+    "privkey": "L3pty1dHywoaEmnTcxyya4XKQkrxtxtxMJBUDiarS68DGxbGWna7"
+  },
+  {
+    "network": "CSC - CasinoCoin",
+    "path": "m/44'/359'/0'/0/0",
+    "address": "cK1ECVA74e9aM71HUtqF258vk5HZSiuHQV",
+    "pubkey": "036781070795efa33edb281d5334d7613aec88b5bbcadde9f01699bf9dc6ca3079",
+    "privkey": "8c60d7acc676539f58d0860ba36e84a934332cc2dab5fb26d6c50283b1f0487b"
+  },
+  {
+    "network": "CSC - CasinoCoin",
+    "path": "m/44'/359'/0'/0/1",
+    "address": "cNvmBKjvTWR6QzNhDDSTvQfkmoz8V8DaWH",
+    "pubkey": "036a251a03c14e675f9b42ab75de6a34fe7e38fed516b16db6346da7f981d7f6a5",
+    "privkey": "2cc497b4d33368417b9b3d545ebc73cc30dcf79d0c010a4188e9cad3c232792c"
+  },
+  {
+    "network": "DASH - Dash",
+    "path": "m/44'/5'/0'/0/0",
+    "address": "XwuSKHgyWNXi719Hqxktt58bDDzTwedcPe",
+    "pubkey": "03a147c487dc74eb24639f1830750335bb8ce60a8f01a6c3f0a5c7a1a307e1098f",
+    "privkey": "XGdF32W4jF1DcgUUw7GYQhqQPab6qXyFsNzEsiYE4r2SzYSUAAge"
+  },
+  {
+    "network": "DASH - Dash",
+    "path": "m/44'/5'/0'/0/1",
+    "address": "XthkUJiYs9v8SJ3YoSzequDMUpMbBAwCC9",
+    "pubkey": "027490a8bf7fe64624def1023df6c0fdbc558960d7380bc2b852b68b1ad18141db",
+    "privkey": "XENNvMYfU2nJ1QeE69nBAjaBTnb8SbwSH5tuqxDX2aBpSfEvePgD"
+  },
+  {
+    "network": "DASH - Dash Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "ybFqzMF5V1MqXhZKuepVUPvfFCmj2ANoME",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "cQ2dHmokq2iqX4Ff1kRr6vPMYNtigp44gzadjhExQ8awmtAq9CZE"
+  },
+  {
+    "network": "DASH - Dash Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "yc2wVxcQDvF3ufBNgi8iE1ipuxPgBWhwSo",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "cQUuY4pX2cPtwwmyFGivZtZ9YYoFuFic2pXAi6BCUTd2oe2bJuHi"
+  },
+  {
+    "network": "DFC - Defcoin",
+    "path": "m/44'/1337'/0'/0/0",
+    "address": "DDZE1tTqSTeggxdKxf4Mm9t7EYYp9H59NZ",
+    "pubkey": "031a945b7e1828664808aa16b8612d9da18d952710a8a884b87142e1c84d10a7a5",
+    "privkey": "QQQkegvFGKf78VuFsvEP7WFqZ4Xvmh4QRvoJ5VaayBi4HtFBK539"
+  },
+  {
+    "network": "DFC - Defcoin",
+    "path": "m/44'/1337'/0'/0/1",
+    "address": "D62qiiamXyhNXvEbFCeToh3UBJBbXfeBXv",
+    "pubkey": "0342961811b3a3407aca9d06389b4041fc87f88b8207827138b5ac2afdf4fc8a90",
+    "privkey": "QQGeGvhwHMUKLdUVh7k3jP1NnTLhrDKw8WrneANgLRKhsiRSKHUb"
+  },
+  {
+    "network": "DGB - Digibyte",
+    "path": "m/44'/20'/0'/0/0",
+    "address": "D6zRAtzAxGR7SJ7d6NP2R9cwmpgkG5v3ob",
+    "pubkey": "0364f36e643248584591b3173da6a19ad87ff29ef97e0372077ff8b77e4f145612",
+    "privkey": "KxyUfou1S62qaJY4Lvn5ZMYRGNkyfq3qVJzCFnE8c14oEf32dHv2"
+  },
+  {
+    "network": "DGB - Digibyte",
+    "path": "m/44'/20'/0'/0/1",
+    "address": "DUPvQ5HhBN8vxd1keRk4Gk9RLFtU3Goip7",
+    "pubkey": "03e3d5542ec978e806255d526c9f4590985d8392bcd5e4c389a9640a51c4e817a1",
+    "privkey": "L5AE1nHbFphN4eHCDt82Sn5hiNgoFMwhCsAYxBfBa17HPwW7kQiN"
+  },
+  {
+    "network": "DGC - Digitalcoin",
+    "path": "m/44'/18'/0'/0/0",
+    "address": "DDcKZJixEY7DPzzRyipSxF53QhCjDrH4CW",
+    "pubkey": "023a800edb18a8096acaba01dc7bc42027893deedbafe4ecf43f451f56f1f032b4",
+    "privkey": "QRvzLnCJmxttJDtMNhMVydmFr7ACVcQUvdqDwe58is3j7ARQPTfy"
+  },
+  {
+    "network": "DGC - Digitalcoin",
+    "path": "m/44'/18'/0'/0/1",
+    "address": "DLQ9UE3MjzQtcSR9V2QKxuAV4XrcdAiLpv",
+    "pubkey": "02b3dbe35ca322f88e9cfe99e70084ba52ed3e29a138156cc8dbb7beb3f75bb0e4",
+    "privkey": "QVXmKMJ9sfLd4PBzF18swhfB7s74yVRrhvA5JrsH4UmYekR9bfXA"
+  },
+  {
+    "network": "DIVI - DIVI",
+    "path": "m/44'/301'/0'/0/0",
+    "address": "DScbsKcXTgcFVvYVheWWFAG5uYtjJRxELA",
+    "pubkey": "03d13cdc60d1cb5c0b868bf26b9895ff6ac420c0b26ffb556c02ae74463027eb36",
+    "privkey": "YQCQurmnxkPcL3UHUMnTLXgcsaTcy2ZE2Y33GmdChDGvhtSYBKS5"
+  },
+  {
+    "network": "DIVI - DIVI",
+    "path": "m/44'/301'/0'/0/1",
+    "address": "DPrvTkp48D3hRbzUJ4SwGTqCWgfLf4iWEb",
+    "pubkey": "031bdfaf59b18415007df2c09d3c21398a20e33810f165385f3897bead204f82f2",
+    "privkey": "YV8cBFohLC3UtoSwXQVHhHrvjV7udAsNJU1HG3fzpCKkmpMbRXEJ"
+  },
+  {
+    "network": "DIVI - DIVI Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "yBvF1EwnmptxiGREtEVAzGeschWnJQhALZ",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "cQ2dHmokq2iqX4Ff1kRr6vPMYNtigp44gzadjhExQ8awmtAq9CZE"
+  },
+  {
+    "network": "DIVI - DIVI Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "yChLWrK7WjnB6E3HfHoPjtT3HT8jSZwehD",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "cQUuY4pX2cPtwwmyFGivZtZ9YYoFuFic2pXAi6BCUTd2oe2bJuHi"
+  },
+  {
+    "network": "DMD - Diamond",
+    "path": "m/44'/152'/0'/0/0",
+    "address": "dZJT787VgqvLqkW1KmP4EU8VJ64v6dBcgh",
+    "pubkey": "02a737889e6224e6fd2a0b0a1c03309fe9f452d3fc4271978f8cf46cb3c280c55d",
+    "privkey": "ZNju4etgTprWxkwspCAWWUj4oSGRWL6rV6yqYMxnaTLJQ5o3LJhC"
+  },
+  {
+    "network": "DMD - Diamond",
+    "path": "m/44'/152'/0'/0/1",
+    "address": "dbNy1LLTy8VYjEWAT8VpYzNut9fgsrpj6K",
+    "pubkey": "02bf956ae8335a1ffd18bad46accda741ff914f4f733be4c58e5464274dbaacafa",
+    "privkey": "ZGAjaxKkq81N85zGTyiHdFDUhFPUGogK5fKrTFPN1WJHMb2YsLFA"
+  },
+  {
+    "network": "DNR - Denarius",
+    "path": "m/44'/116'/0'/0/0",
+    "address": "D6ciCyqffHJD8ogLG7UzU6aWeBtTvx32kw",
+    "pubkey": "02cb0129327a7dc93e1da9ae35c92384360f0380229f2f6940eb744f707a2e10eb",
+    "privkey": "QTU5y65AE1EHT6HcytxkMBv7anuBBmvhTFBX6sbUnNV9Wo3VJwHS"
+  },
+  {
+    "network": "DNR - Denarius",
+    "path": "m/44'/116'/0'/0/1",
+    "address": "DKewbYJpSN5J5vx2w3LfCmoK3iBnyowHYt",
+    "pubkey": "02978cb9c74c9ccc5de49cc65ff9fe455439e379ca928506d676124164b4fc2815",
+    "privkey": "QRKjKSTckPdG9uyqBCktF6Bmj1R3L2u2hRKgXubirmU66ZrJGQCK"
+  },
+  {
+    "network": "DOGE - Dogecoin",
+    "path": "m/44'/3'/0'/0/0",
+    "address": "DBwBEJWJMEz24bdmf98z58VCmXS7sdPgBW",
+    "pubkey": "03dab7a40ff1064e3ccd8b3fec96fb01cccb97f763863dd35b98135de851ec5539",
+    "privkey": "QUPAjc3LkYr1wVKERBtyi9gacPAAra6GgTqFL2fKYXaqVrFWQVLJ"
+  },
+  {
+    "network": "DOGE - Dogecoin",
+    "path": "m/44'/3'/0'/0/1",
+    "address": "DHf3QsJQqDwueUMkVFTizPk3x6iWvsVxKs",
+    "pubkey": "02f467cc0e6756a9827f5563475257123a52147e26e09dc4f4ee38c95105306a5b",
+    "privkey": "QVooLsB4ymPeWondF59eAmEFMQmHpeUoNCZJNgAzxHRWtpQNGKWU"
+  },
+  {
+    "network": "DOGEt - Dogecoin Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "nj8ZQRCJK8rBSznzFKptP1aRFapFpEfdZw",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "chBtS6XZBLZ7U6HC7uDdhGaL3FJ2MebX1sptrbw9P66NLYZWQ4Lx"
+  },
+  {
+    "network": "DOGEt - Dogecoin Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "njuev2Zd43jPpxR32P978dNavLSD18A55v",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "cheAgPYKNvEAtyoWMRWiAEk83RCZa6G4MhmRpzsPTR8TNJRHqFpq"
+  },
+  {
+    "network": "DXN - DEXON",
+    "path": "m/44'/237'/0'/0/0",
+    "address": "0xdBB5397f2123F9293e3dBeb768af2cfB07898f69",
+    "pubkey": "0x02eaee2180adc15d459efd81a5eeec4e65826b1839403f6388e296cdecd756695b",
+    "privkey": "0x1e4e24e2f93dda8238f0db3ceefca8ad19dd80c764dff06924ad6ed5a29f33cb"
+  },
+  {
+    "network": "DXN - DEXON",
+    "path": "m/44'/237'/0'/0/1",
+    "address": "0x3E425D87a661814e279c3bbDCE042677E36B66D0",
+    "pubkey": "0x0237a8e3635fc8791d16177442b5a8cd2240a19fec9bf6c82ab53739206e22b4c6",
+    "privkey": "0xbb89dfe23a2daa3e6a3d32f5d645dc6e91a14b29ed99f6705e3f491042c32c04"
+  },
+  {
+    "network": "ECN - Ecoin",
+    "path": "m/44'/115'/0'/0/0",
+    "address": "eENxU1nZ9eTUsy4g9ee9eHvfpCkPVdSUn6",
+    "pubkey": "02f24031d22772d246a6f4b733baff707772c2787623bf760c2f3874f3f4572c66",
+    "privkey": "Zbf4LmP4GRU8pVLQaV4mrz9rzLzViKMbpPnbwTW5JLY41UQ9mNi3"
+  },
+  {
+    "network": "ECN - Ecoin",
+    "path": "m/44'/115'/0'/0/1",
+    "address": "e9PbPqfeseeriSQ692KWDEVM8R8uWyEAaE",
+    "pubkey": "03f36287c421f3f8d8e6c49dc56f37647a205f163858344b60748904c8a39419e0",
+    "privkey": "Zbw9U64okbfkP3McGQnQLLm3RZPA8unQfrbohLX7fVWxacg82nhp"
+  },
+  {
+    "network": "EDRC - Edrcoin",
+    "path": "m/44'/56'/0'/0/0",
+    "address": "ebr3DUh2KApTK6WbsGbfwrCryacdoaxeDp",
+    "pubkey": "0248707d126be96462fa7f1890c212540d8fc9f222df209132816923be3f6d53c5",
+    "privkey": "Zn7uB3WoqFbfpnjT3QSHrtc9HA9rDBSnLbpeTZMqATDnCPryW2GH"
+  },
+  {
+    "network": "EDRC - Edrcoin",
+    "path": "m/44'/56'/0'/0/1",
+    "address": "eXsu6tcaYbxhD5At3wBKffMLFnhSsziafP",
+    "pubkey": "03a7982bfc4bc99b8e3bb97fcbe872954cfff129c95cb7bffdf405eefbb47666d4",
+    "privkey": "ZkDAHfswG8dPqXmaYNMaoEPi8KtXNpM477JAeJEE9EaXtki9BURK"
+  },
+  {
+    "network": "EFL - Egulden",
+    "path": "m/44'/78'/0'/0/0",
+    "address": "LPp1FPNWnHPWioRdJPsEko7D3Ahf9p7hU4",
+    "pubkey": "02c6bb51ade30a5a15dfbda51dbb63e53fadf3eb04bfe1aac9d804363dfeb86ec4",
+    "privkey": "T4hJDZGXeHqUn26KXcFkvdxYYpzMZFoyKMyxTqHoi9YRoM5or1nE"
+  },
+  {
+    "network": "EFL - Egulden",
+    "path": "m/44'/78'/0'/0/1",
+    "address": "Ldzh2PntNy43WNW4Gcg9KWJyxqRnLt6ADW",
+    "pubkey": "02907507c7e4839128d9a6c17e60f563ede0935923f134f2e04837d3acc786759a",
+    "privkey": "T7qAq3GisPm4pNqd8qLt2DkoznLoiUhTE7G3RX4zCA89dEHSYmUC"
+  },
+  {
+    "network": "ELA - Elastos",
+    "path": "m/44'/2305'/0'/0/0",
+    "address": "EXyb8TczUWNkNMwqLG8j51C8XjtVT7zZFE",
+    "pubkey": "0218ecccd48f0c86aa8261f4acef8a910b1c4b6eb53e9444db1c5aa738777896c3",
+    "privkey": "62266693643cd9c88895a661f6d3ea63d99e3f8537c83b8bf0e3af97c3d2136e"
+  },
+  {
+    "network": "ELA - Elastos",
+    "path": "m/44'/2305'/0'/0/1",
+    "address": "EUYj8GkAz8R1EjpdLmAqU1GxwE7phVPxyh",
+    "pubkey": "03156396fe9f9e06428362432b45ba42f8ba2a3a65ef24290931f52e689139faff",
+    "privkey": "37a54b7aabf15493d4b1727a508a432f015ad4f636e5435e10180a23d059bd24"
+  },
+  {
+    "network": "ELLA - Ellaism",
+    "path": "m/44'/163'/0'/0/0",
+    "address": "0xD8693307b46FD4b427d02415c6bE214edd07676C",
+    "pubkey": "0x0318c41cd7fd81c523d8c944a87c6b7a4377f0920389d46c6e2cd574e35c165825",
+    "privkey": "0xea493ea467f56fb8c5badf2c3b3bf666754f2d295fe3f284f11f54f80cd5ec69"
+  },
+  {
+    "network": "ELLA - Ellaism",
+    "path": "m/44'/163'/0'/0/1",
+    "address": "0x94670b845e3212309D364bf3d427942eDa53Ad62",
+    "pubkey": "0x02e1aeabc34782fe2caa3402f0b1f28d6b3fd61fd3f22c91b2464bc67f8ed4f7ab",
+    "privkey": "0x8cad342d6444e6b17d118ebd67cf04c247688bc7db760464af3768f9acad8201"
+  },
+  {
+    "network": "EMC2 - Einsteinium",
+    "path": "m/44'/41'/0'/0/0",
+    "address": "EMyfb59TGxXY4w81c2VFEBC9CA86oZa75Y",
+    "pubkey": "036905ab59fdbd98dba9de4cf498c70ff1a5c0d153c668d4e9900dd2d36d19735f",
+    "privkey": "QtVZirWu8gadTKuMPYPNun2ny7ZPUY7s3bqHDmQcinesssXtvRBD"
+  },
+  {
+    "network": "EMC2 - Einsteinium",
+    "path": "m/44'/41'/0'/0/1",
+    "address": "EZVs6WSew8LnZHH1ZsCJfuZ4FTZQSzMKc3",
+    "pubkey": "02c83450813082068ea4b4462ccfaea9fd710202eab0a1a2210a990ada0fbfe52d",
+    "privkey": "Qsw3P4rbxMcmiFugz9JhA7N4AGzycrgwqgsKigdXTFE2RCd1PbpD"
+  },
+  {
+    "network": "ERC - Europecoin",
+    "path": "m/44'/151'/0'/0/0",
+    "address": "EStJBaz1Q8tiDWTcjwX8DhrG976ohC9vhA",
+    "pubkey": "027f3d59e1f4baff9cd82f1ddf46b6e621b2111e938077373efacb3ef7df65e667",
+    "privkey": "RxrnAy1eJMNcyqQcy2P2S4Ly4QeReT5iqmn89Tmp92FNY8X1Eprn"
+  },
+  {
+    "network": "ERC - Europecoin",
+    "path": "m/44'/151'/0'/0/1",
+    "address": "EPGj4aKMU2VBejGXxdgc69A1Yr9dKud7iK",
+    "pubkey": "02161cb0e80dfae5ef66a67451f33169ebe1f6e35eb67d4ffbef32b47627498cc3",
+    "privkey": "RzLm95VGb9sJw9UGcvFiFkwtPAzT11qGW5mqmKvCHUh3JiDzk4bK"
+  },
+  {
+    "network": "EOS - EOSIO",
+    "path": "m/44'/194'/0'/0/0",
+    "address": "",
+    "pubkey": "EOS778GKtDRLPhsox8Qp5HV4beng89EjAhWGTpC9r6dfk6QKxFHCq",
+    "privkey": "5J1qzLswg64EFqnPEEYccX9vHHYqRbCTr6oQ71f6k3ct6tbzWkh"
+  },
+  {
+    "network": "EOS - EOSIO",
+    "path": "m/44'/194'/0'/0/1",
+    "address": "",
+    "pubkey": "EOS6v2EYQaBtytC46y5v5aKiuU3DDVuqtb3LQW5ozZheP4ioYGfj3",
+    "privkey": "5JpG66kWYMCtufKX8757Ny6YnGMaQuCQUu3FwCj4v7W3rizd8iM"
+  },
+  {
+    "network": "ERE - EtherCore",
+    "path": "m/44'/466'/0'/0/0",
+    "address": "0xc102ffd268Ac69b77d9c517c92FE103535C3c6A1",
+    "pubkey": "0x02fc1a02d963eab38e8560f54512ff7e0566cba1f29a8e76d337b103325d92aee9",
+    "privkey": "0x479e87a6ff8afb2ed9e5b3ee9436977b5a350c2de732c8bcaacc20a131fd3f5a"
+  },
+  {
+    "network": "ERE - EtherCore",
+    "path": "m/44'/466'/0'/0/1",
+    "address": "0x47d768154f2F5394bFb293D7d45432368024Ec5F",
+    "pubkey": "0x038a3ad3963a75e0b13efcf633437ba70385633adcadedab8f0f991ccb7c0e9420",
+    "privkey": "0xed5359e0f78d91d27795df380ac4099853094c34c7365abb991986572cfd8aab"
+  },
+  {
+    "network": "ESN - Ethersocial Network",
+    "path": "m/44'/31102'/0'/0/0",
+    "address": "0xD08d035E8231D62098C6802e5A3161cdf1936050",
+    "pubkey": "0x0378f6b6014a5dac45c81af755f8efbaf73e95d2e3c7f8d4c8fa8943d479bdfc1e",
+    "privkey": "0xf7b7aafce30e13c0b74a25566d7b0f3222bcebf0d380a0f236712d8751295efa"
+  },
+  {
+    "network": "ESN - Ethersocial Network",
+    "path": "m/44'/31102'/0'/0/1",
+    "address": "0x003009E1366a61459F39250c4c8EDB88736b2177",
+    "pubkey": "0x03375bc97abe94b777d5406434c9ecc6fa1830a269026f8cdcc98e872ebe01d4be",
+    "privkey": "0xd2ec318dcb5bc7bb0ce82cecf96ddf8a1c9f439da97dc4f579aca06e5c7e3404"
+  },
+  {
+    "network": "ETC - Ethereum Classic",
+    "path": "m/44'/61'/0'/0/0",
+    "address": "0xD2E55c1B5a9E30a99F636E4BD295f2446b50e7b4",
+    "pubkey": "0x03a3d7e42b320939f1f126cfd7d794c36840cdd9771455ee77028873c763038dfc",
+    "privkey": "0xd8ff24268da5f58f1b5a4adcc257e271a3ea670a8a5588f690244f62ea0a68ee"
+  },
+  {
+    "network": "ETC - Ethereum Classic",
+    "path": "m/44'/61'/0'/0/1",
+    "address": "0x61bd77F98E5f203C767925baCcDAa2fc26F98A4d",
+    "pubkey": "0x02c29ca8d4ca2aa9ab30e8ad875450c3be149e9f77c46617ba6c45546c4feba02f",
+    "privkey": "0x2038bb327d5127110fa5a21b50c3122dea7e3834c99904e5b72296d882fb7b11"
+  },
+  {
+    "network": "ETH - Ethereum",
+    "path": "m/44'/60'/0'/0/0",
+    "address": "0x7F1F296D0cb5C5e21D8435029718BaF0FBa02796",
+    "pubkey": "0x0379324f7c980fa0c9a7bdd3a09d5d1139067841471ac9b1d76502d4c5e164f365",
+    "privkey": "0x67869747c17450804f3eceed4d28d2aaecccba1159baaad1ff2aba9747178578"
+  },
+  {
+    "network": "ETH - Ethereum",
+    "path": "m/44'/60'/0'/0/1",
+    "address": "0xa0Bc364EdaFfFAFeB3CAc3ac24feb18b5389b870",
+    "pubkey": "0x02d450eb0b06c5469fefb24e69bf38004b097edd6473d53a68bfef6440abcdc7a1",
+    "privkey": "0xaa07c48889b88c1315ad540f228d34829e884f36eaafb6c1158053bdfeef10f9"
+  },
+  {
+    "network": "EWT - EnergyWeb",
+    "path": "m/44'/246'/0'/0/0",
+    "address": "0xC9353dC124a58FFe0b46ccdE5CDe139Fffe31825",
+    "pubkey": "0x02c17ccf2ab22e26cb0231a8c5ac26829080548c5c75639e5befa424e9ec5aa16c",
+    "privkey": "0x7e2f7f8f2c86335085f7375e3d0264819fc9eacd3b6c69b679c7d9acc5cbbe28"
+  },
+  {
+    "network": "EWT - EnergyWeb",
+    "path": "m/44'/246'/0'/0/1",
+    "address": "0x32367d04740D1397a846E4d986a41a1B474A8c15",
+    "pubkey": "0x02dffba0ed1992eecc1793389626dd567000f5541c1a04c69a6faab50f676ccf90",
+    "privkey": "0x84917bb197f2ccb60fcb7d7d83ecf4f990f1c0ebd4e53f29eba62a87fbba583e"
+  },
+  {
+    "network": "EXCL - Exclusivecoin",
+    "path": "m/44'/190'/0'/0/0",
+    "address": "EVz6ukf56TTJYwMd1Gv4UPyEhBBxoJbsXv",
+    "pubkey": "0240e99a4b2c1d367d094425415eb7cc915ff5d2b38efc9681ab95608f8d6c3b47",
+    "privkey": "Qw4wujLmcS9MTeJnGr6MRgebMPKapbtg2kL9TNencF83JfVQMvh1"
+  },
+  {
+    "network": "EXCL - Exclusivecoin",
+    "path": "m/44'/190'/0'/0/1",
+    "address": "ETE56aNy8Btswfk2zRijnap4zbJ9eeai1E",
+    "pubkey": "021dd4234bf5da5fac19cc1c4c6e29647fe2f655b6acde32dfc119a02b85b55c72",
+    "privkey": "Qsnjip7Bspbz7vjG3D53affSNZTPgqUzBAtgrsPDKbtKfbJMe7Up"
+  },
+  {
+    "network": "EXCC - ExchangeCoin",
+    "path": "m/44'/0'/0'/0/0",
+    "address": "22u7QYGeF9gjMWXyKFMcGXMXN96gCMvu1TC1",
+    "pubkey": "02fb207bd0e7a3dff762a91a70d54fa65674b74aa6bc1e302deffc7bce5163643c",
+    "privkey": "L4t3tg2jB5XvDJ7s3vsprkHX6xdQUPcxkSeYyvAytLjqZhruRRaQ"
+  },
+  {
+    "network": "EXCC - ExchangeCoin",
+    "path": "m/44'/0'/0'/0/1",
+    "address": "22u87DNWMfWj6vbRBRhE6GCbNiBq8VNX6gpq",
+    "pubkey": "02b3743319b8be95b65559c6890eec192b70849f5ab6333bc1f82aac2872bee993",
+    "privkey": "Ky4MUH9gVFLeix3nUGfkU5gZ3mirfzz9Hye1QjVMR9sKGUMpHws3"
+  },
+  {
+    "network": "EXP - Expanse",
+    "path": "m/44'/40'/0'/0/0",
+    "address": "0x24Fb9DC57d88ea124D0Debea15A4F50ad6a9d9Aa",
+    "pubkey": "0x022dda21d8c0c8ae6309b0d017e9795b45e24da6cc6f1825748ebbfe9829766cc2",
+    "privkey": "0x3045ec5f72e67073d1a0e142f55b133151dfe5e598515013310885d6a3f78ddb"
+  },
+  {
+    "network": "EXP - Expanse",
+    "path": "m/44'/40'/0'/0/1",
+    "address": "0x6F4Ff57A18F553eDf9C1c994B5507EA3d9F996Bd",
+    "pubkey": "0x02e88376ae4cc8f420ef6c0ca60ddc58dcfad9036135be5f64ee97dda999f5e03f",
+    "privkey": "0x3b3b819d5bd18c4b14b5053b981d52a72b264182bcbf4a633d26679b03783f20"
+  },
+  {
+    "network": "FIO - Foundation for Interwallet Operability",
+    "path": "m/44'/235'/0'/0/0",
+    "address": "",
+    "pubkey": "FIO4v1fuNTqKGX25dR9migES31aQyfMk2P9pXPGdMe5XKM3CRyQkK",
+    "privkey": "5Je21TRjhBLRvyh1kyN1mMawk4tjxPrAiFub7JhZhZp2KfoS6Qo"
+  },
+  {
+    "network": "FIO - Foundation for Interwallet Operability",
+    "path": "m/44'/235'/0'/0/1",
+    "address": "",
+    "pubkey": "FIO77SSvaGVqndqHmsyE5YJYQiZt5iDWcTZL7yBNF2ZQtsjKbzbru",
+    "privkey": "5J7YNyoMsZf3Wsg63ehf7yHTkZNoYc6og7BHxABmoLykbVNaytY"
+  },
+  {
+    "network": "FIRO - Firo (Zcoin rebrand)",
+    "path": "m/44'/136'/0'/0/0",
+    "address": "aNym7uYZQHQt55ofWpF7YMwVeUg5733Ter",
+    "pubkey": "0246983a5f83ebf995a0d04337b003579d3e8fd1ec8d4dfb2520e7a52e464107dd",
+    "privkey": "Y8Aq6AX9g2EdesziUHekznr7rwqYVCh7b3UiFN4mAKAYipEQJeVa"
+  },
+  {
+    "network": "FIRO - Firo (Zcoin rebrand)",
+    "path": "m/44'/136'/0'/0/1",
+    "address": "aGJUG7VPv3z8x7KaPSiuzRpPSanqjto4F6",
+    "pubkey": "02ed3d46bb55c1dcc6deb92cdcce0597b65b36548f8cf0276e8179b0ae99f685e1",
+    "privkey": "YAbQHFfV1WJRFNNeA2vM4AJ84vmM5cMYcFKpcPrCj2bwbjAxZ6tU"
+  },
+  {
+    "network": "FIX - FIX",
+    "path": "m/44'/336'/0'/0/0",
+    "address": "FTq7rHKndamHHRcdf58jyskT8dYfDMdHeU",
+    "pubkey": "033a998a8d01830041f5f3f98be4abc95918b58593dfa7f9cbff6c03a61e33054b",
+    "privkey": "9yM6zFqNJmDXyygDKnhcd591h5SU2bMNPyuNaUyDnMczLy1Jgnjf"
+  },
+  {
+    "network": "FIX - FIX",
+    "path": "m/44'/336'/0'/0/1",
+    "address": "FMqnVpj9FSa8CDgGtMF85H3kSqoHFRTJbA",
+    "pubkey": "02349a9156bffab9c04df3a78577e1fa64cb078a71f47513453bba6e65ad949cf9",
+    "privkey": "9yHqETkAJhpmHEWyxAdMYPPT4R8D6mFfpRUCvfwxxuP2RpdV4D9t"
+  },
+  {
+    "network": "FIX - FIX Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "XqdEyQAe3ThmBxdnLoW6SNWJxvHMVHNQtG",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "c6sN9T5xUitZa2E7ube4WaCP3WVR1yWcN7LNcnYmRB5XDDg9XgnT"
+  },
+  {
+    "network": "FIX - FIX Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "XrQLV1XxnNayZvFq7rpKBzJUdfuJd4VJwU",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "c7KePk6igJZczukS97w8yYNB3gPxERB9hwGubBV1VW7cEyZyyrW7"
+  },
+  {
+    "network": "FJC - Fujicoin",
+    "path": "m/44'/75'/0'/0/0",
+    "address": "Fggoa4najZu2dCmQBBXwnim6EokBprUwpw",
+    "pubkey": "025133b3c304c72d17cd7dbb6cd108443daeae9232b8e93d9f33217c36e94ee440",
+    "privkey": "RGCMSNv1SUUyN4mLtA1q3i5wqwYAJcoAabUw1TpkJ7qBudrTZWnJ"
+  },
+  {
+    "network": "FJC - Fujicoin",
+    "path": "m/44'/75'/0'/0/1",
+    "address": "Fcz71j5jeMVm8zAAP5cK4LUVh79Ut9EWMd",
+    "pubkey": "033a8869f578e86f979133ffcbe79ed1268241dd179f66eae51a6e335fc85c01ec",
+    "privkey": "RLpiNurj3yaLNFGm9tGkdZAYPPy7omLC9dcw1rFFtUM9Rb3sDfUC"
+  },
+  {
+    "network": "FLASH - Flashcoin",
+    "path": "m/44'/120'/0'/0/0",
+    "address": "Uf4x11bB56mbVCrUYuU9syT8ABEmrV5iJV",
+    "pubkey": "036d7cc04c56e60b4923ff3f23ab7297062536375ebaadfbe1784cb829e1ce19a9",
+    "privkey": "W6FV4VZGj98XNwLnpK6t72iFN5o1spjGWDDGhhWkkysfwWHwK3KZ"
+  },
+  {
+    "network": "FLASH - Flashcoin",
+    "path": "m/44'/120'/0'/0/1",
+    "address": "UQqpZnn9ZSJ1RsjB2scCFvnVXNFkr82G1m",
+    "pubkey": "0257cd8977b880805464f48739b8037769a46528bfa4a923308040e63d27382d5a",
+    "privkey": "W911n8iUCYGTinSJ8Dnk1hyVnnRNdt5kZC1dXE7iumHfkUMNFGUY"
+  },
+  {
+    "network": "FRST - Firstcoin",
+    "path": "m/44'/167'/0'/0/0",
+    "address": "FFaCjxRGeL21fhwHCebHskokLvKc6KiGQV",
+    "pubkey": "0305bd80523d8fd5ae9dc43b7db1a2439910abefc0c3033dd57cb3505ac2a1ceff",
+    "privkey": "RBn9TVsbZt8WzLGzUojvcD5Uaj23L8jh5qX3bAWiQHxNn3EK5U1S"
+  },
+  {
+    "network": "FRST - Firstcoin",
+    "path": "m/44'/167'/0'/0/1",
+    "address": "F7bVjjChExokurT5J3i9xbp3bb5DeiVBo5",
+    "pubkey": "02a47006310e764158ae5673cb9b9b96a0964bd78ff7ad31c100e352f38e2beec8",
+    "privkey": "RDg3WiCSQMTBmukJytJXENsFHUUm1BfZ7jAmpNumY5LR5nCL6uaj"
+  },
+  {
+    "network": "FTC - Feathercoin",
+    "path": "m/44'/8'/0'/0/0",
+    "address": "72NdoYhmWUnZmvavQnKDPe8kqCCYxuYYMG",
+    "pubkey": "03105eebc35e3cf6019e9d81a13266215c168b32dca837eff2ee609247b6b3f83d",
+    "privkey": "N8AtaugnLAR2UHYukpxosP4CtJMKKW17KnR22r44ux7yQFfLCn1k"
+  },
+  {
+    "network": "FTC - Feathercoin",
+    "path": "m/44'/8'/0'/0/1",
+    "address": "6yWi2VFRMRub5XUEoEWHRFwDa7qY1usitS",
+    "pubkey": "0368e47a0916c6277debbe523e55be684c56981aec9d614ee58fbd587fd753c983",
+    "privkey": "N3MALh4mWLs6v2FWiyBCKsKaoWNfTZ71baomZkNUSYhXpnXWaoXt"
+  },
+  {
+    "network": "GAME - GameCredits",
+    "path": "m/44'/101'/0'/0/0",
+    "address": "GZZTNir8rB3Kk4Nyg3T5LVnpoN1x5YKJgh",
+    "pubkey": "035f7a1259634c240212ae83558fcf3771342c4b8899ec2c415ed620e1606a645d",
+    "privkey": "RacczHWEpvAUuCS4ckLmTcxefBvXvMfdRRARUzvQn9vQPuognyUT"
+  },
+  {
+    "network": "GAME - GameCredits",
+    "path": "m/44'/101'/0'/0/1",
+    "address": "GV8nKkJHVydkkLmjqU1hF8aKrh3KnHLFJP",
+    "pubkey": "023c7afed5dd6154997ca57d7c5543d112a7eae8595a3b72ec7d07211f4461af44",
+    "privkey": "Rbf1zCdfnBU1DpFCGE8A3bUoBLkXCWUudf2kfhJ3GoTzGbChCa8x"
+  },
+  {
+    "network": "GBX - Gobyte",
+    "path": "m/44'/176'/0'/0/0",
+    "address": "GVNE9qqFRTg6oGT9Yk5ugVM3SorShrbjSk",
+    "pubkey": "026aaeb090be05f01a2cf45f373678a250b7df5dcf7235a9883231289ecdc034ec",
+    "privkey": "WNnNHDUYVumEu6j1dEaeGvVh6nthFACjwdVgZ7eSMjPbisQHbsHb"
+  },
+  {
+    "network": "GBX - Gobyte",
+    "path": "m/44'/176'/0'/0/1",
+    "address": "GSzSCBptHHnxEHboiXzS8di9FLiBFrSFC8",
+    "pubkey": "02e6f50130abaeda7c61eb004ba7710187b839680c15891f5eb6307b8e4acb59be",
+    "privkey": "WRnWLgJ6RxWbHujnPa2djw64TFGoxTYPCc9ypSdi1foX17aXzr1v"
+  },
+  {
+    "network": "GCR - GCRCoin",
+    "path": "m/44'/79'/0'/0/0",
+    "address": "GbqYGCHAW2nCAUPRMRDhR7jhafKgW8TCpQ",
+    "pubkey": "03662d252bbcf6f3360d44e1ab6f153eec3691128afe377e6891cf62190a43810b",
+    "privkey": "PtMrXLwbFs1KXGPrEkLuHoiYCEEFnyRJTiSH14wAR5pB2E9DbA1m"
+  },
+  {
+    "network": "GCR - GCRCoin",
+    "path": "m/44'/79'/0'/0/1",
+    "address": "GdbfjUn5LEV2hpLui8pyHQdj3za6QGdFGd",
+    "pubkey": "035e6b753d93d72d853d53272f5c23d4034e775ab957d108eb8feca8a78a227d57",
+    "privkey": "PsHr7N6m9oNj8i6hG27867HpVhAuNxvizSbh7cR3LYHqbVRuodjA"
+  },
+  {
+    "network": "GRC - Gridcoin",
+    "path": "m/44'/84'/0'/0/0",
+    "address": "S7ecLtuwJLYXN4BGWcUMwQz1hHVDEwNFXD",
+    "pubkey": "03b5fa065fdbaff93060311a7ad357cd59cbf3ff6510eef5da2a38f2285914561b",
+    "privkey": "V9STHZnRWcVUbL6Z9qvgPSWGFoBQWYnwgdWLdiSvbCDuQHuNyhYk"
+  },
+  {
+    "network": "GRC - Gridcoin",
+    "path": "m/44'/84'/0'/0/1",
+    "address": "SHpiFMNsyhJ4yD9DUFaqEB1egnbNwfEzCh",
+    "pubkey": "021fc6dcf62977ffbdaf90610bf6736dbfbf8597b972f9d3e65437f3f7e3db2b87",
+    "privkey": "V7Km3CQP3zmFEGQHxpijx6exxc799gJkgPQT3C43UFfbCd9h5K1A"
+  },
+  {
+    "network": "GRS - Groestlcoin",
+    "path": "m/44'/17'/0'/0/0",
+    "address": "FpZzurQkUY22uJiV1wxUuYcTss6kDE2yv8",
+    "pubkey": "030f2e9a28ec7fb6a1f1347efb106625ed9f59312377397a031e2cf67e4e9122c7",
+    "privkey": "KxJZ5DXLzaXZdGjgGP8zmqQamq7Trzzz26nT4kttoZfggUrHum3q"
+  },
+  {
+    "network": "GRS - Groestlcoin",
+    "path": "m/44'/17'/0'/0/1",
+    "address": "FjmnViuSg9za75Etx64a1QrZrLEMo4MuFY",
+    "pubkey": "03ac778c7f409d3bf545fbcc6a7f588c66514a99d3855b44cef55211a20d4898a5",
+    "privkey": "L4TsxGBEuPYNDXoXF47Qexbcs8KKW7jKjV8ebex81i1m5U148JvS"
+  },
+  {
+    "network": "GRS - Groestlcoin Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "mvTMSCbitmvRp8WpCVAFQm2qzaJNRcEiCU",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "cQ2dHmokq2iqX4Ff1kRr6vPMYNtigp44gzadjhExQ8awmt8jgcvM"
+  },
+  {
+    "network": "GRS - Groestlcoin Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "mwESwoy3dgoeC68ryYUUANq1fKvKakBeqS",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "cQUuY4pX2cPtwwmyFGivZtZ9YYoFuFic2pXAi6BCUTd2odxpZkqL"
+  },
+  {
+    "network": "HNS - Handshake",
+    "path": "m/44'/5353'/0'/0/0",
+    "address": "hs1qpl8aq5s4z58ktx7e3t593d0srqvdfppxjgg5t7",
+    "pubkey": "037c7c443669294068f51f983d5340225b624b745cfe02bef81759e95ac9d9c741",
+    "privkey": "KwPg871jxx3VZ7k81ophnnzkVFhAsECacqHpMEQ1CTpuJD7reo2c"
+  },
+  {
+    "network": "HNS - Handshake",
+    "path": "m/44'/5353'/0'/0/1",
+    "address": "hs1qw3aff32535h38vg9fdvvclrk3qddfzyxwlyzct",
+    "pubkey": "02a68b9680e3a278056394ce5a43bd9ac9affc97489b719743d3828c9975b38c4d",
+    "privkey": "KxjJngTrm2iYdEazr8gQUXHu19qfPc3DJC2kvaK5hJpgPstzHGW9"
+  },
+  {
+    "network": "HNC - Helleniccoin",
+    "path": "m/44'/168'/0'/0/0",
+    "address": "Le7CYmu6hgPpPHbCyUummeJynqNSGcbK5n",
+    "pubkey": "0270c3614b15a374f85aebdbc584b4a5f7bf4cbf4462d455ae5bf691a48401fee6",
+    "privkey": "T4SBajm8DG7zYBEtzdq8VvstQpWnJJPTo8BZZSsDUDydybwZFpov"
+  },
+  {
+    "network": "HNC - Helleniccoin",
+    "path": "m/44'/168'/0'/0/1",
+    "address": "LKxi5TvA7rkhRhY4JRb2usrejAi1vUBgGs",
+    "pubkey": "0256c99ae7c0e483e18e4605a011587cb9a32ebbc8613170afa48265864d08cd59",
+    "privkey": "TA7sr25mNB9TmGcWcJt4xx5ww3hTrws22tRoCWnpuXyEcENtaEDu"
+  },
+  {
+    "network": "HUSH - Hush (Legacy)",
+    "path": "m/44'/197'/0'/0/0",
+    "address": "t1YNJRDstZPZg47191XxthnfXGguKzN5A4Q",
+    "pubkey": "0398a65f4f140a558e2e3d75d473c19353f405c10a9edfa45e7dea15109a8d8da8",
+    "privkey": "L3pK8RjmQXUXreuNypjpZ1xvjKkZnzaeRD9mMRtbRokhbM4Uq3XT"
+  },
+  {
+    "network": "HUSH - Hush (Legacy)",
+    "path": "m/44'/197'/0'/0/1",
+    "address": "t1g8bF8KZsVXuLcQhozZSWZBFz3ZrUnNciM",
+    "pubkey": "03ae47dcc01c737a30fe947b8fa73b9c048d1017b8070387d4b8663c9bae48598d",
+    "privkey": "KybV9UMu6yVBn1GnLWD8Es4DUMDpbDNSXw6ozMd4gQ8hzuKCcyhC"
+  },
+  {
+    "network": "HUSH - Hush3",
+    "path": "m/44'/197'/0'/0/0",
+    "address": "RPmtVQM3BtaeXUKSYH8tfVtonJAqs4zDKL",
+    "pubkey": "0398a65f4f140a558e2e3d75d473c19353f405c10a9edfa45e7dea15109a8d8da8",
+    "privkey": "Uvc9S7MjukSnKhhUANRQKTe9fPoht6rGBiXavggGtWyQVD39shXR"
+  },
+  {
+    "network": "HUSH - Hush3",
+    "path": "m/44'/197'/0'/0/1",
+    "address": "RXYBKJniVzYsoyj1LjjSUGQYVeqNNLcWTB",
+    "pubkey": "03ae47dcc01c737a30fe947b8fa73b9c048d1017b8070387d4b8663c9bae48598d",
+    "privkey": "UrPKT9yscCTSF44sX3ti1JjSQRGxgKe4JSUdZcQk97MQtmJAwT8b"
+  },
+  {
+    "network": "INSN - Insane",
+    "path": "m/44'/68'/0'/0/0",
+    "address": "iCKNNC9iw8zRMiEMmPoGXnJ1u8cj4jxLWC",
+    "pubkey": "0365cf998d2ac6d1da032f794fe8b0db65730fe8d42df5116a5450b902ee43798a",
+    "privkey": "9H8jo2ivtgFcBSALNssn42p5fGLA4wvUr5SeVLTyKZGP9G66tbqL"
+  },
+  {
+    "network": "INSN - Insane",
+    "path": "m/44'/68'/0'/0/1",
+    "address": "iEYz2jS7745aGj5u1xZxCkMAgSZ7rofzZF",
+    "pubkey": "039cb179cd46725603590bf2dc0704a30f6e3f77ef10f45172f7ff60ab5f3cfa06",
+    "privkey": "9GLyDJYsx7HnwrjFL94AZDgfadCjCeJsyhySorKETY96T22jD8q2"
+  },
+  {
+    "network": "IOP - Iop",
+    "path": "m/44'/66'/0'/0/0",
+    "address": "p7ev7CucTbciJ9XrxrXurb8gSC2FLP4oLG",
+    "pubkey": "023711e8482b9f14d185e7f6174b753ca140df8f26cc6dcba35627de206e99f1fb",
+    "privkey": "8HEa9pMj7TLepNMQCy3tea4adZpokPqMT221K8qXmjfvjF8HoAKa"
+  },
+  {
+    "network": "IOP - Iop",
+    "path": "m/44'/66'/0'/0/1",
+    "address": "pKCTxbC393CXvphnAWYE97C8uxSdzvvyGZ",
+    "pubkey": "034abb64d402a5385e6f3718a64718ff75609dde221250965d1f812b518028282e",
+    "privkey": "8HAS5vMVjmnBFshqpwxL5AtUX9v6C8CsPKo6eefKJibTdZ2eVyfD"
+  },
+  {
+    "network": "IOV - Starname",
+    "path": "m/44'/234'/0'/0/0",
+    "address": "star1uy8n5kfmple805rh43xdlf8n03zyxlhh2vlt78",
+    "pubkey": "starpub1addwnpepqgns7xh9w33ahtj65v0tnt6gv55gemtnc40hj2tj0zdvug3c6y7qqwqe2gm",
+    "privkey": "sdZSMCjS4AdnCWrfD5UuqfYfRd4VdnDG+zAH5nRO3Ko="
+  },
+  {
+    "network": "IOV - Starname",
+    "path": "m/44'/234'/0'/0/1",
+    "address": "star10s2yzklrpcpyq4s9havutykjtkftym2fzpn742",
+    "pubkey": "starpub1addwnpepqvwtqxd98jlgank9hwqr9u8ceud3qd75wwsm9t509d3na3e4m35wuussdxk",
+    "privkey": "SS9jaDS5aStP9xMSTEeMMUHZHylMmN0GaTcHQhswZiQ="
+  },
+  {
+    "network": "IXC - Ixcoin",
+    "path": "m/44'/86'/0'/0/0",
+    "address": "xe19dhZSALnGepXhAgqpupYKFAC4XddtrL",
+    "pubkey": "02ff136ab90b586bc81ac70dedc17342f3ea8fb7905bcb662655718c45b5614ec1",
+    "privkey": "L1A3a62eCErqzqwbZKUKKbFhK9er8nsnkCiLCRELH8qJvWMLEqLb"
+  },
+  {
+    "network": "IXC - Ixcoin",
+    "path": "m/44'/86'/0'/0/1",
+    "address": "xcqSnTsidCd7aWN5pJb1GJeBz2fSQrgtoa",
+    "pubkey": "033b37bf43762ced8b939ebfa917c4fa58400ee95fbcd3db8044dcff9e01946c77",
+    "privkey": "Ky1dEucWhxM411b16JEYLce7GPazwggewRgo9d4yYaCBBh7DT8HN"
+  },
+  {
+    "network": "JBS - Jumbucks",
+    "path": "m/44'/26'/0'/0/0",
+    "address": "JXbsNchrekUfrYn4NJbrXzxdXQWFkSLyZU",
+    "pubkey": "02d4f21e66e83e72fc40d4bb6b83db7f600ff1b11e6d2f8488803c231876e52783",
+    "privkey": "SJf8j5C3cBmZ8bpRW5v72qLgt4BwsyLhVw6AL4oVwqzphHdi1XZi"
+  },
+  {
+    "network": "JBS - Jumbucks",
+    "path": "m/44'/26'/0'/0/1",
+    "address": "JeLoi8JehXCbQYcmygdzZQTXTtRxjUiUpr",
+    "pubkey": "034e70c5e187968f1cd421ff00d5e780e460c4e573014fb4bd5aa68a96affaf02d",
+    "privkey": "SMjfuVStaz8oyQQjL22HyXFVhtLKDRBKpiwAusDzXLAt5rqQy6Fz"
+  },
+  {
+    "network": "KMD - Komodo",
+    "path": "m/44'/141'/0'/0/0",
+    "address": "RGVJW6HGRbeFGWzk2GUvFEr7YsFRrfH4ci",
+    "pubkey": "02a8bcc4d623ec170addb91f5b1d2a5c765bd080350e3764eb8c5620d0083a2c3c",
+    "privkey": "UvoW1YLgKAMSSPx7ug6FGwmCRE8umrCzk2pZgZzeb2sQCgTPz3Df"
+  },
+  {
+    "network": "KMD - Komodo",
+    "path": "m/44'/141'/0'/0/1",
+    "address": "RM1wR4ZYKmjRx2LsZwSL4CCcHj6UU4PLpx",
+    "pubkey": "0291a3b67ae1a44a8266a50d6aca2af3769d39785c2c99a7030c06cfa51d8e4a83",
+    "privkey": "UpTMJpCVg8xjedHDvVq3n6GHkVUnnr5ocvkJoMBuGN9x8qBes6sv"
+  },
+  {
+    "network": "KOBO - Kobocoin",
+    "path": "m/44'/196'/0'/0/0",
+    "address": "FGZCLsQ3eKQftzQ94yG1vL6nYhZ3x8seSv",
+    "pubkey": "0306083bc168746f2ee07badb269a3fa5146a2a9a6f9d631b00bc1343ff62924a6",
+    "privkey": "R9giDB1tqp8rtmdWnWFHSvzTtbAU8CdqsPJTjmqZfiHytdvFgRET"
+  },
+  {
+    "network": "KOBO - Kobocoin",
+    "path": "m/44'/196'/0'/0/1",
+    "address": "FR95DfPsEa7J8PjYHUYZEmZmSGQu3ohwpe",
+    "pubkey": "020cf785cb762990f8fec26bb72750b2a30478809324d8fc2858530274cb0317f0",
+    "privkey": "R9MJQN3dxr8boARLFa6m5NNzTgsFiWuURWSoSBHYRg5tt4wajUEo"
+  },
+  {
+    "network": "LBC - Library Credits",
+    "path": "m/44'/140'/0'/0/0",
+    "address": "bGsvJfw6JDxhBxUjmDEQi5VaeeEaDTjBsn",
+    "pubkey": "0326294407aa5dbef6a0a92b017784f28b653a85620a52a72810eecda0e898be5c",
+    "privkey": "5ChPJ6XzDsbdkJxPfxxBVuU2e7onRf2CVenmAe8yAsbRxsfk7PBQ"
+  },
+  {
+    "network": "LBC - Library Credits",
+    "path": "m/44'/140'/0'/0/1",
+    "address": "ba8bgcDHosrbhQQ7SEwn5orxRDp5hkQYHs",
+    "pubkey": "025719afa07e2830d7b1dd89183af3bf0083a5e57ddc9ebda99cdf0ccab086c9d6",
+    "privkey": "5Bdbk6HXhJcF7AVgW4uzekx8kDaYSGBwVuJbXKE5MtH5x7Wu14wL"
+  },
+  {
+    "network": "LCC - Litecoincash",
+    "path": "m/44'/192'/0'/0/0",
+    "address": "CNQrVXT1WgyanmD2RxssJn1Qp8HP5AwenY",
+    "pubkey": "03bda64778cf2a75d9cd540e6324a029ed379b1e12269ceceb0864f20c64b36beb",
+    "privkey": "T6KnAMk8fFz4prWVPrE8f9ijbLpfkJPgsmpDVUpUs51RAB9s1Ry2"
+  },
+  {
+    "network": "LCC - Litecoincash",
+    "path": "m/44'/192'/0'/0/1",
+    "address": "CdsCdYqyD4hjY3Cde8MCKx15deHkRxvyYf",
+    "pubkey": "0282e3599af3fabb04787bdfaf65bd55eade2d31ef4a8b7b2bf0fa28f08fc32bcc",
+    "privkey": "T52tisFSQhFAkm1rvGeMMPk1dT6JnxQigoB1eJ7Z93jvPDetoWt2"
+  },
+  {
+    "network": "LDCN - Landcoin",
+    "path": "m/44'/63'/0'/0/0",
+    "address": "LX9PRaQqHcpzHQsV1ZJAqySQHxfuQ3xJmX",
+    "pubkey": "03b2df4b548e92c04f01978726ed58690b6d3feeaa1f11ece146165e675ff4caa8",
+    "privkey": "T7GjtnzHFQNV8T5JGBo6brskVrn3V8isWStTNmbXs8FJSf6qhVQc"
+  },
+  {
+    "network": "LDCN - Landcoin",
+    "path": "m/44'/63'/0'/0/1",
+    "address": "LUy2vaPRvwqhdZZVQHZDwZ49mVqKRcTJ2U",
+    "pubkey": "039fd0f0235f754e6ca7535483b637d4afdf919c96957af1a83bfe4ac2d2e91755",
+    "privkey": "T5Mv7FJd7uJnN1kVesinDELixrNASDQJg8ZcXAMA5dAKyF8zaqTq"
+  },
+  {
+    "network": "LINX - Linx",
+    "path": "m/44'/114'/0'/0/0",
+    "address": "XM3vHLXjJhsbTkA686yoVS3GxJzsRkE1p3",
+    "pubkey": "03a453fd8cb079b83fad5423f2e74ec7c259231e3281bb8f3b3b7fff7e5fbb9a22",
+    "privkey": "X9ei4Xq25RU2xGRB6xsVJsKevP6WBhdbWUYVXv8XJkE8vxH2o8PX"
+  },
+  {
+    "network": "LINX - Linx",
+    "path": "m/44'/114'/0'/0/1",
+    "address": "XUrAjmsbwyye6p5y5MXCWMy6T76bKdXD6m",
+    "pubkey": "026e9ff07cfb5339694e3e6bd214a6614cbc2fe92855303501f48e2ea2bba2ff55",
+    "privkey": "X9MNq9R5xyVTZqYEM2QGAyiwerVWpwCnebau7JiAZHrVfvXXYgap"
+  },
+  {
+    "network": "LKR - Lkrcoin",
+    "path": "m/44'/557'/0'/0/0",
+    "address": "LZRHdeQ1B25RG6i2TN5761XCzxzesg2rc3",
+    "pubkey": "0303c4c1b0dd45e409493a8bb2298243bf700700c1cb6659cb37acb80508b123ae",
+    "privkey": "T7aqNB49Y93NCptiQpomZEyvB4x9PXPrarm51D8Lijs6KpbfKuJP"
+  },
+  {
+    "network": "LKR - Lkrcoin",
+    "path": "m/44'/557'/0'/0/1",
+    "address": "Lhq2nvYjiM1m6gqUNgPcT6HXGYf4S7SHrC",
+    "pubkey": "02f3a1c037c05ec8f01324e0757470bdc322214316a659bd9db45e6173df9ad2dd",
+    "privkey": "T8xuzP2AA3gNoLAVb5uz5hwDXdeK2NCmxbW2ixqjBRP9omSKyVAF"
+  },
+  {
+    "network": "LTC - Litecoin",
+    "path": "m/44'/2'/0'/0/0",
+    "address": "LV6BQ5SjzNRcYyJm1iChMDqZxg9gBRNmXH",
+    "pubkey": "039932ea12f8ae096416e549cc36dbecea5601d29741919cb97341922b9a184dac",
+    "privkey": "T3PZBZxYWEQLDUNvCfvaPz3KaZ1EayJH8HeweAYfATxx8Ft5Bexd"
+  },
+  {
+    "network": "LTC - Litecoin",
+    "path": "m/44'/2'/0'/0/1",
+    "address": "LfH748UKNmR1JoPij7ycMoMJUMATrwffHB",
+    "pubkey": "03ef12691c43f6df2e2a3ea83c7bcb1f652d0995233f1c1ab097f5e0941de3cd6d",
+    "privkey": "T4hQLhE7khvie4DnwMEGUarMb3xrP6aMJ8vyA3iV6wiUwyKjeFH2"
+  },
+  {
+    "network": "LTCt - Litecoin Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "mvTMSCbitmvRp8WpCVAFQm2qzaJNRVVtQF",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "cQ2dHmokq2iqX4Ff1kRr6vPMYNtigp44gzadjhExQ8awmtAq9CZE"
+  },
+  {
+    "network": "LTCt - Litecoin Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "mwESwoy3dgoeC68ryYUUANq1fKvKX6ksvf",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "cQUuY4pX2cPtwwmyFGivZtZ9YYoFuFic2pXAi6BCUTd2oe2bJuHi"
+  },
+  {
+    "network": "LTZ - LitecoinZ",
+    "path": "m/44'/221'/0'/0/0",
+    "address": "L1P6RRJRaCgxrRW8mBaB4tMeJTPGAn9fMGq",
+    "pubkey": "0204676b3e33b5e6381e7a15c0d5ad3c73ce287656584ce11543536671b68c5527",
+    "privkey": "Ky3JADYCjERx139zik9BXpEykvPztCfKtH4aByu3gHAgpuDdNMmD"
+  },
+  {
+    "network": "LTZ - LitecoinZ",
+    "path": "m/44'/221'/0'/0/1",
+    "address": "L1Vf3BAVUYvHFCsCX9qEADGEdkxHHUu3Pf7",
+    "pubkey": "02b6ff39df6e596e16cb5120a1cd9bc5806460713987a3df414c7c82e51c8b1443",
+    "privkey": "L3vRMtqrooKttFSujgxmhBAy21VsVApLFFf7e8kacpAQ1AthuvqK"
+  },
+  {
+    "network": "LUNA - Terra",
+    "path": "m/44'/330'/0'/0/0",
+    "address": "terra1dtvxcr5l9atag2fpphvnuz05nfjlkv9unlpnz3",
+    "pubkey": "0331f5a2eac7cc9ca43ab6de8e7301e787a012802f8f26c76a85b975311fbae8c7",
+    "privkey": "f8bc4bc5a05cd1cabc680d4ab548289cca009486d8500a67e71163853f915fa1"
+  },
+  {
+    "network": "LUNA - Terra",
+    "path": "m/44'/330'/0'/0/1",
+    "address": "terra129vsnv6483vm4v4ce6ypksne9s5w9xue3mufy2",
+    "pubkey": "036ffa9668b6e29b99bdbb7b3147e8c9b694e59a1227fb8a59aa0956231feda5e1",
+    "privkey": "027159a091d6c0622d06cf30da8b92d96fa30c7152dc96f1939e90feab904822"
+  },
+  {
+    "network": "LYNX - Lynx",
+    "path": "m/44'/191'/0'/0/0",
+    "address": "K9U4bih8B269NHK2WRgNu5utecj2PEzavv",
+    "pubkey": "02194fe90c91d9abc117cc48da0a8e078c9bb1f484beea5d9cc813399b1d4af36d",
+    "privkey": "Sf2SeHK5edUGBMCCUTo5GtMMeRbF1U3aeHhUoDCdEhEcGNP87N29"
+  },
+  {
+    "network": "LYNX - Lynx",
+    "path": "m/44'/191'/0'/0/1",
+    "address": "KL5p3MyzvoyTdVJ2Yz1yzVynVy2PmVgcZk",
+    "pubkey": "036a0ade9e62463ea22a8fce9fda9e07573f46c7328179e73a0a2278c588ed3b34",
+    "privkey": "ScsNvXKiKUznK93arqXfo4vqgSoY7gpYq7ZdhSpGX2uU4Lt8TXfs"
+  },
+  {
+    "network": "MAZA - Maza",
+    "path": "m/44'/13'/0'/0/0",
+    "address": "MHH8tSM7Fj1U9tSjLQnGsjXdFaUcNEWQHc",
+    "pubkey": "029f1fc505410ebd006b9543e7056069372addaf0880bb757f69ca84138ea3f41b",
+    "privkey": "aEYXo9osBZciVYYpXB5G6cu8ZFEuVxkbw2R5qp6YmNEPHT6zvrUG"
+  },
+  {
+    "network": "MAZA - Maza",
+    "path": "m/44'/13'/0'/0/1",
+    "address": "MC8rjNAxigsy92wfxghYunZtqSzER1kdN2",
+    "pubkey": "02daf8dc7d1a797a1632a5793c4071a62b5f2f8dcca6947e0e5fd3349da258b653",
+    "privkey": "aEb9mnWDoH3py8BsZyAyqfgXfHmrdfm5Sw4fir2yaCUoisj1eD1h"
+  },
+  {
+    "network": "MEC - Megacoin",
+    "path": "m/44'/217'/0'/0/0",
+    "address": "MDA6GPJdizcn7cLoHNN4yWzF4VZadpTMbk",
+    "pubkey": "021a6de3662250934edba8b45420d3f9225284527cc6c15ff1cb8f63d5a9879bb9",
+    "privkey": "TUSTBPcr5wggyzaAdzejGFnLLqjLGAYARGBCuzRyAhUeHgHsiPc9"
+  },
+  {
+    "network": "MEC - Megacoin",
+    "path": "m/44'/217'/0'/0/1",
+    "address": "MSxWr4Em9Z2dT8Fi4WZR9x4U5DKc1YpbFy",
+    "pubkey": "0245b6960292c6c4a4cd15172b2b07cc152adcbc6250b62f267b24f339acafb7e9",
+    "privkey": "TMDPHQYhm2PDoAxNsLgc6Dx5NtvkV9L1BY6X9ngF9Jpm7meS9ktu"
+  },
+  {
+    "network": "MIX - MIX",
+    "path": "m/44'/76'/0'/0/0",
+    "address": "0xa7B4bcd0d91fC011Fc3c2A51C6Fe027030233C29",
+    "pubkey": "0x03577b85ed5c9a364c4fe3aa4dc9c1cc5c2db9e72666459050ae0205206166d6d9",
+    "privkey": "0x8d00ad24c46d7ba5a255d43cd8f977985d89f7597ef02bf7d423fc4a03e1db4e"
+  },
+  {
+    "network": "MIX - MIX",
+    "path": "m/44'/76'/0'/0/1",
+    "address": "0xdAb1b40c52a091f8001FD6f87B4A767Cc04f36e5",
+    "pubkey": "0x02d94413ba6c289483ac892967ee82a6c11e66cd2abfeb5295a456a8e5fe51c847",
+    "privkey": "0x5e337cdf532ce29d88c8293e9a8fe8c10c3c13f56ee3b6f1aa90de362f68983a"
+  },
+  {
+    "network": "MNX - Minexcoin",
+    "path": "m/44'/182'/0'/0/0",
+    "address": "XN2w6pPWUoUujshNLJQrzX6Kk7Ko9tyxqT",
+    "pubkey": "022162aff26c6f491b684c1a42a6af30147fe5ee9f7ce25eded2fb160e3b886b0b",
+    "privkey": "Kxf7yoFKNpCDE4P2wVQJkkKREuCSfN2NGK5VkEtuFLFWdN4dKaRy"
+  },
+  {
+    "network": "MNX - Minexcoin",
+    "path": "m/44'/182'/0'/0/1",
+    "address": "XSS1VKfU8CCkzFbzP35YHn4BV8uDCLgy3V",
+    "pubkey": "0347979a0d7765ec0da91deb5baadaf124666cbe5bf0ec9adcd2d1d65af60ad068",
+    "privkey": "L4ddwMAgPZmgdyfhfHfJh53TS5LLDjp44WdC4dM2Nu6Zv3fwLSDD"
+  },
+  {
+    "network": "MONA - Monacoin",
+    "path": "m/44'/22'/0'/0/0",
+    "address": "MSVnNr7Ke6j2KQQcpjvEboroDiN6FYYywe",
+    "pubkey": "0224008f763cfa113cb0bdbf35ac3fab34001f92122c5f9e68d4b8fcce05b867e0",
+    "privkey": "T3HmkYbhxiuSQLcNpQDKNtum8J9AtrV6um2EhZ3xGM3pdmfmJ8Cb"
+  },
+  {
+    "network": "MONA - Monacoin",
+    "path": "m/44'/22'/0'/0/1",
+    "address": "MD2E9tTgXxoxcmvVBR7gfjUrvMY6mWDZ3c",
+    "pubkey": "03a3a8476cb454fac37bc898aedfe06bfa8ab20e8510340e9adf5062cfafb230bc",
+    "privkey": "T9sGUpTkgHki7CPWTvoRqGuEftHiVpzbt1HJ8xiSBcYGE7t9EDtT"
+  },
+  {
+    "network": "MONK - Monkey Project",
+    "path": "m/44'/214'/0'/0/0",
+    "address": "Mpm33RSjUDk5wd3jL5mfHrEo5CYxfsJj3A",
+    "pubkey": "039000997b5c75ab99f8f32346249f5f37b6e3ec20e60b00dd89b6d4617eedcf9a",
+    "privkey": "9FjTivsexmtM6f4gUzWxeEnUAAb5M1jDjsuwrC3KMrk8ak9ojfRa"
+  },
+  {
+    "network": "MONK - Monkey Project",
+    "path": "m/44'/214'/0'/0/1",
+    "address": "MmBCq7yTTGxVD1XZEDig6kd7rSi72EQtm3",
+    "pubkey": "02a758b6bac291bce2c717444544855d5ef1e118f3e6b88dde2db493b1816c1e2f",
+    "privkey": "9GdiCGHPws6bZy7yT4hG17v2oQtk5vmwgSBBF3VS9EFjih1HCR9i"
+  },
+  {
+    "network": "MOAC - MOAC",
+    "path": "m/44'/314'/0'/0/0",
+    "address": "0x246438441C2e7222DeAe31Fd94b45FE542D305bA",
+    "pubkey": "0x0241014a6501a75b45c69f7debd443587fc8584f97f31815b410ce90de0b544ea6",
+    "privkey": "0x580a52a74faf4c39ded3581b530c8e6ddd16595023b06935344768cf21bb7579"
+  },
+  {
+    "network": "MOAC - MOAC",
+    "path": "m/44'/314'/0'/0/1",
+    "address": "0xcc7FfD1481Ab05f93D028302F2FD84a586566D08",
+    "pubkey": "0x03f28ce81852bb5e650de3aec221dba88dd7aa090b354d489efc4f02249d663184",
+    "privkey": "0xe686ba409397ff5559d0b44644b3fa8e70389f1e292b3e9b15ddb99c5a5ac19a"
+  },
+  {
+    "network": "MUSIC - Musicoin",
+    "path": "m/44'/184'/0'/0/0",
+    "address": "0x52751f8F5481783DF44Eb8DFFF4Efa998D5Ffaf6",
+    "pubkey": "0x02bad7eb5c87db6646ee93911ab5c22d71aeed87807d7a7e50d41f84d3775e2b0d",
+    "privkey": "0xaf102a5dc4a149426221202667cfe759db308bd3e97123583702d41928ffb3bd"
+  },
+  {
+    "network": "MUSIC - Musicoin",
+    "path": "m/44'/184'/0'/0/1",
+    "address": "0x83162B08990E816B1e201eA652802422DDC40361",
+    "pubkey": "0x03fae19ed522eac91998c13c4f0c6c2f44b5894c8a23f9dc6f7ad408a35b1bf61d",
+    "privkey": "0x709183d78ea45f9c5407b7788d00523a223d76e186ca875ebf06ebaf18762bf0"
+  },
+  {
+    "network": "NANO - Nano",
+    "path": "m/44'/165'/0'/0/0",
+    "address": "nano_3kzubs5cwcc6feax6sd6rro3xnk6bu5wq74hycx3s94zx1bki9uz6dxfibqx",
+    "pubkey": "cbfb4e46ae29446b11d26564c62a1ed2444ec7cb944ff2ba1c9c5fe813281f7f",
+    "privkey": "7d1197110dd1012b3c18151e5ace8d59e21b051c98bcad28ee9594330c967235"
+  },
+  {
+    "network": "NANO - Nano",
+    "path": "m/44'/165'/0'/0/1",
+    "address": "nano_1nsn3jy741n8dod5jz449sxdid3qa86jnfjdoxafu7zkz4jowmnecbher8ck",
+    "pubkey": "53340c7c5102865d5638fc423e7ab82c3741891a362baf50dd97f2f8a35e4e8c",
+    "privkey": "4c2fb51f96deab5f9d5fef613078d2e62ce6104b46b2277083fada734d0ef4ad"
+  },
+  {
+    "network": "NAV - Navcoin",
+    "path": "m/44'/130'/0'/0/0",
+    "address": "NQCkuNCh7NirbBBGA6RWmjHq7gxB1xPRqs",
+    "pubkey": "033f99476df310c7dca71ef36c573dbff34c4609eb2f5999af6efcb3427e66212f",
+    "privkey": "PF3FZ6JEDd6hJzdkthwHPw8tby5CwRVAVmf9sDfjYVxYLeaMCbXK"
+  },
+  {
+    "network": "NAV - Navcoin",
+    "path": "m/44'/130'/0'/0/1",
+    "address": "NaU5KmjszdMdn8Apo7vuYNyxx3tA2qc4eL",
+    "pubkey": "0239d90acf9e562c309f2c1ea099b43cdcf9dd1f44a4c85d147e6a9b2c87322d24",
+    "privkey": "PKqpDsBEsq1q11vqEqBGCjhWJYEXJ2V6NdTxijqHxzEUYpBPPvC2"
+  },
+  {
+    "network": "NAS - Nebulas",
+    "path": "m/44'/2718'/0'/0/0",
+    "address": "n1FHoGi8YDDBQ2hNQr9eUpxZV2qyYa5nzeG",
+    "pubkey": "b360062ccffdb5a2985c9e3806fa925b24daee301f1da2e7efcbd8f1aedd9f45b0b856fd21765bf8d020f39551bab3d073a5ce9348b9db319a79972c89ddc9f9",
+    "privkey": "22257704527eba1b05df44bc136cfab6e90f38abf2439f53f65ac0c31a359fbf"
+  },
+  {
+    "network": "NAS - Nebulas",
+    "path": "m/44'/2718'/0'/0/1",
+    "address": "n1STtHH1BKmPke7iKoEBgLfVJfHu2z8Udcf",
+    "pubkey": "e5a521511560547fd53c241fadfc4ae4db177cc7d9ab2ee32ac5059342580c8db413fd8c080fc0d65353e60b37123bad91d0a9cc5936714278eab7cc28bdc814",
+    "privkey": "dbb76a39c2189fc96e61e8c84966d38408e56503ffd0a558c89fbba8fabbf744"
+  },
+  {
+    "network": "NEBL - Neblio",
+    "path": "m/44'/146'/0'/0/0",
+    "address": "NihffdNUJj3S7xdZUiMtc6PvMHmdQvx2wi",
+    "pubkey": "023a1d43a657bad745e4b06ab99fbee78d81c1d7c5336e208e17f003e636694368",
+    "privkey": "TpUwsL483GEY4hKhcrnC8WBmnVowjMi35W7Ts9YJaYvda97pirzJ"
+  },
+  {
+    "network": "NEBL - Neblio",
+    "path": "m/44'/146'/0'/0/1",
+    "address": "Niz1DevP45FSMKFrkkvCQ34y1WbbWfE2Zb",
+    "pubkey": "03cfa1d246545230a73a56ed8cb414c6a1bc322fbdaeef9d7cae63bd2b45aeb8cd",
+    "privkey": "ToeTe4cg4s9jL7JPZxyfAfGAv9vLe7y8WL3QYzgZRjNTamnadWEr"
+  },
+  {
+    "network": "NEOS - Neoscoin",
+    "path": "m/44'/25'/0'/0/0",
+    "address": "NRmKSuT1qxAT5fuF3soEC1eiK7Xek98jGD",
+    "pubkey": "03f6b67a30af96f314fcf97fbd598ba492466af227664adef7510b21223262a876",
+    "privkey": "TL6nbi2jRA2WiVEy5aCRDQTKSS6obeEKdGQwX26wJqGV2h7nFbyA"
+  },
+  {
+    "network": "NEOS - Neoscoin",
+    "path": "m/44'/25'/0'/0/1",
+    "address": "NVM8VVATTLeT8eRorMzaw4tXL9mTMhQCW2",
+    "pubkey": "0363c7b6c27f363b1cd7e094f10ecc469b3510a8a9c997a99e92c1d36cf33dce58",
+    "privkey": "TGXKTo3Ck4piuJzSh9TN9zicmyZzNYYEdW878jvkHDjnvRqbRH2G"
+  },
+  {
+    "network": "NIX - NIX Platform",
+    "path": "m/44'/400'/0'/0/0",
+    "address": "GZJbEs7t8jw1UysbWWAmqy8d4TCKwdDrk3",
+    "pubkey": "03ed1350e3d54227afc63f4b45b5807a6aeafc159dd6cd58aaf1f42f7078e5a7f0",
+    "privkey": "L3UEFMA5aiNvJd3Q6MM92cKmFUoVmHrqdqJ8zHrg3SWwm9maJCQv"
+  },
+  {
+    "network": "NIX - NIX Platform",
+    "path": "m/44'/400'/0'/0/1",
+    "address": "GdPb1cacBYNccv3eme2C2VtQfS6eTPZ5pM",
+    "pubkey": "0336ae88f75d9dd0511a5f2977d7fbacf2bb8b6fa9ce94491f2d6077d1c5e54ee4",
+    "privkey": "KzCtyRRXHxzWwpBLtiMU9qu5DLTTSQXgMuGv9QY6rMQkcLA6jpyg"
+  },
+  {
+    "network": "NLG - Gulden",
+    "path": "m/44'/87'/0'/0/0",
+    "address": "GZN1RNiYKL6QNrAoZDmFu2yHFfTjiYemrZ",
+    "pubkey": "02684953f4a10569d36d081278d0269d6f8a2e2f1bc6c3f5ac8aaf79862d867132",
+    "privkey": "Fay8M5BFArpM8EXZAGymoopMARwkQdgBgBH8UM2mPdtAPfXXNghA"
+  },
+  {
+    "network": "NLG - Gulden",
+    "path": "m/44'/87'/0'/0/1",
+    "address": "GRx1bmmpKRU9KCtJcw5G3ZBcF3R9VGbwPJ",
+    "pubkey": "023664064d7f9438b70b161433e8da0d9feccb924f55631b882b3eacb87f068ce9",
+    "privkey": "FdhicRqokPgiTyXRS45UN7gDBmbKxYohYfjcREVi4rZsrXKXX81x"
+  },
+  {
+    "network": "NMC - Namecoin",
+    "path": "m/44'/7'/0'/0/0",
+    "address": "MyxeybsdnkjpR7uTTHngB9Dsq7B2N6H5Db",
+    "pubkey": "028181cf9e14deaa23d9e6b5e85bc649d1c8caa1590909418b82c4d7caba9952af",
+    "privkey": "Thoq4hwU7xJzkUVEjZfnhJXJLgwmFnYzpQGUGu6WKcw9Rd8Z2Dqf"
+  },
+  {
+    "network": "NMC - Namecoin",
+    "path": "m/44'/7'/0'/0/1",
+    "address": "N6Y6G3GdewKUAoaBPE7DuE9qQytc4252yj",
+    "pubkey": "020c442dd6a75ac6eb97b70e89c53b89183e029c15ebbdd6a6f45c97e9818303d5",
+    "privkey": "TmEkiG9Y9CX84WSoRCfspR3EpqZxFNWeyjjTVvsGmJEbWEnb8XzY"
+  },
+  {
+    "network": "NRG - Energi",
+    "path": "m/44'/204'/0'/0/0",
+    "address": "EJe72TqHpRwYAPorBZsgw9scbnVG3uzAff",
+    "pubkey": "02daa0ffb5a56375a6fcb10887ab0d572b8e5178022422fb4542fa0ce56d06414d",
+    "privkey": "GhTtH1RtkjqNxjpthwci5r6mJgjSiYMSPU6C5NRNMurQe321kX9N"
+  },
+  {
+    "network": "NRG - Energi",
+    "path": "m/44'/204'/0'/0/1",
+    "address": "EcwJwTRzvUNfKTZxA9jrkQThb5kXTSZqiG",
+    "pubkey": "02dec35f42061db93928b56fcd536da7b850390a66fcf08433df3d01cda380c715",
+    "privkey": "GjvUngZegj3wmRu65S3ku2cAiJRxX32XE3E5vuyqGq7FVH9vaTqj"
+  },
+  {
+    "network": "NRO - Neurocoin",
+    "path": "m/44'/110'/0'/0/0",
+    "address": "NQ5zkFYfL2p2EmZrbc4mMEgo4PnG58dFB6",
+    "pubkey": "036104da6cef279cc5ba5af47345120fc7cbd85b1ddd02ef1ecfe9689f46c861cf",
+    "privkey": "TuxpMCJFsEVmoLBapUyDZ8vi6cNPkx4ZtRHFMcNaATTPBdzXyHmM"
+  },
+  {
+    "network": "NRO - Neurocoin",
+    "path": "m/44'/110'/0'/0/1",
+    "address": "Nf5bafA199iq5uPGsGKsT65rk2YKPKpLbo",
+    "pubkey": "03eb516425b4f69c0728e80fd4145dd53bec0f2f324ce106a0cb3152067fc2413e",
+    "privkey": "Tsfx1bdCRG2mwUWvxbT5Li313chJoKHsqWbzAqM2TgLhJnaWCCzg"
+  },
+  {
+    "network": "NSR - Nushares",
+    "path": "m/44'/11'/0'/0/0",
+    "address": "SV1S8XZZQgqdEPu8BtEMHkvZTeGRnPqvtf",
+    "pubkey": "02f9fc7477df00c99a7c981948e60a98fe7124f118fa1b37a754ec99bf6619ae86",
+    "privkey": "P4bKhL45yJL8SW5JyUD1Cwsqujm6XFH8c2CgoxHEDtP6DY2kwJ3i"
+  },
+  {
+    "network": "NSR - Nushares",
+    "path": "m/44'/11'/0'/0/1",
+    "address": "SML6t1XDXFSaJ26S26iGYb33cdvWMmpcPb",
+    "pubkey": "03f4523d836a1fa5e1309b46e8b756dd386013a2ba022dbd75c094e0780c065bb9",
+    "privkey": "PAtKMsrbkyeRwRKhiGywbYFcyn3Fa5vVdUPmwugmnUy1NcJso7Kr"
+  },
+  {
+    "network": "NYC - Newyorkc",
+    "path": "m/44'/179'/0'/0/0",
+    "address": "RQ9NK4ZUwyBiQTYrn9N8qkbKG8m8yY2zjX",
+    "pubkey": "037d9a3247f918df00e2555b6cba00424e2b1c138a9db7a1e0aed96da5b887c2e4",
+    "privkey": "UptRYQhCueT8J9yaBKPSQaScdDbhqNp8rAG7cArTkbqbBLnnhPZy"
+  },
+  {
+    "network": "NYC - Newyorkc",
+    "path": "m/44'/179'/0'/0/1",
+    "address": "RLrgiaUFLD1zTwiydegfRfRpoNgyWZheNf",
+    "pubkey": "0204961cd51d2633011aa2466c0aca70bb820fd2075270884f082dd1254e08cc43",
+    "privkey": "UqXgXjDq9y5HA5bZCJriNwG6cSpTbVBPGzJbvCdtwCB6ZtxCcg87"
+  },
+  {
+    "network": "NVC - Novacoin",
+    "path": "m/44'/50'/0'/0/0",
+    "address": "4Wp55i9Rd2oB4kVa4RjT92UndQa2oaZe8K",
+    "pubkey": "03a828a06de4ac3872da3d0769386fe5b78e896103e0b4840a5c45c43d4a2620b7",
+    "privkey": "MExQVBF81fbQ5tHd5T8341GqvGu4r2wA9k5xyatg4qPbqmGQJwC7"
+  },
+  {
+    "network": "NVC - Novacoin",
+    "path": "m/44'/50'/0'/0/1",
+    "address": "4GiYPGsmHa2rUw3yV4HmhAqhu9bguGfCvj",
+    "pubkey": "0362db2f2db6f37cc2cd1eef38ad19c1372a7c2be85abba6bc4e66c8f33fe20681",
+    "privkey": "MBRcLaWFYH7wVRbgoihkGvxkXoiYv6VSTcVmgRWW2AXGQbEhWeeD"
+  },
+  {
+    "network": "OK - Okcash",
+    "path": "m/44'/69'/0'/0/0",
+    "address": "PFHr7L9DZLTt4jmKY5r1uwtG8eTWM4pj2W",
+    "pubkey": "03f976794eaddd22d4aa4fbafa89e048a2fe2b639c362550cf45b7c8225aa70dee",
+    "privkey": "Y4dYXLT6AohgPQ7V6jazrH2umemSqnVwdHsvg8Me86GKNtshVz5"
+  },
+  {
+    "network": "OK - Okcash",
+    "path": "m/44'/69'/0'/0/1",
+    "address": "PAzuoZbrjZNbgvQRSaXDRiUJMw3jDqDNPQ",
+    "pubkey": "03d77a9acdcc556e3f3871601c9e4bc0d01dc1b0b2153b04b7d128e851c1f1a1c3",
+    "privkey": "TEfUA7Dj7pFJxJowdi62QutLhs8gpaasKBodVKozLXv4TyVA8WS"
+  },
+  {
+    "network": "OMNI - Omnicore",
+    "path": "m/44'/200'/0'/0/0",
+    "address": "1QDttkDgo8Eap1cFbeqeKYDKgcE4aH3mfU",
+    "pubkey": "029a65954ba81ee991738148cf4b4597b414a335a9b0c979e7ad50363b63920443",
+    "privkey": "L4Qb7KsDBxJAcETh7Aaqptg4Xu5Mek8KQHWgPF136eGcWAZHVv72"
+  },
+  {
+    "network": "OMNI - Omnicore",
+    "path": "m/44'/200'/0'/0/1",
+    "address": "1QESY79DdcbJY5JBBwSDuQ81ijYPZrkTEj",
+    "pubkey": "02a8a2387245e1fe85dbdf2f982549de9f7513724a960ee965a236e4e45485469f",
+    "privkey": "KzsuykgzmQimkmzViYxm1JoadnXiFU1uEGXVkubZtqTSEWZAcQPt"
+  },
+  {
+    "network": "ONION - DeepOnion",
+    "path": "m/44'/305'/0'/0/0",
+    "address": "DWVARGv8D38CAMPk1ws1oBayBdh4r3v3nr",
+    "pubkey": "0356bd6981455206d54c2cb452eec7222850af63cc1d5bbae9c366eddd9fc1e4ae",
+    "privkey": "QawtvV4c6KCJRsWmyNJnRXiJaCUQ3TYq8zfbR4x3eoYuhydXNknM"
+  },
+  {
+    "network": "ONION - DeepOnion",
+    "path": "m/44'/305'/0'/0/1",
+    "address": "DbsQxfw5o3G5EC4pV9K5ZSYaNHNkN8RRfM",
+    "pubkey": "02554597cbe43d82514373755d37d5e8011c4e05e20b7966b433f9717eeffa9d9a",
+    "privkey": "QcjCW4H6xUX6kyDRrTgRWRmqkEYSWaEuDjpxtEfK8GZ3GEFqzCif"
+  },
+  {
+    "network": "ONX - Onixcoin",
+    "path": "m/44'/174'/0'/0/0",
+    "address": "XUs6tr4uhxu369JcQKYxta5n8kfm9bFX7C",
+    "pubkey": "02e81ee62efdaef1e8f80f5dcdc7522ab34a75db5994e85917974cdfcd87150c20",
+    "privkey": "X3qicZCACuS9zVYBhX1e7mpmjKRKKDbqpv9nu3ev795E5GdetWfe"
+  },
+  {
+    "network": "ONX - Onixcoin",
+    "path": "m/44'/174'/0'/0/1",
+    "address": "XS6R7fbFvQkpGncTjVGKDFq48BZUTximeq",
+    "pubkey": "037234cbb9cebc9035a86d5b8ca3d8bfbd16b002f919c53169498bec7e2452f79c",
+    "privkey": "X3BkY8tHzvTCkgNNGzi7Hut213hbB7QbHYRoAyPhB8ikFExihrKb"
+  },
+  {
+    "network": "PART - Particl",
+    "path": "m/44'/44'/0'/0/0",
+    "address": "PtPFhyqgqYcQag9G8cCJwwapUt4BRCFtuC",
+    "pubkey": "028351ee6632583a2ea97669ae926740d1c7ad8c67dc0d1a1cb4f32513f673d642",
+    "privkey": "H66HRGPTEpuXDCF6EiTb3emd1emdtiQTG8PwWb9hybN1tLgj3kYs"
+  },
+  {
+    "network": "PART - Particl",
+    "path": "m/44'/44'/0'/0/1",
+    "address": "PaAi5SA58GVodrVdVnY1ypFdhwd9FiyXCC",
+    "pubkey": "029c44a0238b00f7acc35822dcc350bc47f47e6817182cce262a9fda16f0774425",
+    "privkey": "GzA4fgRWHMB1ygos5hrBCZNUfmXyCSLvXQZfzDe4Zdhoir2uNQqv"
+  },
+  {
+    "network": "PHR - Phore",
+    "path": "m/44'/444'/0'/0/0",
+    "address": "PBLjatEDD3zP6PcpXhpbeX6Wncqkp3yU8K",
+    "pubkey": "024983a176c8b62160a5ebb312d4556e0a88e69486359c0bfe957ec869008ae868",
+    "privkey": "YNAfFGRkMgWVNV3mi59iBC4hzi9SC6MuRmUs25S4qD7tiYMPV1ux"
+  },
+  {
+    "network": "PHR - Phore",
+    "path": "m/44'/444'/0'/0/1",
+    "address": "PBUDCsoTsJEsAXonfPb66s1s8MGosjAddn",
+    "pubkey": "02b52f1a46dac7cb4f1dc588194aec3977aa7b450d9a33a4185f2898147d9768c2",
+    "privkey": "YPrghbzE4X91L93p6ZXVbDQbn2QJGZ9WxXBCBkLnay6mvyPDtUWj"
+  },
+  {
+    "network": "PINK - Pinkcoin",
+    "path": "m/44'/117'/0'/0/0",
+    "address": "2JeuT4ooBS1xdnvoqkYyJs4BaxxHEutgbT",
+    "pubkey": "036f05741632ca903e9c84b61de6576302fed8b134693430d2ab234d332df77359",
+    "privkey": "LVTNUmsebcSa2JHzhYEWxfe2fpu2ZjsbfnKkGSLs186zKUwwnKwW"
+  },
+  {
+    "network": "PINK - Pinkcoin",
+    "path": "m/44'/117'/0'/0/1",
+    "address": "2RRgPZwWajyCydwfD97hhiPrTFi6kHYuxz",
+    "pubkey": "02f1b916aa9e13c0b7ca75bc15e902b556d69ae1b316c829887619c2e96f95bc9e",
+    "privkey": "LUHGDQQgerwCfGgGccT8pZzPcYR1W6Rfa6ZQouvKT8XwW3D34Gfx"
+  },
+  {
+    "network": "PIRL - Pirl",
+    "path": "m/44'/164'/0'/0/0",
+    "address": "0x5EDe5c16315Bb40dD4F35e1C48103c41F359647c",
+    "pubkey": "0x028d881ce216ba2df2d83e8f60f8652c7ab6849206bde0f71b4d6c37adf10ea1a1",
+    "privkey": "0x052f1d41a51873068f8ab95d39b43464aeeb13a3e01dffdcae9417d3858e8772"
+  },
+  {
+    "network": "PIRL - Pirl",
+    "path": "m/44'/164'/0'/0/1",
+    "address": "0xCaC21F90037CC02Ef2F84B5fa276bBC9193115C8",
+    "pubkey": "0x02086878fceafc8d42930edf93a50882decb2cb31e4ffbb4ea152294d9e9f3ee16",
+    "privkey": "0x69ebdfa6cf65e6b2ce38e4adc6fc5734cc0206c02086d61597b3948d715420f9"
+  },
+  {
+    "network": "PIVX - PIVX",
+    "path": "m/44'/119'/0'/0/0",
+    "address": "DPBPNGWpGbrU7YPxuqKs4FV4KcQfdtFeXX",
+    "pubkey": "0225eafc34d13c30378396ea2aa45d8dfceb8e926164da63b86f309b08083d7ee2",
+    "privkey": "YS4EXejshwtHtJ8gTn3HUoortQn8YWjxE6UDPHwSV1vC5Tmh3tkB"
+  },
+  {
+    "network": "PIVX - PIVX",
+    "path": "m/44'/119'/0'/0/1",
+    "address": "D5YDcWeCgBENcKi3yiWf64k8CdBcBYK2D5",
+    "pubkey": "0202b0b2f7024df49f8bafb6ce46e4a9129181cc8b2f189fc1be7f151fb1411912",
+    "privkey": "YQ2ak3JwwRbhypjwtbSnfaDCAr2R2pexpaE22PQY3mbDZHfEbUL7"
+  },
+  {
+    "network": "PIVX - PIVX Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "yBvF1EwnmptxiGREtEVAzGeschWnJQhALZ",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "cQ2dHmokq2iqX4Ff1kRr6vPMYNtigp44gzadjhExQ8awmtAq9CZE"
+  },
+  {
+    "network": "PIVX - PIVX Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "yChLWrK7WjnB6E3HfHoPjtT3HT8jSZwehD",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "cQUuY4pX2cPtwwmyFGivZtZ9YYoFuFic2pXAi6BCUTd2oe2bJuHi"
+  },
+  {
+    "network": "POA - Poa",
+    "path": "m/44'/178'/0'/0/0",
+    "address": "0x3CB4B486a25bd06fe3cd18191d4F2090B02E0670",
+    "pubkey": "0x02726fb6e55e6a19c9fd512675db78494660e000ff23fea8781206e9230c52ba83",
+    "privkey": "0x6e1f5366404e10d8d32f656f235e5fe1455dd85bf87137dc6e7e72d9513380c3"
+  },
+  {
+    "network": "POA - Poa",
+    "path": "m/44'/178'/0'/0/1",
+    "address": "0x4Df0EDb21c7129C2Ba3E40D7369EdE15011085B4",
+    "pubkey": "0x035dd5231dbd458e30eb187488a7f128e66d98806916a7096d40c82b85090add02",
+    "privkey": "0xdea3bb131463db3c899db9b68c644e63ad37b2d3624b55dab22bfb7c0b319e2f"
+  },
+  {
+    "network": "POSW - POSWcoin",
+    "path": "m/44'/47'/0'/0/0",
+    "address": "PHZAoXj1jCh5PPe5CBxUMLHTuuD8afH9a9",
+    "pubkey": "022883ae057cbdf980368e51c6a11d5776577b4f95e0dbae79b64ad29d349e7096",
+    "privkey": "U9Gt97MAx56DwmCoHE5RSL7RxKW6gaY1LiRCmBs7yNgdsB2Udfqr"
+  },
+  {
+    "network": "POSW - POSWcoin",
+    "path": "m/44'/47'/0'/0/1",
+    "address": "PRtMpCBCYeQ17pdo4Hnj3GD44eEPzQBB25",
+    "pubkey": "03b28593c7f5133841e45816229c867c75c7f5f850b93066594047813b3a31cdad",
+    "privkey": "U7BiBDVYqqgUY5iAB91sxSEnzaJFAWHCQThWgQRKE7HQeCzudp1z"
+  },
+  {
+    "network": "POT - Potcoin",
+    "path": "m/44'/81'/0'/0/0",
+    "address": "PUz3xHg4DSx5au2o3i9m7fMCFEXLZnUMJ6",
+    "pubkey": "030251f1fb8d5b5e8e58b51e343bd997c7ee1f4176fce20245b9d3aa29b7fe2818",
+    "privkey": "UBJ64S7tfKtTQUHNgSEUNTAP9B45okbGzbnwSvHS13MxqG4ZJS1L"
+  },
+  {
+    "network": "POT - Potcoin",
+    "path": "m/44'/81'/0'/0/1",
+    "address": "PAXaEUR5v7FZeouVF1rN4SGvABv7U4m8nH",
+    "pubkey": "0272ec56504ff8622cd2725ecc0a8e532772f358a6973a6bcd70cd2df74c29d071",
+    "privkey": "U8TW5bqGLDf4W5Qnw3WZLf9cquSgKcSB9tHDzRw82sCqJzRKnAjo"
+  },
+  {
+    "network": "PPC - Peercoin",
+    "path": "m/44'/6'/0'/0/0",
+    "address": "PTxufHEMNBpiVxUPAMNkLfE5VxQemqo4uB",
+    "pubkey": "02901e55a7acd91f9cdc9663492a332cf477668111b6f7a406b759fe2af93cc4a3",
+    "privkey": "U8wQumLrtXR7JXzPA7EjKCyP6JKK3m4HWoBQxDP6TTL69FyEjLxg"
+  },
+  {
+    "network": "PPC - Peercoin",
+    "path": "m/44'/6'/0'/0/1",
+    "address": "PDj1LsowmEmmUc9yY8DqKCDTd1YYYi4939",
+    "pubkey": "039ad72cd631a769b2bc62a300f756741dc3c70a617cf628a39e03ab8a7fccdd3d",
+    "privkey": "U59bPLEkJP7jhP6QiUCPzx4veMQEqXiUEtfgKmWL2ePy791Fmk4Q"
+  },
+  {
+    "network": "PRJ - ProjectCoin",
+    "path": "m/44'/533'/0'/0/0",
+    "address": "PDWjg7zTxxu795VPvXR7ekGY4GC2NGUcTx",
+    "pubkey": "03d8f2b5a4baae3ea8dcc4f70134155146d98978591b2fd0a3e8c81c554528adb2",
+    "privkey": "JSWqbfQDjpAv8v9wtvruYTcDdykuKnn1MeviNMVhpaCnCGYg2NJ4"
+  },
+  {
+    "network": "PRJ - ProjectCoin",
+    "path": "m/44'/533'/0'/0/1",
+    "address": "PEjcVejvm63ih2dLhDbwrBdDbo3FjHyns1",
+    "pubkey": "03c36e073f34dda67170e5f35687143125c330b3a5dfa8206345e1d93ce40f330e",
+    "privkey": "JMsunf2kPQmhKPJPCzTxBFW4fiHRjMCR8DdmoZuJGuT1zHA1APqT"
+  },
+  {
+    "network": "PSB - Pesobit",
+    "path": "m/44'/62'/0'/0/0",
+    "address": "PAmN2fd5xB2Dhon1pgSMqvZMBtw5KTenh5",
+    "pubkey": "0224f26ec90628a28c39efb07baecefd7e03ec26f7bd0fbac423bcc6c812338080",
+    "privkey": "UAbQRZbRVh9znckq4q3Y5BBHuvNUU3DWJjBUHgZgi8gpQwrFDumX"
+  },
+  {
+    "network": "PSB - Pesobit",
+    "path": "m/44'/62'/0'/0/1",
+    "address": "PDnTN2N4cwYCCR5LGbfxRn9aQEtWjBy5HV",
+    "pubkey": "02994ea45ab9557c0f633363d28cea4c8d0f36d001af4fcb95bec9eaba68753c75",
+    "privkey": "U8cQGuyAvHAP3NziSAkDFE3WnXVxwzNCutVXCHig9pK3CSdDRSyf"
+  },
+  {
+    "network": "PUT - Putincoin",
+    "path": "m/44'/122'/0'/0/0",
+    "address": "PRWnCghhEKd637CWhPLWrZmqfwZaVSUpiN",
+    "pubkey": "032b95514882cb426bbefd6261d0f4932aae5eae983c2e9d582cb471069316b732",
+    "privkey": "UCKaGsmgWCwJytKbM1voRNtqCUiN2NLHPBCcgSnGfPy4t6LbpXa1"
+  },
+  {
+    "network": "PUT - Putincoin",
+    "path": "m/44'/122'/0'/0/1",
+    "address": "PWUc9kXtVhxGbouHCQPTY99GWdRoZb481p",
+    "pubkey": "03625157eb3f7b5e01e50672492467fd8afa676946f14aaacc87726bbdcdd217fc",
+    "privkey": "U7AgSbH8nCgLC9bExTadgmTSPGEZrQvrNatNPUSxJmovVQsXHQYc"
+  },
+  {
+    "network": "RPD - Rapids",
+    "path": "m/44'/320'/0'/0/0",
+    "address": "Rsm4AwLmKvMxavfNX5YXbEiyq4Zh4q1TaZ",
+    "pubkey": "023a44b646e1f502aca2a44648a5de25321a2c4764dd8aad7d2db67eb1a696484c",
+    "privkey": "7tCrmrgn2k37XdDZErzddf4Z8jioAUVSDMhFs2U2LkNJkAyXVj4n"
+  },
+  {
+    "network": "RPD - Rapids",
+    "path": "m/44'/320'/0'/0/1",
+    "address": "RimXrUprt56XdHf37J7Da6jqWmynrDe38P",
+    "pubkey": "0267500e894c9a1ab697629d1bbaeb26e9121078055a3553a511ba1de99d74b331",
+    "privkey": "7svJQArWHphdaksivf9Mam5QJvxAYsFfy7mAqr6ZvGWHUDcbiQcp"
+  },
+  {
+    "network": "RVN - Ravencoin",
+    "path": "m/44'/175'/0'/0/0",
+    "address": "RYVn58oF7RaY3Zr23kKZDBkQ4wHVvuaGnb",
+    "pubkey": "038715bb034a9cb7f91e2a980b954e50209391fc587f84bf973508507912487bf8",
+    "privkey": "KyXSuQ1xiCEUGq1Sq7ZZJnUPo9tCM22nn4yUtv3yEPUQrwMsVN5t"
+  },
+  {
+    "network": "RVN - Ravencoin",
+    "path": "m/44'/175'/0'/0/1",
+    "address": "RGosjfqEYs8ds6Vs9nCzZAsbNF24QB5Q69",
+    "pubkey": "02db249dd938ec87627c080c6386452fe1bca8dfe502acaa411c03c5fc5d7b096b",
+    "privkey": "KwLPR89vjkxMWfSde2LSSvEwoWMurxS9tM86NkWsEjS8L97tc6Sd"
+  },
+  {
+    "network": "R-BTC - RSK",
+    "path": "m/44'/137'/0'/0/0",
+    "address": "0x59B5460e24836A7040D63fD4098e57E825455Dd8",
+    "pubkey": "0x02b464c1307fdf09b1aa403f0326644f37ddfd59388cd3e1cbc652fc01abc26d54",
+    "privkey": "0xd7a9008fb099a22e4ea4e26ca3637809533738dd4a56ac5c58459f333cef3f5e"
+  },
+  {
+    "network": "R-BTC - RSK",
+    "path": "m/44'/137'/0'/0/1",
+    "address": "0xCeD54F6914579ee7D437f5c056689072FBB90A62",
+    "pubkey": "0x034cb7b6c65fb6cea25d2020d67d8bd863d133ca78c29e995248680473ef473aa9",
+    "privkey": "0x53e2c796715032599e1bd9da6cd42fe6ab2ef2c10b3a08a2a46574bf25b4814a"
+  },
+  {
+    "network": "tR-BTC - RSK Testnet",
+    "path": "m/44'/37310'/0'/0/0",
+    "address": "0x76E490c9fB055FFBbc45e1cc2D293d83d35eC36A",
+    "pubkey": "0x03b322623163e7c0beaf55cab6be0124eb2441db59fe1112449a308f2c0d3f7bde",
+    "privkey": "0x831497123915d648f294de18d1588273c6f3bbbd2e9032976ad271d07ccacaeb"
+  },
+  {
+    "network": "tR-BTC - RSK Testnet",
+    "path": "m/44'/37310'/0'/0/1",
+    "address": "0xdE8527914d622357F456F684B467EC470e16e3E8",
+    "pubkey": "0x02a4dd9294606a28e88e7ff9235eca77033d1e516eace5e3503471b1768253267a",
+    "privkey": "0x7788026c613ad3472e3f1f9fc438f21fa71b49c655d018b5dd5605b2d7a92de6"
+  },
+  {
+    "network": "RBY - Rubycoin",
+    "path": "m/44'/16'/0'/0/0",
+    "address": "RUq3mM6FpYK112WECtH4s1EbyQMKujHQAx",
+    "pubkey": "039e5b91493047d92491245850d56d8cf2ac4e8c3c2b3df5427f5b94486eccc423",
+    "privkey": "UtxV8sMQZWYYHGWKmdX9ijJJXEGkcmGAVwmiDbxcLhWEfgzd1tiC"
+  },
+  {
+    "network": "RBY - Rubycoin",
+    "path": "m/44'/16'/0'/0/1",
+    "address": "RMWLETNBoLn5CESXVrhP9pzAoT1XKGcNzM",
+    "pubkey": "03ac2875c21122acad107758a0057ffbd7d33c21fdfb5b7fc8576c502c2a292bc6",
+    "privkey": "UvjEgC6dbUe2Ef9Ho3eAEM62CkuEaXSied6LiSrCCbqKHLakUFxf"
+  },
+  {
+    "network": "RDD - Reddcoin",
+    "path": "m/44'/4'/0'/0/0",
+    "address": "RfQbC3hWXPmpTTFZbUiszhybX2moYVR2MX",
+    "pubkey": "03de9f3b7f5bb88f7482ba3ec89636086243413f41b211f62982cbb0ca3c7e722c",
+    "privkey": "V24PWVhTeyxBjdYNrjaLujVb4tr1Pnw8cvtLTGpt5rJGCBFqeKtv"
+  },
+  {
+    "network": "RDD - Reddcoin",
+    "path": "m/44'/4'/0'/0/1",
+    "address": "RpXVNXML8k97GWcSKskLyDAmDQn98eaxB5",
+    "pubkey": "02e5c8d61417c7a876ec3356b74cbf9bdb2ef79c06acda4d8c19ea117bb0693e99",
+    "privkey": "V2nNnQa9t9VTvu32K2ozNEK8R8nmDFWmo9J4HYRAbmisrD2rX41S"
+  },
+  {
+    "network": "RITO - Ritocoin",
+    "path": "m/44'/19169'/0'/0/0",
+    "address": "BPY9dBAmfduEcajhHmaDAeq9rURsLbQCCX",
+    "pubkey": "021bf30b8ac9f838c71ddcc1b6fcf70807e283b85621d3be3876974d530c088219",
+    "privkey": "MeVzFi1DD7MJcJ45eNpMtECJqKr2pMh753nGFHYFPkJcV5qA4MK8"
+  },
+  {
+    "network": "RITO - Ritocoin",
+    "path": "m/44'/19169'/0'/0/1",
+    "address": "BBnzHxGcnZHm95Z2ydQXMLc51nujJp9QSo",
+    "pubkey": "028bab4c93b226fd85b6a66fb66ae695ac92aae832ae40936ec25183819f9cc7b3",
+    "privkey": "MhMFzd1WaiNHrY4Nvm5D51k6vjrRLQKHi5f9CNovZzmJ168AzKwc"
+  },
+  {
+    "network": "RUNE - THORChain",
+    "path": "m/44'/931'/0'/0/0",
+    "address": "thor1qjhr77a0f425g7zxzk73pdl4q0cj4k09v9v4vz",
+    "pubkey": "02fce0ad0fe3553de4cc5e9391630d3c5f1bbcafa0473b8b3c1e17dbe3fd08fa7a",
+    "privkey": "80f6cc4ef457e834ccb61bd775615de92a90e6bd66b84bf24d2c78541fa7d20b"
+  },
+  {
+    "network": "RUNE - THORChain",
+    "path": "m/44'/931'/0'/0/1",
+    "address": "thor1lqu8sud44kjsc4vhlduph647muh82yad2rr978",
+    "pubkey": "0246958f6c909149f081f5f3bee2cae58342914c38c7716046cd565a59b6ba8b29",
+    "privkey": "068e23739b2dfa07fb6da3aeaa1925f84f1d99545d41ae91e21332bf41fd0a8f"
+  },
+  {
+    "network": "RVR - RevolutionVR",
+    "path": "m/44'/129'/0'/0/0",
+    "address": "VQweeBbi3JmanFJcA39qH8PG4pm8xRBKVy",
+    "pubkey": "02e3b5cad979bdc121b607e78f1a990cef000a0fe3463c0345fa63b6a7f119b86b",
+    "privkey": "WMM5r4pM7dpU2UyGYp6iNCzNmk7Hm2JPBDXqgiqVoJAZrByRTUUp"
+  },
+  {
+    "network": "RVR - RevolutionVR",
+    "path": "m/44'/129'/0'/0/1",
+    "address": "VNGazCHCkg74rkRvNqQMBPUF4TY6LNKYav",
+    "pubkey": "02339fa32ee237e786942686a97bed1ef1673035091b1da77606400ac2f5cab273",
+    "privkey": "WKjJKN6KnoKLtvH4DiHUJbjYhxX8kRAAoP8c1H9g2djr3LYJHBYj"
+  },
+  {
+    "network": "SAFE - Safecoin",
+    "path": "m/44'/19165'/0'/0/0",
+    "address": "Rts65v1RbjqNkKMgCQABrGWpw5Ft3hai6i",
+    "pubkey": "02959e3c3a605ad0970ff37f2eb009d48f65c0596714703af5ade02661ad29c4aa",
+    "privkey": "V6ofM1egtEJAgLxeyk7jDUZiCscJqRuHKR8ciXEjS7kLiD2eRLBo"
+  },
+  {
+    "network": "SAFE - Safecoin",
+    "path": "m/44'/19165'/0'/0/1",
+    "address": "Ruc2MmPcErBUg9brKreLjJJKQhHn9EGjQN",
+    "pubkey": "02842ef8e0e92ae35cc24662fc6892463a575bbad7cdad92a3f513f3c6e189be12",
+    "privkey": "V6aHY2EyU6DbXWYJevrAWgXQT2HjuUcgGneyUdoy76xHimsUymrK"
+  },
+  {
+    "network": "SCRIBE - Scribe",
+    "path": "m/44'/545'/0'/0/0",
+    "address": "RF23ZJRqxsiSQCMo7PNbXyDsWvYUux5Uob",
+    "pubkey": "03d8d6cbebee76fbbebd8e0827b72753e92a2b441d59071735c1facdbfbc1c5261",
+    "privkey": "HJpoQmekzBXuR5tWYyy8WV2UssBsyn8EuufXSUaXydwKGEZaBEXK"
+  },
+  {
+    "network": "SCRIBE - Scribe",
+    "path": "m/44'/545'/0'/0/1",
+    "address": "RDY2LLrbxf3e2iPBLr4E1wZWKJqtkjVVhM",
+    "pubkey": "0290d26f232d79285568ecd815b504aefd8aa82506456b2cfe9fb6a8f503e97766",
+    "privkey": "HMEddqidzDed6HU4NNTH9dcyypK7LhkERSWD9k3pwSw4u9PJYy4f"
+  },
+  {
+    "network": "SLS - Salus",
+    "path": "m/44'/63'/0'/0/0",
+    "address": "SZDSCCt9wKn8YuxnNrHx7rXCjXY46iu6U2",
+    "pubkey": "03b2df4b548e92c04f01978726ed58690b6d3feeaa1f11ece146165e675ff4caa8",
+    "privkey": "VKyCUDPmsi7YkDGpZKiVYUJ4ENnq1Qnmx5EQmanxEJYyfd47sp7C"
+  },
+  {
+    "network": "SLS - Salus",
+    "path": "m/44'/63'/0'/0/1",
+    "address": "SX35hCrkaenqu4enmaZ1DS8xD4hU5LEbPr",
+    "pubkey": "039fd0f0235f754e6ca7535483b637d4afdf919c96957af1a83bfe4ac2d2e91755",
+    "privkey": "VJ4Ngfi7kD3qymx1x1eB9qm2hNNwxVUD7kuZuyYaSoU1CD6otVGN"
+  },
+  {
+    "network": "SDC - ShadowCash",
+    "path": "m/44'/35'/0'/0/0",
+    "address": "STdWuQsbbTuR8CiDBjMWsb81ebY6EcPTng",
+    "pubkey": "02e37119ce6f1cdc59865ae30d48b04dd5fb59a61d73296f2ab17cb803add9718b",
+    "privkey": "VGNkmkQnySEaoDEU3w7FHf8DMR6YJfxbVuMGBBhuQbgujocXJ8Ah"
+  },
+  {
+    "network": "SDC - ShadowCash",
+    "path": "m/44'/35'/0'/0/1",
+    "address": "SN92wrkhJyBcepyKAfMdLBSZ23etfvyLBw",
+    "pubkey": "03dc1c9b3d736175a9ba0c5ced4d77dd1350a2917799938e7b30434e7cc1792e90",
+    "privkey": "VNXF8YNvUM2Xo6eZrrayXUxvqots9wK9w6ze3HDkeZioQfYspuXF"
+  },
+  {
+    "network": "SDC - ShadowCash Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "tMs1BwNLFfLSu4kCbCVMAmPS4eRTpSEWHd",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "emJiSMa9dVP37LTwrxk8qhu9XL7A3WPhJ4YigxnUFneLHBKqGzwN"
+  },
+  {
+    "network": "SDC - ShadowCash Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "tNe6hYjezaDfH2NFNFoZvPBbjQ3QvG9Ux9",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "emkzgeauq546YDzG6V3DJg4wXW1hFx4EdtVFfMiiL7gRJwFJewzG"
+  },
+  {
+    "network": "SLM - Slimcoin",
+    "path": "m/44'/63'/0'/0/0",
+    "address": "SZDSCCt9wKn8YuxnNrHx7rXCjXY46iu6U2",
+    "pubkey": "03b2df4b548e92c04f01978726ed58690b6d3feeaa1f11ece146165e675ff4caa8",
+    "privkey": "BRouHgnvh7Fuqbfse9xSDQr87oUtzmypFcre4csVpQMrba1tq1hj"
+  },
+  {
+    "network": "SLM - Slimcoin",
+    "path": "m/44'/63'/0'/0/1",
+    "address": "SX35hCrkaenqu4enmaZ1DS8xD4hU5LEbPr",
+    "pubkey": "039fd0f0235f754e6ca7535483b637d4afdf919c96957af1a83bfe4ac2d2e91755",
+    "privkey": "BPu5W97GZcCD5AM52qt7pnK6ao51wrfFRJXoD1d82uGt8A2pEWih"
+  },
+  {
+    "network": "SLM - Slimcoin Testnet",
+    "path": "m/44'/111'/0'/0/0",
+    "address": "mjEunEqcM5DY8EjXmxqCPqhtApzhN8zmEQ",
+    "pubkey": "03ed308bedda52ef68874e7d34c1c526aab7970f7939f7d8e436e73f47a888eb22",
+    "privkey": "DyYo4qDbPXjRy2maJ7SVD8MrNRJfGJHavXxuVCwpus1PxdggJ9sM"
+  },
+  {
+    "network": "SLM - Slimcoin Testnet",
+    "path": "m/44'/111'/0'/0/1",
+    "address": "mi97TEJZok6jE3DSq2kieQqDB831eNeUYf",
+    "pubkey": "039c12e9596e948edfebd042478126b531874ee6c85e043ff5806ef9c0ba3b0f3c",
+    "privkey": "E1FDpc1DMuTw2pRrkZGJ6zaETzJYP9xekyJ9BHqxAHTTtH7qAF1c"
+  },
+  {
+    "network": "SLP - Simple Ledger Protocol",
+    "path": "m/44'/245'/0'/0/0",
+    "address": "simpleledger:qrkj8naglzd6vhpy2c7k8x55aplvzydmp5ha3jgwr7",
+    "pubkey": "03efd1266b22fdecfc920d39d368a94cb76964bcebbfe8cc1d2a52c3415c91518c",
+    "privkey": "L4hyUseUyn5oBMNXXyeTJ7z1fUaDBQWZPVkNeG8xbw7hxYCXh9AZ"
+  },
+  {
+    "network": "SLP - Simple Ledger Protocol",
+    "path": "m/44'/245'/0'/0/1",
+    "address": "simpleledger:qzcn7rf78y66euvu98flu4mwsy9jf8tm5up6daur3a",
+    "pubkey": "027ff1b0040f61cfdc2c4e71a92f4d4564adffe7cf77e91d2cb73566c708a658ac",
+    "privkey": "L42zw5pZ6QFUackzGN1EVSNQssPQZc8J7L85yhEHGYSMAhV9Pq6F"
+  },
+  {
+    "network": "SLR - Solarcoin",
+    "path": "m/44'/58'/0'/0/0",
+    "address": "8HPaD7AM7Cr9ZoEssByau1JTbSpGtY1xY6",
+    "pubkey": "03b61bc4028ecb5ad9c9ee6b6b0bbd5233554d75e5e3964240f33692750ee99bda",
+    "privkey": "NeBU5ZaQATyT9vWKT4ubKeuH3h9nzBmZmpYiQLfZbsN16KLidySC"
+  },
+  {
+    "network": "SLR - Solarcoin",
+    "path": "m/44'/58'/0'/0/1",
+    "address": "8aQfKTfp8BzJVUYuXMUbvDwaaFKg3fo5At",
+    "pubkey": "02f5af0f39bc1104efb6eb4966df09df139a1ac6a0a559c74ff05184efa0442a07",
+    "privkey": "NhGXVYHxqJvYY1B1S4LEkyNbYB6f87TYKL5RygDbA3uMwWW1ZMJc"
+  },
+  {
+    "network": "SMLY - Smileycoin",
+    "path": "m/44'/59'/0'/0/0",
+    "address": "BKaWq8sGnT3YY21Vd8C5smt2GVqg8uKqYT",
+    "pubkey": "02383848a47ce3caf52e0deb62506b643c2180b76498a5461914206ea273e20f6e",
+    "privkey": "koTrHKS72RySmdYcuvihpsK4UpA9BSijs3FZ4iFFTJoVEWoB9TX"
+  },
+  {
+    "network": "SMLY - Smileycoin",
+    "path": "m/44'/59'/0'/0/1",
+    "address": "BFYtjRKSxTppLWBhrVi1MJATDDfrQWfXBT",
+    "pubkey": "03326f71533aa14f9a4f9da3124a906ac1b2d82df290bfab4a85bdd1f66777ceb4",
+    "privkey": "suB1WiCon1dVaRE5nbs1GmSByz4N5kkaxC3k4zJhnt9EJeDfFS3"
+  },
+  {
+    "network": "STASH - Stash",
+    "path": "m/44'/49344'/0'/0/0",
+    "address": "XxNLQeYa2c62hztTpNJE2kjzoyim2XYeAi",
+    "pubkey": "0353f497f13d304f3e358c3ff1db03dce51be94a97d5c863cb75231d503ba16a9d",
+    "privkey": "XFW4d55wWo2XcrU7fpPS7kFi5x5rwzRLnw1EiNZTz7SkdB565KXR"
+  },
+  {
+    "network": "STASH - Stash",
+    "path": "m/44'/49344'/0'/0/1",
+    "address": "XmsT3Dv2i3xvbAMkeApVrGFhA7tgfdcrqF",
+    "pubkey": "036cef93630354099a7c92013e28546ca8af1323063987f34e2296d6e3b0e26e65",
+    "privkey": "XBNyorVaRAFXF3xEx3UuDWjETSNDQbG4M6gqtn1PRL6T7FJ1kQHC"
+  },
+  {
+    "network": "STASH - Stash Testnet",
+    "path": "m/44'/51966'/0'/0/0",
+    "address": "yZ4PQ8KzYc7tSvBRKxAH4GqkwR1z9Y3azs",
+    "pubkey": "039e55a7e96aeadeaccfdc5bb55e14522daf67d63acfb8a4e55130538151fe5bf1",
+    "privkey": "cVpSmSewJFTi42qyDtDCQAmXfduKTHYmJdfmSeWtWkWZsNST9jkU"
+  },
+  {
+    "network": "STASH - Stash Testnet",
+    "path": "m/44'/51966'/0'/0/1",
+    "address": "ycP9ndvw6wj1bvU3pJRtkYbj2a4mJuGXUG",
+    "pubkey": "0287331ed56b42b3ddbfce589d76cdd2abe9c521efe5d0365dacdcae55a12e9ad5",
+    "privkey": "cTamB3Y6yPg3s7Ge4oLVmdFUFTsppuPYcnomewjQLtQpw6ArR1wW"
+  },
+  {
+    "network": "STRAT - Stratis",
+    "path": "m/44'/105'/0'/0/0",
+    "address": "STuuV2uBNWvz3dpP3GH5uH31m974UzeKPn",
+    "pubkey": "03e1930cdf02e57f542e86c378d9622793a78d51fbb8b47ca14f4ba8182dce4611",
+    "privkey": "VMV2bXHo6Ht628TLHtjgnKNBPxh7EYWcVK21r4NYSDesh4GgdVuE"
+  },
+  {
+    "network": "STRAT - Stratis",
+    "path": "m/44'/105'/0'/0/1",
+    "address": "STf7jAbUXg83JfGXNShxEkwSa2cxnP1rCT",
+    "pubkey": "02232ad82a78395b99ece3023d7e7e54ce4771ae2c5a73cc66cf53d07b341aacbd",
+    "privkey": "VP7QoFh5TB7qwsE9qvhPdV6C6rhfTME6cr5aWjtEykR53JyfyN3j"
+  },
+  {
+    "network": "SUGAR - Sugarchain",
+    "path": "m/44'/408'/0'/0/0",
+    "address": "SaGHqBrHaUpJKqUYJuuvRbCZf1cD7KAFU8",
+    "pubkey": "0272d3e680f4138d871ef3ace897ca43e4edfb5339de68fc5a5f236017527ad585",
+    "privkey": "Ky3Per6fnrBYXPMmPpzeDbip2x63yJwd7FojpFEKAmF5KGUyjDj9"
+  },
+  {
+    "network": "SUGAR - Sugarchain",
+    "path": "m/44'/408'/0'/0/1",
+    "address": "SPiKFkma4vpzTffB95esWp9LAG5j2e65RG",
+    "pubkey": "03f27b481d2e9b76c314a18f9ad397a5a375cf2fdc5a34e96bf2c062ca1c77fd5d",
+    "privkey": "L2Wu8YaeRLHAAjRdriF4sMCop9eU2efTaEMBKrrE5DkkMcrf5mvT"
+  },
+  {
+    "network": "TUGAR - Sugarchain Testnet",
+    "path": "m/44'/408'/0'/0/0",
+    "address": "TnH6nWk9i2Cvn8toPAussy1vYXP3CgbMeY",
+    "pubkey": "0272d3e680f4138d871ef3ace897ca43e4edfb5339de68fc5a5f236017527ad585",
+    "privkey": "cPQP7m6XDusogpq2nEomavDsfBPTdm3KBHxCvfgpfsu5a1YTQVTW"
+  },
+  {
+    "network": "TUGAR - Sugarchain Testnet",
+    "path": "m/44'/408'/0'/0/1",
+    "address": "Tbj8D5fSCUDcuy5SDLepyBxh3mrZEd9LkG",
+    "pubkey": "03f27b481d2e9b76c314a18f9ad397a5a375cf2fdc5a34e96bf2c062ca1c77fd5d",
+    "privkey": "cSstbTaVrPyRLAtuF84CEfhsSNwsh6m9eGVeSHJjaLQkcN1Y6Qqr"
+  },
+  {
+    "network": "SWTC - Jingtum",
+    "path": "m/44'/315'/0'/0/0",
+    "address": "jnCP1bjnNM95um1X4kDDXNMNS33Gp5Z1Mj",
+    "pubkey": "03fbb7a99ba1dfc0a71a035231db6f48452639ed109d7107a22d6a37a983422bd1",
+    "privkey": "a14555f94abb29fa12069eb2689d1ad39f97369274bf2aefa9a17556fc0bb7d7"
+  },
+  {
+    "network": "SWTC - Jingtum",
+    "path": "m/44'/315'/0'/0/1",
+    "address": "jJXPRAqKfcgrYqBT5YKGUpGG7yoS8yi1SY",
+    "pubkey": "030393b35132863f5639f20ce237103bfc3434217564a3a1dc5adc297758c021cf",
+    "privkey": "6d11f7ded0725dc425c731b9939216d0cc775726140e7a2fae296a577c183001"
+  },
+  {
+    "network": "TSTRAT - Stratis Testnet",
+    "path": "m/44'/105'/0'/0/0",
+    "address": "TGb7TFVknsrjgW6Z66wisXab29cwvMJKjh",
+    "pubkey": "03e1930cdf02e57f542e86c378d9622793a78d51fbb8b47ca14f4ba8182dce4611",
+    "privkey": "VMV2bXHo6Ht628TLHtjgnKNBPxh7EYWcVK21r4NYSDesh4GgdVuE"
+  },
+  {
+    "network": "TSTRAT - Stratis Testnet",
+    "path": "m/44'/105'/0'/0/1",
+    "address": "TGLKhPC3x33nwXYhRHNbD1V1q38rCJLSuU",
+    "pubkey": "02232ad82a78395b99ece3023d7e7e54ce4771ae2c5a73cc66cf53d07b341aacbd",
+    "privkey": "VP7QoFh5TB7qwsE9qvhPdV6C6rhfTME6cr5aWjtEykR53JyfyN3j"
+  },
+  {
+    "network": "SYS - Syscoin",
+    "path": "m/44'/57'/0'/0/0",
+    "address": "SW6E34VQzs5u8gQbBEWzqGGDmiDJYN3JfP",
+    "pubkey": "026702a221d0b440f3c501744d382b5a4f1cb6ad9cff3823e2cb43bcff2aa1b46b",
+    "privkey": "KzqDFdeSX2B9wuyTNzho1Sqyy4a7KzahgNWQP9AkBY1uYFDqsKvA"
+  },
+  {
+    "network": "SYS - Syscoin",
+    "path": "m/44'/57'/0'/0/1",
+    "address": "SeuiVHAEV7osoU8E4njNRZu73bmg67fRoA",
+    "pubkey": "03305a6471bb28a52633a0a2b735476d1bf07a0aab7f2b61ab5786cf25e9ae109f",
+    "privkey": "L2SUmc7TAE61DKzp1EvEJj5DHCyux5DKBjZRuPwgqQdqSZePw8wj"
+  },
+  {
+    "network": "THC - Hempcoin",
+    "path": "m/44'/113'/0'/0/0",
+    "address": "HErrB7BBDYtEmyUXbo9h4bdHePfVjsYNEC",
+    "pubkey": "031c79463a28e30fa0eaad2085fabcbace7bdc0a72553801cead1db5758bd39d00",
+    "privkey": "Rw61wJ4odCt9HXxEfvi7r46bQsv4En6PNFuhG6JBuTP18nRA3dHL"
+  },
+  {
+    "network": "THC - Hempcoin",
+    "path": "m/44'/113'/0'/0/1",
+    "address": "H73vzgQe1ky9uWZxATWCz9A41VpQLq28JG",
+    "pubkey": "026366021715dea0abc2dadc1a53959f27363baa7ae73f9cd679f430d318c82009",
+    "privkey": "RzeFeJgqEMK3CMK8oBnFUj3EGoHQV38BMKVCUgXycCCYgafxThvS"
+  },
+  {
+    "network": "THT - Thought",
+    "path": "m/44'/1618'/0'/0/0",
+    "address": "3ubP3qRLS9mr7a9ZUS49EdctLefQVmVSRm",
+    "pubkey": "034dc5c88197db4e99418e445d27154c07a271a797d1f7727a27eb7d954986d1b7",
+    "privkey": "KEHpcogsM9AKYYoXzQgeRJbEf9YyxwQoe2SQGbKwPFTSekJHBSEs"
+  },
+  {
+    "network": "THT - Thought",
+    "path": "m/44'/1618'/0'/0/1",
+    "address": "49RoLFw4Cf2r5nb4JTTAvgtuqBidUiin75",
+    "pubkey": "03d1ba3dc1cbf0d8561a2123f91bfb04b4b104cf3a1832599ad151dd9b84d24fe3",
+    "privkey": "KEnqgzp2wE9JRBv1a4rB5M5A4PhcJkDtzfQNnm12svKJm2ex3yx7"
+  },
+  {
+    "network": "TOA - Toa",
+    "path": "m/44'/159'/0'/0/0",
+    "address": "TDtxhCgNBLHQ1enpJLEU7jhrEGFFWYNajC",
+    "pubkey": "02a98676f3788fe1da7c99d52ca7606cfc1d63e06e4e49b7989a52df209fb6a8e1",
+    "privkey": "VfAbb2qeRLJM81WD3G4YoiBsotYHLYh4nXNSRo9XfHo5bFshaXtX"
+  },
+  {
+    "network": "TOA - Toa",
+    "path": "m/44'/159'/0'/0/1",
+    "address": "TXPXR4CtGjufsJUESbzEoNVHyLnQdxkqCY",
+    "pubkey": "021a5db76708a85c45c06297c8b98e2413633c1b8f726979dd216a4f714f4ab5e9",
+    "privkey": "VbPuAcZCnLbZ45QZ76WB2wrzg6EQwmjHGjSFR3KskBrbdkHqE9Hv"
+  },
+  {
+    "network": "TRX - Tron",
+    "path": "m/44'/195'/0'/0/0",
+    "address": "TWQb96L4fWXE3NaPQBgyQ7TvsdfWsXEtrN",
+    "pubkey": "032722a74c66eaad2ab55607872d03170dd5afc8593c0d481ba6e21b55369a3890",
+    "privkey": "d5f243e0ed3fa6e346f322f9a1726c153fb5a1f41df2db6119144552c1dc4a06"
+  },
+  {
+    "network": "TRX - Tron",
+    "path": "m/44'/195'/0'/0/1",
+    "address": "TRft5aMZWiXjSyW7ZntccwcWs1WrA8kQqc",
+    "pubkey": "0352469159abbc48aa2d16cdfb102a443451711b3033ad598d5bcf9f6385fb4fbb",
+    "privkey": "0456f714f228c08756893535585253012149c0fe1b3ab07350ed3df5488ea626"
+  },
+  {
+    "network": "TWINS - TWINS",
+    "path": "m/44'/970'/0'/0/0",
+    "address": "Wg2WeV9dgZ2MvnxzTgyBtgvRui74wDLn5s",
+    "pubkey": "02b7d65e931faa8ba0d0264d23cc90d6eab7d3be3c77b7498153bcb354232bdefd",
+    "privkey": "At9yeURbL72yvDa38HieuHQvaSR8oFowcN5CyXUahoLRFC7tyfiH"
+  },
+  {
+    "network": "TWINS - TWINS",
+    "path": "m/44'/970'/0'/0/1",
+    "address": "Wimn9JQXvk8ZDGGpAAcDoZcyvnyb5vYthP",
+    "pubkey": "036efe952f5ee958575131d15e4c4fb0dadaca30f8640e5c2550a9ccb319ffaf74",
+    "privkey": "Aq16yBDS3M9SKCqqsbE9j7ArT4hFWCa2rvBXi3XwDwmitH5GfYbb"
+  },
+  {
+    "network": "TWINS - TWINS Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "XqdEyQAe3ThmBxdnLoW6SNWJxvHMVHNQtG",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "c6sN9T5xUitZa2E7ube4WaCP3WVR1yWcN7LNcnYmRB5XDDg9XgnT"
+  },
+  {
+    "network": "TWINS - TWINS Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "XrQLV1XxnNayZvFq7rpKBzJUdfuJd4VJwU",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "c7KePk6igJZczukS97w8yYNB3gPxERB9hwGubBV1VW7cEyZyyrW7"
+  },
+  {
+    "network": "USC - Ultimatesecurecash",
+    "path": "m/44'/112'/0'/0/0",
+    "address": "UNTz6TGVznrEmwizJaoH5zqd1EXvyQjEPA",
+    "pubkey": "031dac34409941b58cef5240e577ff1f31eaac57dc1b8457f921e708eb0102ac91",
+    "privkey": "VFsGniSnsBT34YTGhcXofx22g3YzN9qhkzKMDrrVdf6ZPGQKzHMC"
+  },
+  {
+    "network": "USC - Ultimatesecurecash",
+    "path": "m/44'/112'/0'/0/1",
+    "address": "USceyF63rWHkjt2wF8i5UQ67uiimVBdbCc",
+    "pubkey": "02d5648b2bac7f388f19817d91481e0c3d32ec3735f10d11309fc7843f3ec424de",
+    "privkey": "VJ4Uh6tYVJEgpGRzwhxTLyNeNzkCvc3QwWSzJ4Jo1kBstidWbRgw"
+  },
+  {
+    "network": "USNBT - NuBits",
+    "path": "m/44'/12'/0'/0/0",
+    "address": "BE3rxrq1zfpqhQzxuR9BzS4YjAcYox76zL",
+    "pubkey": "0280683538ae21235c863b2ad0aaa4c4f4886295bc03b2a7895c0beb3b8ddb8218",
+    "privkey": "PJyoCNUKqKzUNCFJjs9FAYheDZSZAbKpEjt1ybHUrmdjQ9pBhUWd"
+  },
+  {
+    "network": "USNBT - NuBits",
+    "path": "m/44'/12'/0'/0/1",
+    "address": "BGVhdkA26UbgPH4X3vvhgAjHnnQu8zAr7X",
+    "pubkey": "02885340bf75859818f0279d4e494fb0709d900d4ac1c5592d0687b6bb836065ad",
+    "privkey": "PEAJCGJHYiUBi7TWpzmpDZu1WCCzLSiLycpBzrqTPpNxuKafK4X4"
+  },
+  {
+    "network": "UNO - Unobtanium",
+    "path": "m/44'/92'/0'/0/0",
+    "address": "uSYe5ie36aPdgpNDuqFHcFNB8s32LfXRNB",
+    "pubkey": "033ea34091e2131a552177c71c29666094af2a3c7a7cf8b87dd8dc2b408c330516",
+    "privkey": "aDPkJZeQAGJERnmfb4L2kdvC97AX9Kb6UdezLQogNbv8uWUNfrwC"
+  },
+  {
+    "network": "UNO - Unobtanium",
+    "path": "m/44'/92'/0'/0/1",
+    "address": "ughKharoY6n84Di19gSN3HDooiiNNSUdbC",
+    "pubkey": "0227a0f040840998146fd96398c1612da855c6295d3d9656f478224043cb0f4778",
+    "privkey": "aA3Jz7rvGLcp9TBQynmgDLLxQYgPyuoxQJATiBY5Rms2cpNoL27C"
+  },
+  {
+    "network": "VASH - Vpncoin",
+    "path": "m/44'/33'/0'/0/0",
+    "address": "Vc3CQWMg1yMdKuzoPH2qVzvtoaUomJ6kWb",
+    "pubkey": "021d86457041cdf88446482ff5538ec8a15fe256b0c7057c25b6c2f7162367ee42",
+    "privkey": "WXxBEsjdBkJShb9JC3mB7vrCQA6fbR5GuTpcgsDbPhJnowRRhUnC"
+  },
+  {
+    "network": "VASH - Vpncoin",
+    "path": "m/44'/33'/0'/0/1",
+    "address": "VrU2RYdXJc76XxZMPKef52erq2tXXaL5d8",
+    "pubkey": "02a2c6ef190b30308b7c74e50b8f2cc42907e36b237dbb787baad84893e90d1e79",
+    "privkey": "WYSRTyDVsmsjEve1895PpAbzjg1wkWaxh2QxRcbXLxxXEpicJigT"
+  },
+  {
+    "network": "VET - VeChain",
+    "path": "m/44'/818'/0'/0/0",
+    "address": "0xF0dEae071aE03dC9c414526EFaaE08E8B7B731D6",
+    "pubkey": "0x0360f8e8efa09786b1c0d477ff25dd5ebdaf15a3027628ce0736b4275f707f017f",
+    "privkey": "0xa767001a59bb5c51fc8a4bdc71707ad035a9a0aafb201fe61b68b9396ca02561"
+  },
+  {
+    "network": "VET - VeChain",
+    "path": "m/44'/818'/0'/0/1",
+    "address": "0xcFAA6eC41eDa1F8667c4c6CD2edDf0f6ea05b4d5",
+    "pubkey": "0x03c51048af5ad7e77ebb52adf9b5b04f43b0f8a5ae2a69460cd1e8007ffd913553",
+    "privkey": "0x8bb35018387e255c16c89755a36ca1a8489813bbbf470b045dc76ec7ae853fe9"
+  },
+  {
+    "network": "VIA - Viacoin",
+    "path": "m/44'/14'/0'/0/0",
+    "address": "VcUs7trYXcuoFD2YqMQ461gjv7dLq1S155",
+    "pubkey": "03af5f1692fe2497cd4e293fc546de0458079de728f40ced9a9a76151fb0c86d7d",
+    "privkey": "WWLUnKhgKiBdk1cJbcfc57nYGTE9KGsp8LS8FBK3MiKVSCK4g9CU"
+  },
+  {
+    "network": "VIA - Viacoin",
+    "path": "m/44'/14'/0'/0/1",
+    "address": "Vf6KYMkQcHUyN1jWRZX5ahEZ9y4dfyNV1B",
+    "pubkey": "022f3369f75a92f20dbf7c024bcc57a193575dbce5723a5bc20835fe1206be73cf",
+    "privkey": "WaCZDvFM7p11Dcmhbbi9zsi51HXf2BdcVRN5Q87UGdZpyVYvvBgx"
+  },
+  {
+    "network": "VIA - Viacoin Testnet",
+    "path": "m/44'/1'/0'/0/0",
+    "address": "tMs1BwNLFfLSu4kCbCVMAmPS4eRTpSEWHd",
+    "pubkey": "02052762f140fc15fc1c67314c6e0d6c86f8327d2825a1d05101af43eec0f4fe5b",
+    "privkey": "emJiSMa9dVP37LTwrxk8qhu9XL7A3WPhJ4YigxnUFneLHBKqGzwN"
+  },
+  {
+    "network": "VIA - Viacoin Testnet",
+    "path": "m/44'/1'/0'/0/1",
+    "address": "tNe6hYjezaDfH2NFNFoZvPBbjQ3QvG9Ux9",
+    "pubkey": "036ab190f1c68bb4e4853c822450dfb0b441d58efe5990cb12920d86155664e8c7",
+    "privkey": "emkzgeauq546YDzG6V3DJg4wXW1hFx4EdtVFfMiiL7gRJwFJewzG"
+  },
+  {
+    "network": "VIVO - Vivo",
+    "path": "m/44'/166'/0'/0/0",
+    "address": "VEddYPDEQf6CHkvC7t8pPvoWkWRnGdNys3",
+    "pubkey": "02c2feef34a6dc0c6d82fbd3ec964750a5d7b6b3b1e8b8362703fa8d1a4689bf74",
+    "privkey": "WQ2vBDgbEYmVucajYCMYGjxgQzbpgQZsF923YT5rhAE8DFUR46Rj"
+  },
+  {
+    "network": "VIVO - Vivo",
+    "path": "m/44'/166'/0'/0/1",
+    "address": "VBhUZEMqS1S2KkM2tvxBRSc4fmxcETJDHD",
+    "pubkey": "02df173657781d43909859e714b10ac082716480c8e7d73ffbb9b54a4db3844613",
+    "privkey": "WK3spzNMi4wFPuxp1h1ydpbtsA9SyuKbSB6dTRguT2TCjSsKxqqQ"
+  },
+  {
+    "network": "VTC - Vertcoin",
+    "path": "m/44'/28'/0'/0/0",
+    "address": "VuKx8YRDE5acbyT8vg2HQ39SoKvSPgFgy1",
+    "pubkey": "03baa8af0c8d451624d11584291274b3588320a097f333bf402f9b78e7e43d7749",
+    "privkey": "L4yFTYXY3UaHRNq9AynhcHbGogvcnVbiEcXmGMHGZcN2zkh55HHV"
+  },
+  {
+    "network": "VTC - Vertcoin",
+    "path": "m/44'/28'/0'/0/1",
+    "address": "VgwNXw2cfQiV9HLN4G4BJUCwuvi3EbaVcB",
+    "pubkey": "020a69b133bb45f810fb6b287f74bd4e51c68519b2b98b8fae27d0637383c16f9c",
+    "privkey": "L5isUdQzsxgdGCgDhzoQTiTedeEFoD5qbys4HEV47Pz8Micipdho"
+  },
+  {
+    "network": "WGR - Wagerr",
+    "path": "m/44'/7825266'/0'/0/0",
+    "address": "WPwg6GM2KCnBpXe381isYR1zTWm1B5R44a",
+    "pubkey": "03cbda482184be2daee25e0418680feb183676cbb0ca4e4872810a7c1a7170d881",
+    "privkey": "WaUonWBydJnWDW9CMj5gZUNuaUEfNwF1gd3uPxopceD11nQnFFCu"
+  },
+  {
+    "network": "WGR - Wagerr",
+    "path": "m/44'/7825266'/0'/0/1",
+    "address": "WVhGESRrCgAkKQysEgC37Qv4rhNyqC7uvT",
+    "pubkey": "02fc121f7faafbe30e18dcd3739b434179b0ab45ba300a4d022113670820a73f94",
+    "privkey": "WScm6KcyXg5NwzpB6AsqYkHLpFL2iqpXSvC99HVPNZDEHSu447zp"
+  },
+  {
+    "network": "WC - Wincoin",
+    "path": "m/44'/181'/0'/0/0",
+    "address": "WXxX6BY5ie3eXv2zh4LR9o3TC1qVLxrbQs",
+    "pubkey": "0249e2841e12e18b0ffccf77c932107a140c92c8d43ce22496b7ed0d0620c8f11e",
+    "privkey": "Wo4nFRpbmH1awfzRhmCv2dPszhAa7EkpU4SCAMkx7tvwknhDWhBa"
+  },
+  {
+    "network": "WC - Wincoin",
+    "path": "m/44'/181'/0'/0/1",
+    "address": "WjoWd9ZMVy3dkGmMzBXA9JCHmNGSjCRnon",
+    "pubkey": "03e2ae7a40a59cbf517887c82ef8ce97438e6fff9a8118d46393a7825ec7ec723b",
+    "privkey": "WpwrxKJJT4z6q5CURRQgGU1qFp2Vtz4EJEuPpx48L4jL1KffV12E"
+  },
+  {
+    "network": "XAX - Artax",
+    "path": "m/44'/219'/0'/0/0",
+    "address": "ANtzFFntdmFzE2oAgDtxz6ZCpQjs2ir5wn",
+    "pubkey": "0239435769da90d6da75d1ffbcb93d9b70978b057d47558b8c61233602b3f15acc",
+    "privkey": "PV6xN7rkmt4FMu3qGsmRGBG1bcbNo3VRyWtyQZeHS35yiA3mi77s"
+  },
+  {
+    "network": "XAX - Artax",
+    "path": "m/44'/219'/0'/0/1",
+    "address": "AQeT5qJXt1YigVWisnQsUaCEJYa1kJ9L51",
+    "pubkey": "02e1b8a84d6f90077d8faf85d5cbafb866310cf74293d1ccd3ee39550675348254",
+    "privkey": "PRqksrKDLtx1KtkbBTUXtZDdaLoL9NPQ1QYyH9tCo8aovaMx1bTM"
+  },
+  {
+    "network": "XBC - Bitcoinplus",
+    "path": "m/44'/65'/0'/0/0",
+    "address": "BF815tcdnJmRTaojzP4jgAXimcq2CV7ySL",
+    "pubkey": "02985c9eadc6f52ca4db40103006971c23448de27e0c8448b61d2ca9ef796134bd",
+    "privkey": "PkfL3W65zDsV2qdVBFoHSp6Xi3D9Y3x3Adp9LkUExckPWe9hnKZF"
+  },
+  {
+    "network": "XBC - Bitcoinplus",
+    "path": "m/44'/65'/0'/0/1",
+    "address": "B4n21ZqgVw7guxGGKDhB992vM1kNTZPGzK",
+    "pubkey": "03cdbbb763a8a998572a82d451e6c281f4e5b338fa5463b7787d118013e51dbf8b",
+    "privkey": "Pn6VPYDsJPP4TRZCFtdCangCwuugdFyH1D4TnRbgq4T25pLTWs3T"
+  },
+  {
+    "network": "XLM - Stellar",
+    "path": "m/44'/148'/0'",
+    "address": "GB3P6OD356E3WAKHZ2N5A6PHXF2EY6NR7K6JAQJ52K2QB4FFRUI4IHME",
+    "pubkey": "GB3P6OD356E3WAKHZ2N5A6PHXF2EY6NR7K6JAQJ52K2QB4FFRUI4IHME",
+    "privkey": "SBX5QYW7G4C33KTLH3S3IIOISPSK6YR2JO3ZS73LGLMNMPV7TRQNGWBB"
+  },
+  {
+    "network": "XLM - Stellar",
+    "path": "m/44'/148'/1'",
+    "address": "GDGDYRTMFN5ZXF35EJAHYWAVINJVLD4A2CGUJCZWNTFFTK7NBCGITF5F",
+    "pubkey": "GDGDYRTMFN5ZXF35EJAHYWAVINJVLD4A2CGUJCZWNTFFTK7NBCGITF5F",
+    "privkey": "SA2CFDAY5UISJP72GIW3ZRASMW7HTXQ4LOVN6NFHJC6FYCKVBMTQS6M3"
+  },
+  {
+    "network": "XMY - Myriadcoin",
+    "path": "m/44'/90'/0'/0/0",
+    "address": "ML92QvP8NbeTjii5n8pQEhiwVXw67hZfiC",
+    "pubkey": "03780f8a82660cfe9baae31c239edb2229fedf4e24fc8795f8e0ecd28e8016a1b0",
+    "privkey": "TN9NimmMrFQdKtg7wVtt65SBafvMbRig1RatVZ5mQb2P2SUbW7fA"
+  },
+  {
+    "network": "XMY - Myriadcoin",
+    "path": "m/44'/90'/0'/0/1",
+    "address": "MABH5hjTkYZWHrDVqYb4QuCHPJCbAUn4FP",
+    "pubkey": "0248d18abc84e8dd631030374c5568c43cfa1199026a907afd52fb419858788d42",
+    "privkey": "TSaj17jGCcSRV3N4Fd2ANwn4EiJydKCBki6AyeM9CaqeKGEPBsnm"
+  },
+  {
+    "network": "XRP - Ripple",
+    "path": "m/44'/144'/0'/0/0",
+    "address": "rBZfU6EWTYG32sQrYb8FKyXvNUT2xcmAQ7",
+    "pubkey": "024dead09271d03eeb7f1c8776f597661c26733edb2033c64d2afe9fcf950c0145",
+    "privkey": "ecfe8a07fadd51b943c20b60b44083005d1627a68e2da3a01390b4d222ab55be"
+  },
+  {
+    "network": "XRP - Ripple",
+    "path": "m/44'/144'/0'/0/1",
+    "address": "rLGs9oL2eD5USb7ZCBLRwVi5iXwrkLRtFA",
+    "pubkey": "038a58e21f4baa8f618b4e87a89420099866a402b5852f41e726d6d19ac897182e",
+    "privkey": "00959013f83848770b73684ba88c0422961cd6feafad8bf79073524a303fa06e"
+  },
+  {
+    "network": "XVC - Vcash",
+    "path": "m/44'/127'/0'/0/0",
+    "address": "VuCWAWZunmcGrsgNSzH9cekCbvwSTk6ZmX",
+    "pubkey": "03f479846a5cfb0ce85a71291886bf8fb28b35f3ac818c8a71088257b1707388c0",
+    "privkey": "WY55G3aBmQXFdz4pCrZLVCHPwdDh5oSdqHdggqoorHQhLCAWrTzm"
+  },
+  {
+    "network": "XVC - Vcash",
+    "path": "m/44'/127'/0'/0/1",
+    "address": "Vukj9eU6jn4S5gnNprnAM6KRfrFqqcJqN8",
+    "pubkey": "033705cd4611883c9aea18d5632cb83fff91c8b840a97fb5883c193811664d112b",
+    "privkey": "WSqWV9rcgJXZLg4A5FWetYcStX6GHvVjZbGAS64xNruj9H9yXrKT"
+  },
+  {
+    "network": "XVG - Verge",
+    "path": "m/44'/77'/0'/0/0",
+    "address": "DNAQscRwswo5qB5MJXLtL1e6x1Uqjqe319",
+    "pubkey": "0346f1c8845b6f605605ed29a5c9bb6540f7af99402327c6d32e5cf9c04a683a06",
+    "privkey": "QPkCw8f5A5CLbPeHy7iDNfi9DMCLYUv97oM3kPjYQN9u7jmEdVNE"
+  },
+  {
+    "network": "XVG - Verge",
+    "path": "m/44'/77'/0'/0/1",
+    "address": "D6maPQNGuTeLuUPuyxT9TXuAoD2qRDBYkW",
+    "pubkey": "03ac055ec71fe12332a6692a63556bfa1e6bfcf0751a0bcbba053559a3ae0167ee",
+    "privkey": "QS8aDEPVue72Srqo2bXYZLLWXNjPpS2sZLHnsPkaaU9v5ok7jjhB"
+  },
+  {
+    "network": "XUEZ - Xuez",
+    "path": "m/44'/225'/0'/0/0",
+    "address": "XR869PqaS7J7iW2PyvDKxQ58KNUJRWk7an",
+    "pubkey": "02994122f3a2a1420fcd278f058cb259bdab3655cf09cc045e3d69fb6f4fd569e2",
+    "privkey": "YPhnCDWvf3BTqo7cxQXozivs4pkUK2CgBioKpxZboXERn8RrF65S"
+  },
+  {
+    "network": "XUEZ - Xuez",
+    "path": "m/44'/225'/0'/0/1",
+    "address": "XGoNRmp3nJrfrcjSd8jt7JVw1WCcPqM8sD",
+    "pubkey": "025987a30b80a3703ebcac5ca398d84400e4d35604ca77b9c0b8f49707ef6dc707",
+    "privkey": "YNW6e2PVMVnxN4fMN8xrrdq5PG3EPC9HMcbkWs6RCmsZHDFUz8i9"
+  },
+  {
+    "network": "XWCC - Whitecoin Classic",
+    "path": "m/44'/155'/0'/0/0",
+    "address": "WPhjQB1K2qCJBsrmUh8Zng8vd8uvdQ5Xrd",
+    "pubkey": "03eac48f76455ec75edb3105ca500d72785a9dfef537a7fce98ed4a507e15becb3",
+    "privkey": "Wr6S29NPJtRzNVXBeNJpDo2ar4CfCJuUMnm3gN27GfSdfKQTEJdt"
+  },
+  {
+    "network": "XWCC - Whitecoin Classic",
+    "path": "m/44'/155'/0'/0/1",
+    "address": "WXhyNLV3YzhJNi8nkrMY57wXPcGRwHUGjj",
+    "pubkey": "039cd7c9b0c88b8bdae877fc46836014c4f94f1270911ae1b096d7a12a5fc50183",
+    "privkey": "Ws4WnwwsBh6opDrPUhZdQsYeKC868KnWEYi7k6oK3NDMtSHitPUR"
+  },
+  {
+    "network": "XZC - Zcoin (rebranded to Firo)",
+    "path": "m/44'/136'/0'/0/0",
+    "address": "aNym7uYZQHQt55ofWpF7YMwVeUg5733Ter",
+    "pubkey": "0246983a5f83ebf995a0d04337b003579d3e8fd1ec8d4dfb2520e7a52e464107dd",
+    "privkey": "Y8Aq6AX9g2EdesziUHekznr7rwqYVCh7b3UiFN4mAKAYipEQJeVa"
+  },
+  {
+    "network": "XZC - Zcoin (rebranded to Firo)",
+    "path": "m/44'/136'/0'/0/1",
+    "address": "aGJUG7VPv3z8x7KaPSiuzRpPSanqjto4F6",
+    "pubkey": "02ed3d46bb55c1dcc6deb92cdcce0597b65b36548f8cf0276e8179b0ae99f685e1",
+    "privkey": "YAbQHFfV1WJRFNNeA2vM4AJ84vmM5cMYcFKpcPrCj2bwbjAxZ6tU"
+  },
+  {
+    "network": "ZBC - ZooBlockchain",
+    "path": "m/44'/883'/0'",
+    "address": "ZBC_UGQG53MJ_MWEIM5IW_527BWYVU_KWBT2T6U_64L5MK4I_QECP3BJG_SZBDVDD6",
+    "pubkey": "a1a06eed896588867516eebe1b62b455833d4fd4f717d62b888104fd85269642",
+    "privkey": "84830221eace7a3e4178e3afa10205c975a273eaccf8958cf4e2b43673439be4"
+  },
+  {
+    "network": "ZBC - ZooBlockchain",
+    "path": "m/44'/883'/1'",
+    "address": "ZBC_K4ZUVY3C_XGS5SP5S_URLX6KFI_5EMHJMSA_CP6MVMTH_MZKOYZWJ_FRUY62TS",
+    "pubkey": "57334ae362b9a5d93fb2a4577f28a8e91874b24013fccab2676654ec66c92c69",
+    "privkey": "30362348ce2a634e933dee69ccd78ee3ce3de0941e3c35e4c4cf7e47bfead9e4"
+  },
+  {
+    "network": "ZCL - Zclassic",
+    "path": "m/44'/147'/0'/0/0",
+    "address": "t1deNs5uR4EhBuq5HfrjmniXAfNNDMPEKv8",
+    "pubkey": "0363e412a1f4096b0558c3fcb6eeada08f89ea3643befc10503af09e037105b484",
+    "privkey": "KwuWYaZRWgQLqfVcHBzkH1SmMAdg61uHs5JRZiCKuN1kbWsncZhb"
+  },
+  {
+    "network": "ZCL - Zclassic",
+    "path": "m/44'/147'/0'/0/1",
+    "address": "t1b3coihb4PzeSpBazhSKJ4dkkTAreoRDaD",
+    "pubkey": "031022e1a499af8a57686ba959c912a8e3c33d8ae7b12e862465194976c88b1515",
+    "privkey": "KwGxHcTX2CAyYdfAc3nKSPAUNmsxBPDbzYhmCWfFUFv59kqdAsHW"
+  },
+  {
+    "network": "ZEC - Zcash",
+    "path": "m/44'/133'/0'/0/0",
+    "address": "t1KmTgxFzFLarBnAFMMXDwYii6uBNvAppyZ",
+    "pubkey": "02c407864604c45fdee03d99b6700193e73da5f24568a78a2a78b287040cd0173a",
+    "privkey": "L2onUTQBiXsxNcRbqfcWyv73K4ryRiNUW7nn5yqzKTjhyqesyRSX"
+  },
+  {
+    "network": "ZEC - Zcash",
+    "path": "m/44'/133'/0'/0/1",
+    "address": "t1NaYLK3jFvJmTTFZrQzJq3HVoU7QbLuPp2",
+    "pubkey": "03ffc3b7c629aca74af0a550672340336d7c0bcc5bf7dfca898d46bbe9b845184a",
+    "privkey": "KxEeATbVr1nwQupGKorGndjpKTfjrvFJLUD5J4RiXKMJke1YKLrX"
+  },
+  {
+    "network": "ZEN - Horizen",
+    "path": "m/44'/121'/0'/0/0",
+    "address": "znjoEmFsoPe8XgZSPpC5EbPjv2BPaT9JCx8",
+    "pubkey": "03f00b01debfae24180cb4a020cfe47e58209ae3b4575c2464b03ee0376f354691",
+    "privkey": "L3uXRfcRctqDb7zrotQ5oNeNvRkuzkq9MPthgX8SmGBhFNi8SJmx"
+  },
+  {
+    "network": "ZEN - Horizen",
+    "path": "m/44'/121'/0'/0/1",
+    "address": "znXBtgngUxSNVxGgv7kjv4mzRwyhsPtgP35",
+    "pubkey": "02237b9c1a1f4ed9335740478dbd679fbb7146e734e525d6387608950d7e7da5be",
+    "privkey": "KzgpRdv85yMDTPdLHVDTCKV52Zax6F9bEF91ht38xTGhUvBYdmtY"
+  },
+  {
+    "network": "XWC - Whitecoin",
+    "path": "m/44'/559'/0'/0/0",
+    "address": "XWCNLwEkdGF2LbsLoxPXpWX2WT2ZxgoeRKqHf",
+    "pubkey": "XWC7AQi5AuHg5RUuSCdaVYCLRFNfu7pQYGHHYAhLftnKLvA2Tdec3",
+    "privkey": "5J3wf6XCeWY5Rz3HWbQECf1XFZNKpERDLvcv5syTWmw43tCDmPV"
+  },
+  {
+    "network": "XWC - Whitecoin",
+    "path": "m/44'/559'/0'/0/1",
+    "address": "XWCNeuoFU5uujd1YyM12M4HsVLA7XjUaucXzY",
+    "pubkey": "XWC7FbdW9xE9o3VTwVYECkZHyV8GHSxpPPh16BMfUUrJSDJkYvRjc",
+    "privkey": "5KgrSwGJxzSYr6NNFo3CZtYP5vT7zY9RDzWShyCjaXRXfJ4swv3"
+  },
+  {
+    "network": "BCH - Bitcoin Cash",
+    "path": "m/44'/145'/0'/0/0",
+    "address": "bitcoincash:qz0r7yu7ns40xm0yda8dlftc445a5km57gnqthn900",
+    "pubkey": "022bb58fb4028ff449e9af7c1e9da8c16577b0d54bcdd32f90e8684fc8cc8757e0",
+    "privkey": "L2ZeRGjztRuYRaKYPQJxSKMKivfig8UKZbsr6Kb98HykZCQbjjCw"
+  },
+  {
+    "network": "BCH - Bitcoin Cash",
+    "path": "m/44'/145'/0'/0/1",
+    "address": "bitcoincash:qrwm5vvh67fmwn0ruh0ch7fam4s8evg6wcsrwlg2dy",
+    "pubkey": "037e4da55814f414d07451b0d725887ba9bd8905c87ae0a80269da391d2d0db874",
+    "privkey": "L5NntuLTihoDfponizvB7H4QAe1Xbetxz4Ca4CB2XUqMTREaB595"
+  }
+]
