@@ -1,0 +1,1437 @@
+[
+  {
+    "name": "AC - Asiacoin",
+    "network": "asiacoin",
+    "hdCoin": 51,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ACC - Adcoin",
+    "network": "adcoin",
+    "hdCoin": 161,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "AGM - Argoneum",
+    "network": "argoneum",
+    "hdCoin": 421,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ARYA - Aryacoin",
+    "network": "aryacoin",
+    "hdCoin": 357,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ATOM - Cosmos Hub",
+    "network": "bitcoin",
+    "hdCoin": 118,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "AUR - Auroracoin",
+    "network": "auroracoin",
+    "hdCoin": 85,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "AXE - Axe",
+    "network": "axe",
+    "hdCoin": 4242,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ANON - ANON",
+    "network": "anon",
+    "hdCoin": 220,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BOLI - Bolivarcoin",
+    "network": "bolivarcoin",
+    "hdCoin": 278,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BCA - Bitcoin Atom",
+    "network": "atom",
+    "hdCoin": 185,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BCH - Bitcoin Cash",
+    "network": "",
+    "hdCoin": 145,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BEET - Beetlecoin",
+    "network": "beetlecoin",
+    "hdCoin": 800,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BELA - Belacoin",
+    "network": "belacoin",
+    "hdCoin": 73,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BLK - BlackCoin",
+    "network": "blackcoin",
+    "hdCoin": 10,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BND - Blocknode",
+    "network": "blocknode",
+    "hdCoin": 2941,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "tBND - Blocknode Testnet",
+    "network": "blocknode_testnet",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BRIT - Britcoin",
+    "network": "britcoin",
+    "hdCoin": 70,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BSD - Bitsend",
+    "network": "bitsend",
+    "hdCoin": 91,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BST - BlockStamp",
+    "network": "blockstamp",
+    "hdCoin": 254,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BTA - Bata",
+    "network": "bata",
+    "hdCoin": 89,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BTC - Bitcoin",
+    "network": "bitcoin",
+    "hdCoin": 0,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BTC - Bitcoin RegTest",
+    "network": "regtest",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BTC - Bitcoin Testnet",
+    "network": "testnet",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BITG - Bitcoin Green",
+    "network": "bitcoingreen",
+    "hdCoin": 222,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BTCP - Bitcoin Private",
+    "network": "bitcoinprivate",
+    "hdCoin": 183,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BTCPt - Bitcoin Private Testnet",
+    "network": "bitcoinprivatetestnet",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BSC - Binance Smart Chain",
+    "network": "bitcoin",
+    "hdCoin": 60,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BSV - BitcoinSV",
+    "network": "bitcoinsv",
+    "hdCoin": 236,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BTCZ - Bitcoinz",
+    "network": "bitcoinz",
+    "hdCoin": 177,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BTDX - BitCloud",
+    "network": "bitcloud",
+    "hdCoin": 218,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BTG - Bitcoin Gold",
+    "network": "bgold",
+    "hdCoin": 156,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "BTX - Bitcore",
+    "network": "bitcore",
+    "hdCoin": 160,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CCN - Cannacoin",
+    "network": "cannacoin",
+    "hdCoin": 19,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CESC - Cryptoescudo",
+    "network": "cannacoin",
+    "hdCoin": 111,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CDN - Canadaecoin",
+    "network": "canadaecoin",
+    "hdCoin": 34,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CLAM - Clams",
+    "network": "clam",
+    "hdCoin": 23,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CLO - Callisto",
+    "network": "bitcoin",
+    "hdCoin": 820,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "CLUB - Clubcoin",
+    "network": "clubcoin",
+    "hdCoin": 79,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CMP - Compcoin",
+    "network": "compcoin",
+    "hdCoin": 71,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CPU - CPUchain",
+    "network": "cpuchain",
+    "hdCoin": 363,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CRAVE - Crave",
+    "network": "crave",
+    "hdCoin": 186,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CRP - CranePay",
+    "network": "cranepay",
+    "hdCoin": 2304,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CRW - Crown (Legacy)",
+    "network": "crown",
+    "hdCoin": 72,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CRW - Crown",
+    "network": "crown",
+    "hdCoin": 72,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "CSC - CasinoCoin",
+    "network": "bitcoin",
+    "hdCoin": 359,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DASH - Dash",
+    "network": "dash",
+    "hdCoin": 5,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DASH - Dash Testnet",
+    "network": "dashtn",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DFC - Defcoin",
+    "network": "defcoin",
+    "hdCoin": 1337,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DGB - Digibyte",
+    "network": "digibyte",
+    "hdCoin": 20,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DGC - Digitalcoin",
+    "network": "digitalcoin",
+    "hdCoin": 18,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DIVI - DIVI",
+    "network": "divi",
+    "hdCoin": 301,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DIVI - DIVI Testnet",
+    "network": "divitestnet",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DMD - Diamond",
+    "network": "diamond",
+    "hdCoin": 152,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DNR - Denarius",
+    "network": "denarius",
+    "hdCoin": 116,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DOGE - Dogecoin",
+    "network": "dogecoin",
+    "hdCoin": 3,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DOGEt - Dogecoin Testnet",
+    "network": "dogecointestnet",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "DXN - DEXON",
+    "network": "bitcoin",
+    "hdCoin": 237,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ECN - Ecoin",
+    "network": "ecoin",
+    "hdCoin": 115,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "EDRC - Edrcoin",
+    "network": "edrcoin",
+    "hdCoin": 56,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "EFL - Egulden",
+    "network": "egulden",
+    "hdCoin": 78,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ELA - Elastos",
+    "network": "elastos",
+    "hdCoin": 2305,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ELLA - Ellaism",
+    "network": "bitcoin",
+    "hdCoin": 163,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "EMC2 - Einsteinium",
+    "network": "einsteinium",
+    "hdCoin": 41,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ERC - Europecoin",
+    "network": "europecoin",
+    "hdCoin": 151,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "EOS - EOSIO",
+    "network": "bitcoin",
+    "hdCoin": 194,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ERE - EtherCore",
+    "network": "bitcoin",
+    "hdCoin": 466,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "ESN - Ethersocial Network",
+    "network": "bitcoin",
+    "hdCoin": 31102,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "ETC - Ethereum Classic",
+    "network": "bitcoin",
+    "hdCoin": 61,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "ETH - Ethereum",
+    "network": "bitcoin",
+    "hdCoin": 60,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "EWT - EnergyWeb",
+    "network": "bitcoin",
+    "hdCoin": 246,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "EXCL - Exclusivecoin",
+    "network": "exclusivecoin",
+    "hdCoin": 190,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "EXCC - ExchangeCoin",
+    "network": "exchangecoin",
+    "hdCoin": 0,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "EXP - Expanse",
+    "network": "bitcoin",
+    "hdCoin": 40,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "FIO - Foundation for Interwallet Operability",
+    "network": "bitcoin",
+    "hdCoin": 235,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "FIRO - Firo (Zcoin rebrand)",
+    "network": "firo",
+    "hdCoin": 136,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "FIX - FIX",
+    "network": "fix",
+    "hdCoin": 336,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "FIX - FIX Testnet",
+    "network": "fixtestnet",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "FJC - Fujicoin",
+    "network": "fujicoin",
+    "hdCoin": 75,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "FLASH - Flashcoin",
+    "network": "flashcoin",
+    "hdCoin": 120,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "FRST - Firstcoin",
+    "network": "firstcoin",
+    "hdCoin": 167,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "FTC - Feathercoin",
+    "network": "feathercoin",
+    "hdCoin": 8,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "GAME - GameCredits",
+    "network": "game",
+    "hdCoin": 101,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "GBX - Gobyte",
+    "network": "gobyte",
+    "hdCoin": 176,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "GCR - GCRCoin",
+    "network": "gcr",
+    "hdCoin": 79,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "GRC - Gridcoin",
+    "network": "gridcoin",
+    "hdCoin": 84,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "GRS - Groestlcoin",
+    "network": "groestlcoin",
+    "hdCoin": 17,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "GRS - Groestlcoin Testnet",
+    "network": "groestlcointestnet",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "HNS - Handshake",
+    "network": "",
+    "hdCoin": 5353,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "HNC - Helleniccoin",
+    "network": "helleniccoin",
+    "hdCoin": 168,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "HUSH - Hush (Legacy)",
+    "network": "hush",
+    "hdCoin": 197,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "HUSH - Hush3",
+    "network": "hush3",
+    "hdCoin": 197,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "INSN - Insane",
+    "network": "insane",
+    "hdCoin": 68,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "IOP - Iop",
+    "network": "iop",
+    "hdCoin": 66,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "IOV - Starname",
+    "network": "bitcoin",
+    "hdCoin": 234,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "IXC - Ixcoin",
+    "network": "ixcoin",
+    "hdCoin": 86,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "JBS - Jumbucks",
+    "network": "jumbucks",
+    "hdCoin": 26,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "KMD - Komodo",
+    "network": "komodo",
+    "hdCoin": 141,
+    "bip49available": false,
+    "segwitAvailable": true
+  },
+  {
+    "name": "KOBO - Kobocoin",
+    "network": "kobocoin",
+    "hdCoin": 196,
+    "bip49available": false,
+    "segwitAvailable": true
+  },
+  {
+    "name": "LBC - Library Credits",
+    "network": "lbry",
+    "hdCoin": 140,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "LCC - Litecoincash",
+    "network": "litecoincash",
+    "hdCoin": 192,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "LDCN - Landcoin",
+    "network": "landcoin",
+    "hdCoin": 63,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "LINX - Linx",
+    "network": "linx",
+    "hdCoin": 114,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "LKR - Lkrcoin",
+    "network": "lkrcoin",
+    "hdCoin": 557,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "LTC - Litecoin",
+    "network": "litecoin",
+    "hdCoin": 2,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "LTCt - Litecoin Testnet",
+    "network": "litecointestnet",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "LTZ - LitecoinZ",
+    "network": "litecoinz",
+    "hdCoin": 221,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "LUNA - Terra",
+    "network": "bitcoin",
+    "hdCoin": 330,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "LYNX - Lynx",
+    "network": "lynx",
+    "hdCoin": 191,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "MAZA - Maza",
+    "network": "maza",
+    "hdCoin": 13,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "MEC - Megacoin",
+    "network": "megacoin",
+    "hdCoin": 217,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "MIX - MIX",
+    "network": "bitcoin",
+    "hdCoin": 76,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "MNX - Minexcoin",
+    "network": "minexcoin",
+    "hdCoin": 182,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "MONA - Monacoin",
+    "network": "monacoin",
+    "hdCoin": 22,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "MONK - Monkey Project",
+    "network": "monkeyproject",
+    "hdCoin": 214,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "MOAC - MOAC",
+    "network": "bitcoin",
+    "hdCoin": 314,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "MUSIC - Musicoin",
+    "network": "bitcoin",
+    "hdCoin": 184,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "NANO - Nano",
+    "network": "nanoUtil.dummyNetwork",
+    "hdCoin": 165,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NAV - Navcoin",
+    "network": "navcoin",
+    "hdCoin": 130,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NAS - Nebulas",
+    "network": "bitcoin",
+    "hdCoin": 2718,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NEBL - Neblio",
+    "network": "neblio",
+    "hdCoin": 146,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NEOS - Neoscoin",
+    "network": "neoscoin",
+    "hdCoin": 25,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NIX - NIX Platform",
+    "network": "nix",
+    "hdCoin": 400,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NLG - Gulden",
+    "network": "gulden",
+    "hdCoin": 87,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NMC - Namecoin",
+    "network": "namecoin",
+    "hdCoin": 7,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NRG - Energi",
+    "network": "energi",
+    "hdCoin": 204,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NRO - Neurocoin",
+    "network": "neurocoin",
+    "hdCoin": 110,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NSR - Nushares",
+    "network": "nushares",
+    "hdCoin": 11,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NYC - Newyorkc",
+    "network": "newyorkc",
+    "hdCoin": 179,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "NVC - Novacoin",
+    "network": "novacoin",
+    "hdCoin": 50,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "OK - Okcash",
+    "network": "okcash",
+    "hdCoin": 69,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "OMNI - Omnicore",
+    "network": "omnicore",
+    "hdCoin": 200,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ONION - DeepOnion",
+    "network": "deeponion",
+    "hdCoin": 305,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ONX - Onixcoin",
+    "network": "onixcoin",
+    "hdCoin": 174,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "PART - Particl",
+    "network": "particl",
+    "hdCoin": 44,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "PHR - Phore",
+    "network": "phore",
+    "hdCoin": 444,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "PINK - Pinkcoin",
+    "network": "pinkcoin",
+    "hdCoin": 117,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "PIRL - Pirl",
+    "network": "bitcoin",
+    "hdCoin": 164,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "PIVX - PIVX",
+    "network": "pivx",
+    "hdCoin": 119,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "PIVX - PIVX Testnet",
+    "network": "pivxtestnet",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "POA - Poa",
+    "network": "bitcoin",
+    "hdCoin": 178,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "POSW - POSWcoin",
+    "network": "poswcoin",
+    "hdCoin": 47,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "POT - Potcoin",
+    "network": "potcoin",
+    "hdCoin": 81,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "PPC - Peercoin",
+    "network": "peercoin",
+    "hdCoin": 6,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "PRJ - ProjectCoin",
+    "network": "projectcoin",
+    "hdCoin": 533,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "PSB - Pesobit",
+    "network": "pesobit",
+    "hdCoin": 62,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "PUT - Putincoin",
+    "network": "putincoin",
+    "hdCoin": 122,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "RPD - Rapids",
+    "network": "rapids",
+    "hdCoin": 320,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "RVN - Ravencoin",
+    "network": "ravencoin",
+    "hdCoin": 175,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "R-BTC - RSK",
+    "network": "rsk",
+    "hdCoin": 137,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "tR-BTC - RSK Testnet",
+    "network": "rsktestnet",
+    "hdCoin": 37310,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "RBY - Rubycoin",
+    "network": "rubycoin",
+    "hdCoin": 16,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "RDD - Reddcoin",
+    "network": "reddcoin",
+    "hdCoin": 4,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "RITO - Ritocoin",
+    "network": "ritocoin",
+    "hdCoin": 19169,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "RUNE - THORChain",
+    "network": "bitcoin",
+    "hdCoin": 931,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "RVR - RevolutionVR",
+    "network": "revolutionvr",
+    "hdCoin": 129,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SAFE - Safecoin",
+    "network": "safecoin",
+    "hdCoin": 19165,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SCRIBE - Scribe",
+    "network": "scribe",
+    "hdCoin": 545,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SLS - Salus",
+    "network": "salus",
+    "hdCoin": 63,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SDC - ShadowCash",
+    "network": "shadow",
+    "hdCoin": 35,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SDC - ShadowCash Testnet",
+    "network": "shadowtn",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SLM - Slimcoin",
+    "network": "slimcoin",
+    "hdCoin": 63,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SLM - Slimcoin Testnet",
+    "network": "slimcointn",
+    "hdCoin": 111,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SLP - Simple Ledger Protocol",
+    "network": "",
+    "hdCoin": 245,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SLR - Solarcoin",
+    "network": "solarcoin",
+    "hdCoin": 58,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SMLY - Smileycoin",
+    "network": "smileycoin",
+    "hdCoin": 59,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "STASH - Stash",
+    "network": "stash",
+    "hdCoin": 49344,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "STASH - Stash Testnet",
+    "network": "stashtn",
+    "hdCoin": 51966,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "STRAT - Stratis",
+    "network": "stratis",
+    "hdCoin": 105,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SUGAR - Sugarchain",
+    "network": "sugarchain",
+    "hdCoin": 408,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "TUGAR - Sugarchain Testnet",
+    "network": "sugarchaintestnet",
+    "hdCoin": 408,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SWTC - Jingtum",
+    "network": "bitcoin",
+    "hdCoin": 315,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "TSTRAT - Stratis Testnet",
+    "network": "stratistest",
+    "hdCoin": 105,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "SYS - Syscoin",
+    "network": "syscoin",
+    "hdCoin": 57,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "THC - Hempcoin",
+    "network": "hempcoin",
+    "hdCoin": 113,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "THT - Thought",
+    "network": "thought",
+    "hdCoin": 1618,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "TOA - Toa",
+    "network": "toa",
+    "hdCoin": 159,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "TRX - Tron",
+    "network": "",
+    "hdCoin": 195,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "TWINS - TWINS",
+    "network": "twins",
+    "hdCoin": 970,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "TWINS - TWINS Testnet",
+    "network": "twinstestnet",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "USC - Ultimatesecurecash",
+    "network": "ultimatesecurecash",
+    "hdCoin": 112,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "USNBT - NuBits",
+    "network": "nubits",
+    "hdCoin": 12,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "UNO - Unobtanium",
+    "network": "unobtanium",
+    "hdCoin": 92,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "VASH - Vpncoin",
+    "network": "vpncoin",
+    "hdCoin": 33,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "VET - VeChain",
+    "network": "bitcoin",
+    "hdCoin": 818,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "VIA - Viacoin",
+    "network": "viacoin",
+    "hdCoin": 14,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "VIA - Viacoin Testnet",
+    "network": "viacointestnet",
+    "hdCoin": 1,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "VIVO - Vivo",
+    "network": "vivo",
+    "hdCoin": 166,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "VTC - Vertcoin",
+    "network": "vertcoin",
+    "hdCoin": 28,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "WGR - Wagerr",
+    "network": "wagerr",
+    "hdCoin": 7825266,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "WC - Wincoin",
+    "network": "wincoin",
+    "hdCoin": 181,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "XAX - Artax",
+    "network": "artax",
+    "hdCoin": 219,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "XBC - Bitcoinplus",
+    "network": "bitcoinplus",
+    "hdCoin": 65,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "XLM - Stellar",
+    "network": "stellarUtil.dummyNetwork",
+    "hdCoin": 148,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "XMY - Myriadcoin",
+    "network": "myriadcoin",
+    "hdCoin": 90,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "XRP - Ripple",
+    "network": "bitcoin",
+    "hdCoin": 144,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "XVC - Vcash",
+    "network": "vcash",
+    "hdCoin": 127,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "XVG - Verge",
+    "network": "verge",
+    "hdCoin": 77,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "XUEZ - Xuez",
+    "network": "xuez",
+    "hdCoin": 225,
+    "bip49available": true,
+    "segwitAvailable": false
+  },
+  {
+    "name": "XWCC - Whitecoin Classic",
+    "network": "whitecoin",
+    "hdCoin": 155,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "XZC - Zcoin (rebranded to Firo)",
+    "network": "zcoin",
+    "hdCoin": 136,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ZBC - ZooBlockchain",
+    "network": "zoobc",
+    "hdCoin": 883,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ZCL - Zclassic",
+    "network": "zclassic",
+    "hdCoin": 147,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ZEC - Zcash",
+    "network": "zcash",
+    "hdCoin": 133,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "ZEN - Horizen",
+    "network": "zencash",
+    "hdCoin": 121,
+    "bip49available": true,
+    "segwitAvailable": true
+  },
+  {
+    "name": "XWC - Whitecoin",
+    "network": "bitcoin",
+    "hdCoin": 559,
+    "bip49available": true,
+    "segwitAvailable": true
+  }
+]
