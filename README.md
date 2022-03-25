@@ -4,27 +4,54 @@ A tool for converting BIP39 mnemonic phrases to addresses and private keys, crea
 
 It's inspired by [iancoleman/bip39](https://github.com/iancoleman/bip39).
 
+## Features
+
 - [x] generate mnemonic
 - [x] generate addresses and private keys
 - [ ] create and sign transactions
 
-## More info
+## Installation
 
-**BIP39** Mnemonic code for generating deterministic keys  
-Read more at the [official BIP39 spec](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
+Download a binary from the [releases page](https://github.com/keng42/xwallet/releases)
+and place it in a directory in your $PATH.
 
-**BIP32** Hierarchical Deterministic Wallets  
-Read more at the [official BIP32 spec](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)  
-See the demo at [bip32.org](bip32.org)
+### Go users
 
-**BIP44** Multi-Account Hierarchy for Deterministic Wallets  
-Read more at the [official BIP44 spec](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
+```
+go get github.com/keng42/xwallet
+```
 
-**BIP49** Derivation scheme for P2WPKH-nested-in-P2SH based accounts  
-Read more at the [official BIP49 spec](https://github.com/bitcoin/bips/blob/master/bip-0049.mediawiki)
+## CLI Usage
 
-**BIP85** Deterministic Entropy From BIP32 Keychains  
-Read more at the [official BIP85 spec](https://github.com/bitcoin/bips/blob/master/bip-0085.mediawiki)
+### Display supported networks
+
+```sh
+xwallet network ls
+```
+
+### Generate random mnemonic
+
+```sh
+xwallet mnemonic new
+
+# specify words length
+xwallet mnemonic new --words=24
+```
+
+### Generate new addresses
+
+```sh
+xwallet address new
+
+# specify options
+xwallet address new \
+  --network="btc" \
+  --mnemonic="term mushroom resemble heavy calm tribe leader aim coyote polar during neglect" \
+  --path="bip44" \
+  --start=0 \
+  --end=2 \
+  --harden=false
+```
 
 ## Networks support address generation
 
@@ -232,3 +259,21 @@ Read more at the [official BIP85 spec](https://github.com/bitcoin/bips/blob/mast
 - [ ] GRS - Groestlcoin Testnet
 - [ ] NAS - Nebulas
 - [ ] ZBC - ZooBlockchain
+
+## More info
+
+**BIP39** Mnemonic code for generating deterministic keys  
+Read more at the [official BIP39 spec](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki)
+
+**BIP32** Hierarchical Deterministic Wallets  
+Read more at the [official BIP32 spec](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)  
+See the demo at [bip32.org](bip32.org)
+
+**BIP44** Multi-Account Hierarchy for Deterministic Wallets  
+Read more at the [official BIP44 spec](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
+
+**BIP49** Derivation scheme for P2WPKH-nested-in-P2SH based accounts  
+Read more at the [official BIP49 spec](https://github.com/bitcoin/bips/blob/master/bip-0049.mediawiki)
+
+**BIP85** Deterministic Entropy From BIP32 Keychains  
+Read more at the [official BIP85 spec](https://github.com/bitcoin/bips/blob/master/bip-0085.mediawiki)
