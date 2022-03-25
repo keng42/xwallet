@@ -1,0 +1,61 @@
+name: Build and Create Github Release
+
+on:
+  push:
+    branches: [$default-branch]
+    tags: ["v*.*.*"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get version
+        id: get_version
+        run: echo ::set-output name=version::${GITHUB_REF/refs\/tags\//}
+
+      # set-output Truncates Multiline Strings
+      # https://github.community/t/set-output-truncates-multiline-strings/16852/3
+      # - name: Get release note
+      #   id: get_release_note
+      #   run: |
+      #     mkdir -p ./tmp && cd ./tmp
+      #     curl -L https://github.com/git-chglog/git-chglog/releases/download/v0.15.1/git-chglog_0.15.1_linux_amd64.tar.gz -o git-chglog.tar.gz
+      #     tar zxvf git-chglog.tar.gz
+      #     cd ..
+      #     note=`./tmp/git-chglog --template=".chglog/RELEASE.tpl.md" "${{ steps.get_version.outputs.VERSION }}"`
+      #     note="${note//'%'/'%25'}"
+      #     note="${note//$'\n'/'%0A'}"
+      #     note="${note//$'\r'/'%0D'}"
+      #     echo ::set-output name=note::${note}
+      - name: Get release note
+        id: get_release_note
+        run: |
+          note=`cat RELEASELOG.md`
+          note="${note//'%'/'%25'}"
+          note="${note//$'\n'/'%0A'}"
+          note="${note//$'\r'/'%0D'}"
+          echo ::set-output name=note::${note}
+          echo ${note}
+
+      - name: Set up Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.18
+
+      - name: Build
+        run: bash ./scripts/build.sh ${{ steps.get_version.outputs.VERSION }}
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          body: "${{ steps.get_release_note.outputs.note }}"
+          prerelease: false
+          files: |
+            ./build/*.zip
+            ./build/*.tar.gz
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
