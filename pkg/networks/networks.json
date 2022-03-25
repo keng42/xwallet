@@ -1,1437 +1,1232 @@
 [
   {
     "name": "AC - Asiacoin",
+    "symbol": "ac",
     "network": "asiacoin",
-    "hdCoin": 51,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 51
   },
   {
     "name": "ACC - Adcoin",
+    "symbol": "acc",
     "network": "adcoin",
-    "hdCoin": 161,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 161
   },
   {
     "name": "AGM - Argoneum",
+    "symbol": "agm",
     "network": "argoneum",
-    "hdCoin": 421,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 421
   },
   {
     "name": "ARYA - Aryacoin",
+    "symbol": "arya",
     "network": "aryacoin",
-    "hdCoin": 357,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 357
   },
   {
     "name": "ATOM - Cosmos Hub",
+    "symbol": "atom",
     "network": "bitcoin",
-    "hdCoin": 118,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 118
   },
   {
     "name": "AUR - Auroracoin",
+    "symbol": "aur",
     "network": "auroracoin",
-    "hdCoin": 85,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 85
   },
   {
     "name": "AXE - Axe",
+    "symbol": "axe",
     "network": "axe",
-    "hdCoin": 4242,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 4242
   },
   {
     "name": "ANON - ANON",
+    "symbol": "anon",
     "network": "anon",
-    "hdCoin": 220,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 220
   },
   {
     "name": "BOLI - Bolivarcoin",
+    "symbol": "boli",
     "network": "bolivarcoin",
-    "hdCoin": 278,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 278
   },
   {
     "name": "BCA - Bitcoin Atom",
+    "symbol": "bca",
     "network": "atom",
-    "hdCoin": 185,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 185
   },
   {
     "name": "BCH - Bitcoin Cash",
+    "symbol": "bch",
     "network": "",
-    "hdCoin": 145,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 145
   },
   {
     "name": "BEET - Beetlecoin",
+    "symbol": "beet",
     "network": "beetlecoin",
-    "hdCoin": 800,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 800
   },
   {
     "name": "BELA - Belacoin",
+    "symbol": "bela",
     "network": "belacoin",
-    "hdCoin": 73,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 73
   },
   {
     "name": "BLK - BlackCoin",
+    "symbol": "blk",
     "network": "blackcoin",
-    "hdCoin": 10,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 10
   },
   {
     "name": "BND - Blocknode",
+    "symbol": "bnd",
     "network": "blocknode",
-    "hdCoin": 2941,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 2941
   },
   {
     "name": "tBND - Blocknode Testnet",
+    "symbol": "tbnd",
     "network": "blocknode_testnet",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "BRIT - Britcoin",
+    "symbol": "brit",
     "network": "britcoin",
-    "hdCoin": 70,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 70
   },
   {
     "name": "BSD - Bitsend",
+    "symbol": "bsd",
     "network": "bitsend",
-    "hdCoin": 91,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 91
   },
   {
     "name": "BST - BlockStamp",
+    "symbol": "bst",
     "network": "blockstamp",
-    "hdCoin": 254,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 254
   },
   {
     "name": "BTA - Bata",
+    "symbol": "bta",
     "network": "bata",
-    "hdCoin": 89,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 89
   },
   {
     "name": "BTC - Bitcoin",
+    "symbol": "btc",
     "network": "bitcoin",
-    "hdCoin": 0,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 0
   },
   {
     "name": "BTC - Bitcoin RegTest",
+    "symbol": "btcreg",
     "network": "regtest",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "BTC - Bitcoin Testnet",
+    "symbol": "btct",
     "network": "testnet",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "BITG - Bitcoin Green",
+    "symbol": "bitg",
     "network": "bitcoingreen",
-    "hdCoin": 222,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 222
   },
   {
     "name": "BTCP - Bitcoin Private",
+    "symbol": "btcp",
     "network": "bitcoinprivate",
-    "hdCoin": 183,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 183
   },
   {
     "name": "BTCPt - Bitcoin Private Testnet",
+    "symbol": "btcpt",
     "network": "bitcoinprivatetestnet",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "BSC - Binance Smart Chain",
+    "symbol": "bsc",
     "network": "bitcoin",
-    "hdCoin": 60,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 60
   },
   {
     "name": "BSV - BitcoinSV",
+    "symbol": "bsv",
     "network": "bitcoinsv",
-    "hdCoin": 236,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 236
   },
   {
     "name": "BTCZ - Bitcoinz",
+    "symbol": "btcz",
     "network": "bitcoinz",
-    "hdCoin": 177,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 177
   },
   {
     "name": "BTDX - BitCloud",
+    "symbol": "btdx",
     "network": "bitcloud",
-    "hdCoin": 218,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 218
   },
   {
     "name": "BTG - Bitcoin Gold",
+    "symbol": "btg",
     "network": "bgold",
-    "hdCoin": 156,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 156
   },
   {
     "name": "BTX - Bitcore",
+    "symbol": "btx",
     "network": "bitcore",
-    "hdCoin": 160,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 160
   },
   {
     "name": "CCN - Cannacoin",
+    "symbol": "ccn",
     "network": "cannacoin",
-    "hdCoin": 19,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 19
   },
   {
     "name": "CESC - Cryptoescudo",
+    "symbol": "cesc",
     "network": "cannacoin",
-    "hdCoin": 111,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 111
   },
   {
     "name": "CDN - Canadaecoin",
+    "symbol": "cdn",
     "network": "canadaecoin",
-    "hdCoin": 34,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 34
   },
   {
     "name": "CLAM - Clams",
+    "symbol": "clam",
     "network": "clam",
-    "hdCoin": 23,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 23
   },
   {
     "name": "CLO - Callisto",
+    "symbol": "clo",
     "network": "bitcoin",
-    "hdCoin": 820,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 820
   },
   {
     "name": "CLUB - Clubcoin",
+    "symbol": "club",
     "network": "clubcoin",
-    "hdCoin": 79,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 79
   },
   {
     "name": "CMP - Compcoin",
+    "symbol": "cmp",
     "network": "compcoin",
-    "hdCoin": 71,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 71
   },
   {
     "name": "CPU - CPUchain",
+    "symbol": "cpu",
     "network": "cpuchain",
-    "hdCoin": 363,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 363
   },
   {
     "name": "CRAVE - Crave",
+    "symbol": "crave",
     "network": "crave",
-    "hdCoin": 186,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 186
   },
   {
     "name": "CRP - CranePay",
+    "symbol": "crp",
     "network": "cranepay",
-    "hdCoin": 2304,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 2304
   },
   {
     "name": "CRW - Crown (Legacy)",
+    "symbol": "crwl",
     "network": "crown",
-    "hdCoin": 72,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 72
   },
   {
     "name": "CRW - Crown",
+    "symbol": "crw",
     "network": "crown",
-    "hdCoin": 72,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 72
   },
   {
     "name": "CSC - CasinoCoin",
+    "symbol": "csc",
     "network": "bitcoin",
-    "hdCoin": 359,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 359
   },
   {
     "name": "DASH - Dash",
+    "symbol": "dash",
     "network": "dash",
-    "hdCoin": 5,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 5
   },
   {
     "name": "DASH - Dash Testnet",
+    "symbol": "dasht",
     "network": "dashtn",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "DFC - Defcoin",
+    "symbol": "dfc",
     "network": "defcoin",
-    "hdCoin": 1337,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1337
   },
   {
     "name": "DGB - Digibyte",
+    "symbol": "dgb",
     "network": "digibyte",
-    "hdCoin": 20,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 20
   },
   {
     "name": "DGC - Digitalcoin",
+    "symbol": "dgc",
     "network": "digitalcoin",
-    "hdCoin": 18,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 18
   },
   {
     "name": "DIVI - DIVI",
+    "symbol": "divi",
     "network": "divi",
-    "hdCoin": 301,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 301
   },
   {
     "name": "DIVI - DIVI Testnet",
+    "symbol": "divit",
     "network": "divitestnet",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "DMD - Diamond",
+    "symbol": "dmd",
     "network": "diamond",
-    "hdCoin": 152,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 152
   },
   {
     "name": "DNR - Denarius",
+    "symbol": "dnr",
     "network": "denarius",
-    "hdCoin": 116,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 116
   },
   {
     "name": "DOGE - Dogecoin",
+    "symbol": "doge",
     "network": "dogecoin",
-    "hdCoin": 3,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 3
   },
   {
     "name": "DOGEt - Dogecoin Testnet",
+    "symbol": "doget",
     "network": "dogecointestnet",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "DXN - DEXON",
+    "symbol": "dxn",
     "network": "bitcoin",
-    "hdCoin": 237,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 237
   },
   {
     "name": "ECN - Ecoin",
+    "symbol": "ecn",
     "network": "ecoin",
-    "hdCoin": 115,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 115
   },
   {
     "name": "EDRC - Edrcoin",
+    "symbol": "edrc",
     "network": "edrcoin",
-    "hdCoin": 56,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 56
   },
   {
     "name": "EFL - Egulden",
+    "symbol": "efl",
     "network": "egulden",
-    "hdCoin": 78,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 78
   },
   {
     "name": "ELA - Elastos",
+    "symbol": "ela",
     "network": "elastos",
-    "hdCoin": 2305,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 2305
   },
   {
     "name": "ELLA - Ellaism",
+    "symbol": "ella",
     "network": "bitcoin",
-    "hdCoin": 163,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 163
   },
   {
     "name": "EMC2 - Einsteinium",
+    "symbol": "emc2",
     "network": "einsteinium",
-    "hdCoin": 41,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 41
   },
   {
     "name": "ERC - Europecoin",
+    "symbol": "erc",
     "network": "europecoin",
-    "hdCoin": 151,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 151
   },
   {
     "name": "EOS - EOSIO",
+    "symbol": "eos",
     "network": "bitcoin",
-    "hdCoin": 194,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 194
   },
   {
     "name": "ERE - EtherCore",
+    "symbol": "ere",
     "network": "bitcoin",
-    "hdCoin": 466,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 466
   },
   {
     "name": "ESN - Ethersocial Network",
+    "symbol": "esn",
     "network": "bitcoin",
-    "hdCoin": 31102,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 31102
   },
   {
     "name": "ETC - Ethereum Classic",
+    "symbol": "etc",
     "network": "bitcoin",
-    "hdCoin": 61,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 61
   },
   {
     "name": "ETH - Ethereum",
+    "symbol": "eth",
     "network": "bitcoin",
-    "hdCoin": 60,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 60
   },
   {
     "name": "EWT - EnergyWeb",
+    "symbol": "ewt",
     "network": "bitcoin",
-    "hdCoin": 246,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 246
   },
   {
     "name": "EXCL - Exclusivecoin",
+    "symbol": "excl",
     "network": "exclusivecoin",
-    "hdCoin": 190,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 190
   },
   {
     "name": "EXCC - ExchangeCoin",
+    "symbol": "excc",
     "network": "exchangecoin",
-    "hdCoin": 0,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 0
   },
   {
     "name": "EXP - Expanse",
+    "symbol": "exp",
     "network": "bitcoin",
-    "hdCoin": 40,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 40
   },
   {
     "name": "FIO - Foundation for Interwallet Operability",
+    "symbol": "fio",
     "network": "bitcoin",
-    "hdCoin": 235,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 235
   },
   {
     "name": "FIRO - Firo (Zcoin rebrand)",
+    "symbol": "firo",
     "network": "firo",
-    "hdCoin": 136,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 136
   },
   {
     "name": "FIX - FIX",
+    "symbol": "fix",
     "network": "fix",
-    "hdCoin": 336,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 336
   },
   {
     "name": "FIX - FIX Testnet",
+    "symbol": "fixt",
     "network": "fixtestnet",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "FJC - Fujicoin",
+    "symbol": "fjc",
     "network": "fujicoin",
-    "hdCoin": 75,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 75
   },
   {
     "name": "FLASH - Flashcoin",
+    "symbol": "flash",
     "network": "flashcoin",
-    "hdCoin": 120,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 120
   },
   {
     "name": "FRST - Firstcoin",
+    "symbol": "frst",
     "network": "firstcoin",
-    "hdCoin": 167,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 167
   },
   {
     "name": "FTC - Feathercoin",
+    "symbol": "ftc",
     "network": "feathercoin",
-    "hdCoin": 8,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 8
   },
   {
     "name": "GAME - GameCredits",
+    "symbol": "game",
     "network": "game",
-    "hdCoin": 101,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 101
   },
   {
     "name": "GBX - Gobyte",
+    "symbol": "gbx",
     "network": "gobyte",
-    "hdCoin": 176,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 176
   },
   {
     "name": "GCR - GCRCoin",
+    "symbol": "gcr",
     "network": "gcr",
-    "hdCoin": 79,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 79
   },
   {
     "name": "GRC - Gridcoin",
+    "symbol": "grc",
     "network": "gridcoin",
-    "hdCoin": 84,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 84
   },
   {
     "name": "GRS - Groestlcoin",
+    "symbol": "grs",
     "network": "groestlcoin",
-    "hdCoin": 17,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 17
   },
   {
     "name": "GRS - Groestlcoin Testnet",
+    "symbol": "grst",
     "network": "groestlcointestnet",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "HNS - Handshake",
+    "symbol": "hns",
     "network": "",
-    "hdCoin": 5353,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 5353
   },
   {
     "name": "HNC - Helleniccoin",
+    "symbol": "hnc",
     "network": "helleniccoin",
-    "hdCoin": 168,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 168
   },
   {
     "name": "HUSH - Hush (Legacy)",
+    "symbol": "hush",
     "network": "hush",
-    "hdCoin": 197,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 197
   },
   {
     "name": "HUSH - Hush3",
+    "symbol": "hush3",
     "network": "hush3",
-    "hdCoin": 197,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 197
   },
   {
     "name": "INSN - Insane",
+    "symbol": "insn",
     "network": "insane",
-    "hdCoin": 68,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 68
   },
   {
     "name": "IOP - Iop",
+    "symbol": "iop",
     "network": "iop",
-    "hdCoin": 66,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 66
   },
   {
     "name": "IOV - Starname",
+    "symbol": "iov",
     "network": "bitcoin",
-    "hdCoin": 234,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 234
   },
   {
     "name": "IXC - Ixcoin",
+    "symbol": "ixc",
     "network": "ixcoin",
-    "hdCoin": 86,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 86
   },
   {
     "name": "JBS - Jumbucks",
+    "symbol": "jbs",
     "network": "jumbucks",
-    "hdCoin": 26,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 26
   },
   {
     "name": "KMD - Komodo",
+    "symbol": "kmd",
     "network": "komodo",
-    "hdCoin": 141,
-    "bip49available": false,
-    "segwitAvailable": true
+    "hdCoin": 141
   },
   {
     "name": "KOBO - Kobocoin",
+    "symbol": "kobo",
     "network": "kobocoin",
-    "hdCoin": 196,
-    "bip49available": false,
-    "segwitAvailable": true
+    "hdCoin": 196
   },
   {
     "name": "LBC - Library Credits",
+    "symbol": "lbc",
     "network": "lbry",
-    "hdCoin": 140,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 140
   },
   {
     "name": "LCC - Litecoincash",
+    "symbol": "lcc",
     "network": "litecoincash",
-    "hdCoin": 192,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 192
   },
   {
     "name": "LDCN - Landcoin",
+    "symbol": "ldcn",
     "network": "landcoin",
-    "hdCoin": 63,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 63
   },
   {
     "name": "LINX - Linx",
+    "symbol": "linx",
     "network": "linx",
-    "hdCoin": 114,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 114
   },
   {
     "name": "LKR - Lkrcoin",
+    "symbol": "lkr",
     "network": "lkrcoin",
-    "hdCoin": 557,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 557
   },
   {
     "name": "LTC - Litecoin",
+    "symbol": "ltc",
     "network": "litecoin",
-    "hdCoin": 2,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 2
   },
   {
     "name": "LTCt - Litecoin Testnet",
+    "symbol": "ltct",
     "network": "litecointestnet",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "LTZ - LitecoinZ",
+    "symbol": "ltz",
     "network": "litecoinz",
-    "hdCoin": 221,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 221
   },
   {
     "name": "LUNA - Terra",
+    "symbol": "luna",
     "network": "bitcoin",
-    "hdCoin": 330,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 330
   },
   {
     "name": "LYNX - Lynx",
+    "symbol": "lynx",
     "network": "lynx",
-    "hdCoin": 191,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 191
   },
   {
     "name": "MAZA - Maza",
+    "symbol": "maza",
     "network": "maza",
-    "hdCoin": 13,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 13
   },
   {
     "name": "MEC - Megacoin",
+    "symbol": "mec",
     "network": "megacoin",
-    "hdCoin": 217,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 217
   },
   {
     "name": "MIX - MIX",
+    "symbol": "mix",
     "network": "bitcoin",
-    "hdCoin": 76,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 76
   },
   {
     "name": "MNX - Minexcoin",
+    "symbol": "mnx",
     "network": "minexcoin",
-    "hdCoin": 182,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 182
   },
   {
     "name": "MONA - Monacoin",
+    "symbol": "mona",
     "network": "monacoin",
-    "hdCoin": 22,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 22
   },
   {
     "name": "MONK - Monkey Project",
+    "symbol": "monk",
     "network": "monkeyproject",
-    "hdCoin": 214,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 214
   },
   {
     "name": "MOAC - MOAC",
+    "symbol": "moac",
     "network": "bitcoin",
-    "hdCoin": 314,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 314
   },
   {
     "name": "MUSIC - Musicoin",
+    "symbol": "music",
     "network": "bitcoin",
-    "hdCoin": 184,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 184
   },
   {
     "name": "NANO - Nano",
+    "symbol": "nano",
     "network": "nanoUtil.dummyNetwork",
-    "hdCoin": 165,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 165
   },
   {
     "name": "NAV - Navcoin",
+    "symbol": "nav",
     "network": "navcoin",
-    "hdCoin": 130,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 130
   },
   {
     "name": "NAS - Nebulas",
+    "symbol": "nas",
     "network": "bitcoin",
-    "hdCoin": 2718,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 2718
   },
   {
     "name": "NEBL - Neblio",
+    "symbol": "nebl",
     "network": "neblio",
-    "hdCoin": 146,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 146
   },
   {
     "name": "NEOS - Neoscoin",
+    "symbol": "neos",
     "network": "neoscoin",
-    "hdCoin": 25,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 25
   },
   {
     "name": "NIX - NIX Platform",
+    "symbol": "nix",
     "network": "nix",
-    "hdCoin": 400,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 400
   },
   {
     "name": "NLG - Gulden",
+    "symbol": "nlg",
     "network": "gulden",
-    "hdCoin": 87,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 87
   },
   {
     "name": "NMC - Namecoin",
+    "symbol": "nmc",
     "network": "namecoin",
-    "hdCoin": 7,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 7
   },
   {
     "name": "NRG - Energi",
+    "symbol": "nrg",
     "network": "energi",
-    "hdCoin": 204,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 204
   },
   {
     "name": "NRO - Neurocoin",
+    "symbol": "nro",
     "network": "neurocoin",
-    "hdCoin": 110,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 110
   },
   {
     "name": "NSR - Nushares",
+    "symbol": "nsr",
     "network": "nushares",
-    "hdCoin": 11,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 11
   },
   {
     "name": "NYC - Newyorkc",
+    "symbol": "nyc",
     "network": "newyorkc",
-    "hdCoin": 179,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 179
   },
   {
     "name": "NVC - Novacoin",
+    "symbol": "nvc",
     "network": "novacoin",
-    "hdCoin": 50,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 50
   },
   {
     "name": "OK - Okcash",
+    "symbol": "ok",
     "network": "okcash",
-    "hdCoin": 69,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 69
   },
   {
     "name": "OMNI - Omnicore",
+    "symbol": "omni",
     "network": "omnicore",
-    "hdCoin": 200,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 200
   },
   {
     "name": "ONION - DeepOnion",
+    "symbol": "onion",
     "network": "deeponion",
-    "hdCoin": 305,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 305
   },
   {
     "name": "ONX - Onixcoin",
+    "symbol": "onx",
     "network": "onixcoin",
-    "hdCoin": 174,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 174
   },
   {
     "name": "PART - Particl",
+    "symbol": "part",
     "network": "particl",
-    "hdCoin": 44,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 44
   },
   {
     "name": "PHR - Phore",
+    "symbol": "phr",
     "network": "phore",
-    "hdCoin": 444,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 444
   },
   {
     "name": "PINK - Pinkcoin",
+    "symbol": "pink",
     "network": "pinkcoin",
-    "hdCoin": 117,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 117
   },
   {
     "name": "PIRL - Pirl",
+    "symbol": "pirl",
     "network": "bitcoin",
-    "hdCoin": 164,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 164
   },
   {
     "name": "PIVX - PIVX",
+    "symbol": "pivx",
     "network": "pivx",
-    "hdCoin": 119,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 119
   },
   {
     "name": "PIVX - PIVX Testnet",
+    "symbol": "pivxt",
     "network": "pivxtestnet",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "POA - Poa",
+    "symbol": "poa",
     "network": "bitcoin",
-    "hdCoin": 178,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 178
   },
   {
     "name": "POSW - POSWcoin",
+    "symbol": "posw",
     "network": "poswcoin",
-    "hdCoin": 47,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 47
   },
   {
     "name": "POT - Potcoin",
+    "symbol": "pot",
     "network": "potcoin",
-    "hdCoin": 81,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 81
   },
   {
     "name": "PPC - Peercoin",
+    "symbol": "ppc",
     "network": "peercoin",
-    "hdCoin": 6,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 6
   },
   {
     "name": "PRJ - ProjectCoin",
+    "symbol": "prj",
     "network": "projectcoin",
-    "hdCoin": 533,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 533
   },
   {
     "name": "PSB - Pesobit",
+    "symbol": "psb",
     "network": "pesobit",
-    "hdCoin": 62,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 62
   },
   {
     "name": "PUT - Putincoin",
+    "symbol": "put",
     "network": "putincoin",
-    "hdCoin": 122,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 122
   },
   {
     "name": "RPD - Rapids",
+    "symbol": "rpd",
     "network": "rapids",
-    "hdCoin": 320,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 320
   },
   {
     "name": "RVN - Ravencoin",
+    "symbol": "rvn",
     "network": "ravencoin",
-    "hdCoin": 175,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 175
   },
   {
     "name": "R-BTC - RSK",
+    "symbol": "rsk",
     "network": "rsk",
-    "hdCoin": 137,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 137
   },
   {
     "name": "tR-BTC - RSK Testnet",
+    "symbol": "tr",
     "network": "rsktestnet",
-    "hdCoin": 37310,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 37310
   },
   {
     "name": "RBY - Rubycoin",
+    "symbol": "rby",
     "network": "rubycoin",
-    "hdCoin": 16,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 16
   },
   {
     "name": "RDD - Reddcoin",
+    "symbol": "rdd",
     "network": "reddcoin",
-    "hdCoin": 4,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 4
   },
   {
     "name": "RITO - Ritocoin",
+    "symbol": "rito",
     "network": "ritocoin",
-    "hdCoin": 19169,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 19169
   },
   {
     "name": "RUNE - THORChain",
+    "symbol": "rune",
     "network": "bitcoin",
-    "hdCoin": 931,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 931
   },
   {
     "name": "RVR - RevolutionVR",
+    "symbol": "rvr",
     "network": "revolutionvr",
-    "hdCoin": 129,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 129
   },
   {
     "name": "SAFE - Safecoin",
+    "symbol": "safe",
     "network": "safecoin",
-    "hdCoin": 19165,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 19165
   },
   {
     "name": "SCRIBE - Scribe",
+    "symbol": "scribe",
     "network": "scribe",
-    "hdCoin": 545,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 545
   },
   {
     "name": "SLS - Salus",
+    "symbol": "sls",
     "network": "salus",
-    "hdCoin": 63,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 63
   },
   {
     "name": "SDC - ShadowCash",
+    "symbol": "sdc",
     "network": "shadow",
-    "hdCoin": 35,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 35
   },
   {
     "name": "SDC - ShadowCash Testnet",
+    "symbol": "sdct",
     "network": "shadowtn",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "SLM - Slimcoin",
+    "symbol": "slm",
     "network": "slimcoin",
-    "hdCoin": 63,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 63
   },
   {
     "name": "SLM - Slimcoin Testnet",
+    "symbol": "slmt",
     "network": "slimcointn",
-    "hdCoin": 111,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 111
   },
   {
     "name": "SLP - Simple Ledger Protocol",
+    "symbol": "slp",
     "network": "",
-    "hdCoin": 245,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 245
   },
   {
     "name": "SLR - Solarcoin",
+    "symbol": "slr",
     "network": "solarcoin",
-    "hdCoin": 58,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 58
   },
   {
     "name": "SMLY - Smileycoin",
+    "symbol": "smly",
     "network": "smileycoin",
-    "hdCoin": 59,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 59
   },
   {
     "name": "STASH - Stash",
+    "symbol": "stash",
     "network": "stash",
-    "hdCoin": 49344,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 49344
   },
   {
     "name": "STASH - Stash Testnet",
+    "symbol": "stasht",
     "network": "stashtn",
-    "hdCoin": 51966,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 51966
   },
   {
     "name": "STRAT - Stratis",
+    "symbol": "strat",
     "network": "stratis",
-    "hdCoin": 105,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 105
   },
   {
     "name": "SUGAR - Sugarchain",
+    "symbol": "sugar",
     "network": "sugarchain",
-    "hdCoin": 408,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 408
   },
   {
     "name": "TUGAR - Sugarchain Testnet",
+    "symbol": "tugar",
     "network": "sugarchaintestnet",
-    "hdCoin": 408,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 408
   },
   {
     "name": "SWTC - Jingtum",
+    "symbol": "swtc",
     "network": "bitcoin",
-    "hdCoin": 315,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 315
   },
   {
     "name": "TSTRAT - Stratis Testnet",
+    "symbol": "tstrat",
     "network": "stratistest",
-    "hdCoin": 105,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 105
   },
   {
     "name": "SYS - Syscoin",
+    "symbol": "sys",
     "network": "syscoin",
-    "hdCoin": 57,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 57
   },
   {
     "name": "THC - Hempcoin",
+    "symbol": "thc",
     "network": "hempcoin",
-    "hdCoin": 113,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 113
   },
   {
     "name": "THT - Thought",
+    "symbol": "tht",
     "network": "thought",
-    "hdCoin": 1618,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1618
   },
   {
     "name": "TOA - Toa",
+    "symbol": "toa",
     "network": "toa",
-    "hdCoin": 159,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 159
   },
   {
     "name": "TRX - Tron",
+    "symbol": "trx",
     "network": "",
-    "hdCoin": 195,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 195
   },
   {
     "name": "TWINS - TWINS",
+    "symbol": "twins",
     "network": "twins",
-    "hdCoin": 970,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 970
   },
   {
     "name": "TWINS - TWINS Testnet",
+    "symbol": "twinst",
     "network": "twinstestnet",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "USC - Ultimatesecurecash",
+    "symbol": "usc",
     "network": "ultimatesecurecash",
-    "hdCoin": 112,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 112
   },
   {
     "name": "USNBT - NuBits",
+    "symbol": "usnbt",
     "network": "nubits",
-    "hdCoin": 12,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 12
   },
   {
     "name": "UNO - Unobtanium",
+    "symbol": "uno",
     "network": "unobtanium",
-    "hdCoin": 92,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 92
   },
   {
     "name": "VASH - Vpncoin",
+    "symbol": "vash",
     "network": "vpncoin",
-    "hdCoin": 33,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 33
   },
   {
     "name": "VET - VeChain",
+    "symbol": "vet",
     "network": "bitcoin",
-    "hdCoin": 818,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 818
   },
   {
     "name": "VIA - Viacoin",
+    "symbol": "via",
     "network": "viacoin",
-    "hdCoin": 14,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 14
   },
   {
     "name": "VIA - Viacoin Testnet",
+    "symbol": "viat",
     "network": "viacointestnet",
-    "hdCoin": 1,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 1
   },
   {
     "name": "VIVO - Vivo",
+    "symbol": "vivo",
     "network": "vivo",
-    "hdCoin": 166,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 166
   },
   {
     "name": "VTC - Vertcoin",
+    "symbol": "vtc",
     "network": "vertcoin",
-    "hdCoin": 28,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 28
   },
   {
     "name": "WGR - Wagerr",
+    "symbol": "wgr",
     "network": "wagerr",
-    "hdCoin": 7825266,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 7825266
   },
   {
     "name": "WC - Wincoin",
+    "symbol": "wc",
     "network": "wincoin",
-    "hdCoin": 181,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 181
   },
   {
     "name": "XAX - Artax",
+    "symbol": "xax",
     "network": "artax",
-    "hdCoin": 219,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 219
   },
   {
     "name": "XBC - Bitcoinplus",
+    "symbol": "xbc",
     "network": "bitcoinplus",
-    "hdCoin": 65,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 65
   },
   {
     "name": "XLM - Stellar",
+    "symbol": "xlm",
     "network": "stellarUtil.dummyNetwork",
-    "hdCoin": 148,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 148
   },
   {
     "name": "XMY - Myriadcoin",
+    "symbol": "xmy",
     "network": "myriadcoin",
-    "hdCoin": 90,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 90
   },
   {
     "name": "XRP - Ripple",
+    "symbol": "xrp",
     "network": "bitcoin",
-    "hdCoin": 144,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 144
   },
   {
     "name": "XVC - Vcash",
+    "symbol": "xvc",
     "network": "vcash",
-    "hdCoin": 127,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 127
   },
   {
     "name": "XVG - Verge",
+    "symbol": "xvg",
     "network": "verge",
-    "hdCoin": 77,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 77
   },
   {
     "name": "XUEZ - Xuez",
+    "symbol": "xuez",
     "network": "xuez",
-    "hdCoin": 225,
-    "bip49available": true,
-    "segwitAvailable": false
+    "hdCoin": 225
   },
   {
     "name": "XWCC - Whitecoin Classic",
+    "symbol": "xwcc",
     "network": "whitecoin",
-    "hdCoin": 155,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 155
   },
   {
     "name": "XZC - Zcoin (rebranded to Firo)",
+    "symbol": "xzc",
     "network": "zcoin",
-    "hdCoin": 136,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 136
   },
   {
     "name": "ZBC - ZooBlockchain",
+    "symbol": "zbc",
     "network": "zoobc",
-    "hdCoin": 883,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 883
   },
   {
     "name": "ZCL - Zclassic",
+    "symbol": "zcl",
     "network": "zclassic",
-    "hdCoin": 147,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 147
   },
   {
     "name": "ZEC - Zcash",
+    "symbol": "zec",
     "network": "zcash",
-    "hdCoin": 133,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 133
   },
   {
     "name": "ZEN - Horizen",
+    "symbol": "zen",
     "network": "zencash",
-    "hdCoin": 121,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 121
   },
   {
     "name": "XWC - Whitecoin",
+    "symbol": "xwc",
     "network": "bitcoin",
-    "hdCoin": 559,
-    "bip49available": true,
-    "segwitAvailable": true
+    "hdCoin": 559
   }
 ]

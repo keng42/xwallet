@@ -9,11 +9,10 @@ import (
 )
 
 type Network struct {
-	Name            string `json:"name"`
-	Network         string `json:"network"`
-	HdCoin          int64  `json:"hdCoin"`
-	SegwitAvailable bool   `json:"segwitAvailable"`
-	Bip49available  bool   `json:"bip49available"`
+	Name    string `json:"name"`
+	Symbol  string `json:"symbol"`
+	Network string `json:"network"`
+	HdCoin  int64  `json:"hdCoin"`
 
 	Params Params `json:"_"`
 }
@@ -46,6 +45,7 @@ var networksjson []byte
 
 var NetworkParams map[string]Params
 var NetworksMap map[string]Network
+var NetworksSymbols map[string]Network
 var Networks []Network
 
 func init() {
@@ -62,6 +62,7 @@ func init() {
 	}
 
 	NetworksMap = make(map[string]Network, len(Networks))
+	NetworksSymbols = make(map[string]Network, len(Networks))
 
 	for i, nw := range Networks {
 		params, ok := NetworkParams[nw.Network]
@@ -72,12 +73,19 @@ func init() {
 		}
 
 		NetworksMap[nw.Name] = Networks[i]
+		if _, ok := NetworksSymbols[nw.Symbol]; ok {
+			log.Fatal(errors.New("duplicated network symbol: " + nw.Symbol))
+		}
+		NetworksSymbols[nw.Symbol] = Networks[i]
 	}
 }
 
 func New(name string) (nw Network, err error) {
 	var ok bool
 	nw, ok = NetworksMap[name]
+	if !ok {
+		nw, ok = NetworksSymbols[name]
+	}
 	if !ok {
 		err = errors.New("unknow network")
 		return
@@ -127,6 +135,10 @@ func (n *Network) IsNano() bool {
 	return n.Name == "NANO - nano"
 }
 
+func (n *Network) IsBitcoinCash() bool {
+	return n.Name == "BCH - Bitcoin Cash"
+}
+
 func (n *Network) Bip44Path() string {
 	return fmt.Sprintf("m/44'/%d'/0'/0", n.HdCoin)
 }
@@ -140,7 +152,8 @@ func (n *Network) Bip84Path() string {
 }
 
 func DisplayAll() {
+	fmt.Printf("Symbol\tName\n")
 	for _, v := range Networks {
-		fmt.Println(v.Name)
+		fmt.Printf("%s\t%s\n", v.Symbol, v.Name)
 	}
 }
