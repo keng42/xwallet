@@ -4,6 +4,12 @@ A tool for converting BIP39 mnemonic phrases to addresses and private keys, crea
 
 It's inspired by [iancoleman/bip39](https://github.com/iancoleman/bip39).
 
+[![API Reference](https://pkg.go.dev/badge/github.com/keng42/xwallet)](https://pkg.go.dev/github.com/keng42/xwallet)
+[![Build and Create Github Release](https://github.com/keng42/xwallet/actions/workflows/release.yml/badge.svg)](https://github.com/keng42/xwallet/actions/workflows/release.yml)
+[![Coverage Status](https://coveralls.io/repos/github/keng42/xwallet/badge.svg)](https://coveralls.io/github/keng42/xwallet)
+[![Go Report Card](https://goreportcard.com/badge/github.com/keng42/xwallet)](https://goreportcard.com/report/github.com/keng42/xwallet)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/keng42/xwallet/blob/master/LICENSE)
+
 ## Features
 
 - [x] generate mnemonic
