@@ -19,6 +19,7 @@ import (
 	"github.com/keng42/xwallet/pkg/networks"
 	"github.com/stellar/go/keypair"
 	"github.com/tyler-smith/go-bip32"
+	"github.com/tyler-smith/go-bip39"
 )
 
 type Wallet struct {
@@ -45,6 +46,11 @@ var ErrUnsupportedNetwork = errors.New("unsupported network")
 func (w *Wallet) NewAddress(
 	network networks.Network, path string, index uint32, segwitType SegwitType,
 ) (acc account.Account, err error) {
+
+	if !bip39.IsMnemonicValid(w.Mnemonic) {
+		err = mnemonic.ErrInvalidMnemonic
+		return
+	}
 
 	net := parseNetwork(network)
 
