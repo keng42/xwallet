@@ -2,8 +2,8 @@
 package hns
 
 import (
+	"github.com/btcsuite/btcd/btcutil"
 	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcutil"
 	"golang.org/x/crypto/blake2b"
 )
 

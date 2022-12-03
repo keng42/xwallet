@@ -4,7 +4,7 @@ package fio
 import (
 	"crypto/sha256"
 
-	"github.com/btcsuite/btcutil/base58"
+	"github.com/btcsuite/btcd/btcutil/base58"
 	"github.com/keng42/xwallet/pkg/utilities/hash"
 )
 

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/btcsuite/btcd/btcec"
+	"github.com/btcsuite/btcd/btcec/v2"
+	"github.com/btcsuite/btcd/btcutil"
 	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcutil"
 	"github.com/keng42/xwallet/pkg/mnemonic"
 	"github.com/stretchr/testify/require"
 	"github.com/tyler-smith/go-bip32"
@@ -46,7 +46,7 @@ func TestA(t *testing.T) {
 	fmt.Println("===== key0 pub hex:", hex.EncodeToString(key0.PublicKey().Key))
 	fmt.Println("===== key0 priv base58", bip32.BitcoinBase58Encoding.EncodeToString(key0.Key))
 
-	privKey, pubKey := btcec.PrivKeyFromBytes(btcec.S256(), key0.Key)
+	privKey, pubKey := btcec.PrivKeyFromBytes(key0.Key)
 	wif, err := btcutil.NewWIF(privKey, &chaincfg.MainNetParams, true)
 	require.Nil(t, err)
 
