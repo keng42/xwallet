@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/btcsuite/btcd/btcec"
+	"github.com/btcsuite/btcd/btcec/v2"
+	"github.com/btcsuite/btcd/btcutil"
 	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcutil"
 	"github.com/keng42/xwallet/pkg/account"
 	"github.com/keng42/xwallet/pkg/chains/bch"
 	"github.com/keng42/xwallet/pkg/chains/btc"
@@ -76,7 +76,7 @@ func (w *Wallet) NewAddress(
 		return
 	}
 
-	privKey, pubKey := btcec.PrivKeyFromBytes(btcec.S256(), key.Key)
+	privKey, pubKey := btcec.PrivKeyFromBytes(key.Key)
 	wif, err := btcutil.NewWIF(privKey, net.GetRaw(), true)
 	if err != nil {
 		return
@@ -188,28 +188,24 @@ func (w *Wallet) NewAddress(
 			return
 		}
 		acc.Address, err = btc.P2WPKH(acc.PublicKey, net)
-		break
 	case SEGWIT_TYPE_P2WPKH_P2SH:
 		if network.Params.P2wpkhInP2sh == nil {
 			err = errSegwit
 			return
 		}
 		acc.Address, err = btc.P2WPKHInP2SH(acc.PublicKey, net)
-		break
 	case SEGWIT_TYPE_P2WSH:
 		if network.Params.P2wsh == nil {
 			err = errSegwit
 			return
 		}
 		acc.Address, err = btc.P2WSH(acc.PublicKey, net)
-		break
 	case SEGWIT_TYPE_P2WSH_P2SH:
 		if network.Params.P2wshInP2sh == nil {
 			err = errSegwit
 			return
 		}
 		acc.Address, err = btc.P2WSHInP2SH(acc.PublicKey, net)
-		break
 	default:
 		break
 	}

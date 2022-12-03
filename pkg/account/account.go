@@ -4,7 +4,6 @@ import (
 	"crypto/ecdsa"
 	"encoding/base64"
 
-	"github.com/btcsuite/btcd/btcec"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/keng42/xwallet/pkg/chains/atom"
 	"github.com/keng42/xwallet/pkg/chains/bch"
@@ -65,7 +64,7 @@ func (acc *Account) ToRsk(chainID int) {
 }
 
 func (acc *Account) ToHandshake() (err error) {
-	acc.Address, err = hns.ConvertAddr((*btcec.PublicKey)(acc.EcdsaPub).SerializeCompressed())
+	acc.Address, err = hns.ConvertAddr(acc.PublicKey)
 	return
 }
 

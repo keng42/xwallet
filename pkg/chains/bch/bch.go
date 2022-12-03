@@ -4,8 +4,8 @@ package bch
 import (
 	"errors"
 
+	"github.com/btcsuite/btcd/btcutil"
 	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcutil"
 
 	// TODO code review
 	"github.com/keng42/bchutil"

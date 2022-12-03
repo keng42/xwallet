@@ -6,7 +6,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/btcsuite/btcutil/base58"
+	"github.com/btcsuite/btcd/btcutil/base58"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/keng42/xwallet/pkg/utilities/hash"
 )

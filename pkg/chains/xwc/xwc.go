@@ -4,7 +4,7 @@ package xwc
 import (
 	"crypto/sha512"
 
-	"github.com/btcsuite/btcutil/base58"
+	"github.com/btcsuite/btcd/btcutil/base58"
 	"github.com/keng42/xwallet/pkg/utilities/hash"
 )
 
