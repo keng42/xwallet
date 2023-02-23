@@ -42,6 +42,9 @@ const (
 
 var ErrUnsupportedNetwork = errors.New("unsupported network")
 
+// to generate addresses in bulk faster
+var cachedBip32ExtendedKey = map[string]*bip32.Key{}
+
 // NewAddress generates new address, public key and private key for specify path.
 func (w *Wallet) NewAddress(
 	network networks.Network, path string, index uint32, segwitType SegwitType,
@@ -66,8 +69,7 @@ func (w *Wallet) NewAddress(
 		}
 	}
 
-	// TODO cache keys
-	key, err := mnemonic.GetBip32ExtendedKey(w.Mnemonic, w.Password, path)
+	key, err := getCachedBip32ExtendedKey(w.Mnemonic, w.Password, path)
 	if err != nil {
 		return
 	}
@@ -256,6 +258,24 @@ func (w *Wallet) NewAddress(
 		err = ErrUnsupportedNetwork
 		return
 	}
+
+	return
+}
+
+// getCachedBip32ExtendedKey returns cached bip32ExtendedKey for given mnemonic and path,
+// if missed, created one and cache it.
+func getCachedBip32ExtendedKey(mne string, pwd string, path string) (key *bip32.Key, err error) {
+	field := fmt.Sprintf("%s|%s|%s", mne, pwd, path)
+	if key = cachedBip32ExtendedKey[field]; key != nil {
+		return
+	}
+
+	key, err = mnemonic.GetBip32ExtendedKey(mne, pwd, path)
+	if err != nil {
+		return
+	}
+
+	cachedBip32ExtendedKey[field] = key
 
 	return
 }

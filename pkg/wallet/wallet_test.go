@@ -116,3 +116,26 @@ func testNewAddress(t *testing.T, name string) {
 	require.Equal(t, addrs[1].Pubkey, info.PublicKeyText, "public key 1 not match")
 	require.Equal(t, addrs[1].Privkey, info.PrivateKeyText, "private key 1 not match")
 }
+
+func BenchmarkNewAddress(b *testing.B) {
+	b.ResetTimer()
+
+	network, ok := networks.NetworksMap["ETH - Ethereum"]
+	require.True(b, ok)
+
+	path := fmt.Sprintf("m/44'/%d'/0'/0", network.HdCoin)
+	idxBase := uint32(0)
+
+	addrs, ok := Bip44Addrs[network.Name]
+	require.True(b, ok)
+	require.GreaterOrEqual(b, len(addrs), 2)
+
+	for i := 0; i < b.N; i++ {
+		_, err := w.NewAddress(network, path, idxBase+uint32(i), wallet.SEGWIT_TYPE_DISABLE)
+		require.Nil(b, err)
+	}
+
+	// Result:
+	// with cachedBip32ExtendedKey     BenchmarkNewAddress-12    	     279	   4189567 ns/op	 2780426 B/op	   25605 allocs/op
+	// without cachedBip32ExtendedKey  BenchmarkNewAddress-12    	      96	  12289889 ns/op	 7455375 B/op	   68740 allocs/op
+}
