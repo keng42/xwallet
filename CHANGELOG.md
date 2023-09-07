@@ -2,8 +2,17 @@
 ## [Unreleased]
 
 
+<a name="v0.2.1"></a>
+## [v0.2.1] - 2023-09-07
+### Chore
+- **deps:** bump github.com/ethereum/go-ethereum from 1.11.2 to 1.12.1
+
+### Pull Requests
+- Merge pull request [#7](https://github.com/keng42/xwallet/issues/7) from keng42/dependabot/go_modules/github.com/ethereum/go-ethereum-1.12.1
+
+
 <a name="v0.2.0"></a>
-## [v0.2.0] - 2023-02-23
+## [v0.2.0] - 2023-09-05
 ### Chore
 - **deps:** update go to 1.20
 - **deps:** bump github.com/ethereum/go-ethereum
@@ -45,5 +54,6 @@
 - **wallet:** add package wallet
 
 
-[Unreleased]: https://github.com/keng42/xwallet/compare/v0.2.0...HEAD
+[Unreleased]: https://github.com/keng42/xwallet/compare/v0.2.1...HEAD
+[v0.2.1]: https://github.com/keng42/xwallet/compare/v0.2.0...v0.2.1
 [v0.2.0]: https://github.com/keng42/xwallet/compare/v0.1.0...v0.2.0

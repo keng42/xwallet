@@ -1,24 +1,12 @@
-## [v0.2.0] - 2023-02-23
+## [v0.2.1] - 2023-09-07
 
 ### Chore
 
-- **deps:** update go to 1.20
-- **deps:** bump github.com/ethereum/go-ethereum
-
-
-### Docs
-
-- **readme:** add badges
-
-
-### Feat
-
-- cache Bip32ExtendedKey to generate addresses in bulk faster
-- upgraded btcd package
+- **deps:** bump github.com/ethereum/go-ethereum from 1.11.2 to 1.12.1
 
 
 ### Pull Requests
 
-- Merge pull request [#1](https://github.com/keng42/xwallet/issues/1) from keng42/dependabot/go_modules/github.com/ethereum/go-ethereum-1.10.17
+- Merge pull request [#7](https://github.com/keng42/xwallet/issues/7) from keng42/dependabot/go_modules/github.com/ethereum/go-ethereum-1.12.1
 
 
